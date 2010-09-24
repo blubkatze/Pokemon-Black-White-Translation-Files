@@ -1,11 +1,11 @@
-N/A
-Black
-White
-Boy
-Girl
-Battle
-Trade
-City
+N/A  -- not sure how to do
+Schwarz
+Weiß
+Junge
+Mädchen
+Schlacht
+Trade  -- not done
+Stadt
 Country
 Smart
 Athletic
