@@ -4,13 +4,13 @@ Weiß
 Junge
 Mädchen
 Schlacht
-Trade  -- not done
+Tausch
 Stadt
-Country
+Land
 Smart
 Athletic
 Time
-Money
+Geld
 Looks
 Personality
 Cool
@@ -19,38 +19,38 @@ Funny
 Pokabu
 Mijumaru
 Shita-ja
-Sea
-River
-Mountain
-Class
+Meer
+Fluss
+Berg
+Klasse
 Break
-School lunch
-Family
-Friends
+Schulpause
+Familie
+Freunde
 Self
-Spring
-Summer
-Fall
+Frühling
+Sommer
+Herbst
 Winter
-Sweet
-Spicy
-Sour
+Süß
+Scharf
+Sauer
 Bitter
-Interesting
+Interessant
 Cool
 Nice
 Rich
-Battle
+Kampf
 Collect
 Story
 Pokémon
 First Language
-Math
-Science
+Mathe
+Wissenschaft
 Social Studies
 First Language
 Math
-Science
+Wissenschaft
 Social Studies
 Trainer
 Pokémon Professor
@@ -59,8 +59,8 @@ Pokémon
 Play Outside
 Shop
 Read
-Game
-Sleep
+Spiel
+Schlafen
 Pop
 Rock
 Jazz
@@ -83,20 +83,20 @@ Basketball
 Football
 Hockey
 Martial Arts
-Red
-Green
-Blue
-Yellow
-White
-Black
+Rot
+Grün
+Blau
+Gelb
+Weiß
+Schwarz
 Fitness
 Reading
-Music
-Movies
+Musik
+Filme
 Travel
 Cooking
 Fishing
-Games
+Spiele
 Student
 Office Worker
 Creator
@@ -117,30 +117,30 @@ Hachiku
 Iris
 Shaga
 Normal
-Fire
-Water
-Electricity
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
-0 - 10 hours
-10 - 20 hours
-20 - 30 hours
-30 - 40 hours
-40 - 50 hours
-50 - 60 hours
-60 - 70 hours
-70 - 80 hours
-80 - 90 hours
-90 - 100 hours
-100  hours
+Feuer
+Wasser
+Elektrizität
+Pflanze
+Eis
+Kampf
+Gift
+Boden
+Flug
+Psycho
+Käfer
+Stein
+Gest
+Drache
+Unlicht
+Stahl
+0 - 10 Stunden
+10 - 20 Stunden
+20 - 30 Stunden
+30 - 40 Stunden
+40 - 50 Stunden
+50 - 60 Stunden
+60 - 70 Stunden
+70 - 80 Stunden
+80 - 90 Stunden
+90 - 100 Stunden
+100  Stunden
