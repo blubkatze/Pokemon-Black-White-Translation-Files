@@ -1,3 +1,3 @@
-Delete all saved data?
-Once the date has been deleted, there is no way to recover it.\xf000븁\x0000 Delete the saved data anyways?
-Deleting all data.\xfffeDon't turn off power.
+Alle gespeicherten Daten löschen?
+Wenn die Daten gelöscht sind, gibt es keinen Weg sie wiederherzustellen.\xf000븁\x0000 Gespeicherte Daten trotzdem löschen?
+Lösche alle Daten.\xfffeDS nicht ausschalten.
