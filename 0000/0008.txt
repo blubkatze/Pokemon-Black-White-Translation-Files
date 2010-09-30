@@ -1,32 +1,32 @@
-Battle Videos
+Kampf Videos
 Frontier Record
 Random Match Stats
-Cancel
+Abbrechen
 Exit
-My Video
-Other Videos
-Delete Videos
-\xf000봂\x0000\xf000Ā\x0001\x0000's Video
-Empty
+Meine Video
+Andere Videos
+Videos löschen
+\xf000봂\x0000\xf000Ā\x0001\x0000s Video
+Leer
 \xf000ȃ\x0001\x0000
-Battle
+Kampf
 \xf000봂\x0000Video no.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
 \xf000봂\x0000Video no.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002 ★
-\xf000봂\x0000\xf000Ā\x0001\x0000's Profile
-Mute
-\xf000봂\x0000Birth month: \xf000ȁ\x0001\x0000
-\xf000봂\x0000Location
-\xf000봂\x0000Trainer's quote
-Data
-Profile
+\xf000봂\x0000\xf000Ā\x0001\x0000s Profile
+Lautlos
+\xf000봂\x0000Geburtsmonat: \xf000ȁ\x0001\x0000
+\xf000봂\x0000Ort
+\xf000봂\x0000Trainers Zitat
+Daten
+Profil
  
 Unregistered
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 \xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000's Video
-My video
-Other videos
+\xf000Ā\x0001\x0000s Video
+Meine video
+Andere videos
 あき
 \xf000Ā\x0001\x0000　のきろくをけす
 ランキングでさがす
@@ -36,19 +36,19 @@ Other videos
 ナンバーでさがす
 しせつでさがす
 ポケモンでさがす
-Search by Facility
-Search by Pokémon
-Search by Location
-Send Photo
-View Photo
-Send
+Suche nach Facility
+Suche nach Pokémon
+Suche nach Ort
+Sende Foto
+Foto anschauen
+Senden
 みたいポケモンを　えらんでください
 \xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
 しゃしん
-Send Box Data
-View Box Data
-Favorite
+Sende Box Daten
+Box Daten anschauen
+Favoriten
 Cool
 Cute
 Suggested
@@ -68,11 +68,11 @@ Select
 ワ
 This Week’s Rankings
 Last Week’s Rankings
-Switch Rankings
-Switch Teams
-Team: Trainer type
-Team: Birth month
-Team: Favorite Pokémon
+Wechsel Rankings
+Wechsel Teams
+Team: Trainer Typ
+Team: Geburtsmonat
+Team: Lieblings Pokémon
 \xf000Ā\x0001\x0001：\xf000Ď\x0001\x0000
 \xf000Ā\x0001\x0001：\xf000ȁ\x0001\x0000がつうまれ
 \xf000Ā\x0001\x0001：\xf000ā\x0001\x0000
@@ -82,62 +82,62 @@ Team: Favorite Pokémon
 Last Week’s Results!
 Colosseum
 Battle Frontier
-Save
-View Battle\xfffeVideo
+Speichern
+Battle Video\xfffeanschauen
 バトルビデオ
 バトルビデオ\xfffeさいしん３０けん
-Top-Ranked Battle Videos\xfffeColosseum
-Top-Ranked Battle Videos\xfffeBattle Frontier
+Best bewertete Battle Videos\xfffeColosseum
+Best bewertete Battle Videos\xfffeBattle Frontier
 けんさくした　バトルビデオ\xfffeいちらん
 
 Where would you like to save\xfffe\xf000Ā\x0001\x0000’s Battle Video?
 うわがきほぞん
-Is it OK to delete \xf000Ā\x0001\x0000’s Battle\xfffeVideo?
-View Battle Videos
-Send Battle Video
-Newest 30
-Search
-Search by Video NO.
-Search by Facility
-Search by Pokémon
-Search Your Location
+Ist es OK \xf000Ā\x0001\x0000’s Battle\xfffeVideo zu löschen?
+Battle Videos anschauen
+Sende Battle Video
+Neuesten 30
+Suche
+Suche nach Video Nr.
+Suche nach Facility
+Suche nach Pokémon
+Suche deinen Ort
 Okay!
-Please enter the Video Number.
-Please choose the facility.
-Please choose the Pokémon.
-Please enter the search criteria.
-You haven’t set any search criteria.
-Loading Battle Video...
-There is no matching Battle Video...
-Sending the Battle Video...
+Bitte die Video Nr. eingeben.
+Bitte facility auswählen.
+Bitte Pokémon auswählen.
+Bitte die Suchkriterien eingeben.
+Du hast keine Suchkriterien eingegeben.
+Battle Video laden...
+Es wurde kein passendes Battle Video gefunden...
+Battle video wird gesendet...
 バトルビデオを　おくりました！
-\xf000봂\x0000View Profile
-\xf000봂\x0000Close Profile
-Newest 30 Battle Videos
-Please set the search criteria.
-Undefined
-LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
-The same Battle Video can’t be sent again.\xfffeTouch the Touch Screen to continue.
-You have not registered your location.
-There is no Battle Video to send.
+\xf000봂\x0000Profile anschauen
+\xf000봂\x0000Profile schliesen
+Neuesten 30 Battle Videos
+Bitte Suchkriterien eingeben.
+Undefiniert
+LISTE DER BATTLE VDEO VON\xfffeSUCH ERGEBNISSE
+Das selbe Battle Video kann nicht nochmal gesendet werden.\xfffeBerühre den Touchscreen um fortzufahren.
+Du hast deinen Ort registriert.
+Kein Battle Video zum versenden vorhanden.
 \xf000ȁ\x0001\x0000
 つうしんたいせん
-Battle Points:
+Kampf Punkte:
 すんでいるばしょ\xfffe\xf000Ĥ\x0001\x0000
-\xf000봂\x0000Single Battle
-\xf000봂\x0000Double Battle
-\xf000봂\x0000Multi Battle
-\xf000봂\x0000Wi-Fi Battle
+\xf000봂\x0000Einzelkampf
+\xf000봂\x0000Doppelkampf
+\xf000봂\x0000Multikampf
+\xf000봂\x0000Wi-Fi Kampf
 \xf000봂\x0000バトルサブウェイ
 \xf000봂\x0000スーパーシングルトレイン
 \xf000봂\x0000スーパーダブルトレイン
 \xf000봂\x0000スーパーマルチトレイン
 みたい　せいせきを　えらんでください
-Wins:
+Gewinne:
 Total:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000 Battles
+\xf000봃\x0001\x0000 Kämpfe
 トレーナーとマルチ
 ともだちとマルチ
 ランク
@@ -147,8 +147,8 @@ Total:
 \xf000봂\x0000\xf000Ā\x0001\x0000　の　レーティング
 \xf000봂\x0000レーティングモード　せいせき
 \xf000봂\x0000フリーモード　せいせき
-\xf000봃\x0001\x0000Win
-\xf000봃\x0001\x0000Lose
+\xf000봃\x0001\x0000Gewonnen
+\xf000봃\x0001\x0000Verloren
 \xf000봃\x0001\x0000シングル：
 \xf000봃\x0001\x0000ダブル：
 \xf000봃\x0001\x0000トリプル：
@@ -156,20 +156,20 @@ Total:
 \xf000봃\x0001\x0000シューター：
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000Rating
+\xf000봃\x0001\x0000Leistung
 \xf000봂\x0000はい
 \xf000봂\x0000いいえ
-Yes
-No
+Ja
+Nein
 Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しても　よろしいですか？
-Colosseum\xfffeSingle, No Restrictions
+Colosseum\xfffeSingle, keine Beschränkungen
 Colosseum\xfffeSingle, Standard Cup
 Colosseum\xfffeSingle, Fancy Cup
 Colosseum\xfffeSingle, Little Cup
 Colosseum\xfffeSingle, Light Cup
 Colosseum\xfffeSingle, Double Cup
 Colosseum\xfffeSingle, Other Cup
-Colosseum\xfffeDouble, No Restrictions
+Colosseum\xfffeDouble, keine Beschränkungen
 Colosseum\xfffeDouble, Standard Cup
 Colosseum\xfffeDouble, Fancy Cup
 Colosseum\xfffeDouble, Little Cup
@@ -195,17 +195,17 @@ Battle Castle\xfffeMulti
 Battle Arcade\xfffeSingle
 Battle Arcade\xfffeDouble
 Battle Arcade\xfffeMulti
-Colosseum\xfffeSingle, No Restrictions
+Colosseum\xfffeSingle, keine Beschränkungen
 Colosseum\xfffeSingle, Cup Match
-Colosseum\xfffeDouble, No Restrictions
+Colosseum\xfffeDouble, keine Beschränkungen
 Colosseum\xfffeDouble, Cup Match
 
 
 
 
-1: Colosseum\xfffe    Single, No Restrictions
+1: Colosseum\xfffe    Single, keine Beschränkungen
 2: Colosseum\xfffe    Single, Cup Match
-3: Colosseum\xfffe    Double, No Restrictions
+3: Colosseum\xfffe    Double, keine Beschränkungen
 4: Colosseum\xfffe    Double, Cup Match
 5: Colosseum\xfffe    Multi
 6: Battle Tower\xfffe    Single
@@ -226,8 +226,8 @@ Colosseum\xfffeDouble, Cup Match
 21: Battle Arcade\xfffe      Single
 22: Battle Arcade\xfffe      Double
 23: Battle Arcade\xfffe      Multi
-\xf000봂\x0000Touch Here!
-Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
+\xf000봂\x0000Hier berühren!
+Ist es OK von die\xfffeNintendo Wi-Fi Connection abzuschalten?
 　
 User authentication error.\xfffePlease wait a while before reconnecting.
 This data is already registered.\xfffeTouch the Touch Screen to continue.
