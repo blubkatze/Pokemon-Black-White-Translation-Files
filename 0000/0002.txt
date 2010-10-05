@@ -7,8 +7,8 @@
 Wähle ein Pokémon.
 Welches Pokémon?
 An wessen Stelle setzen?
-Which Pokémon will you fight with?
-Which Pokémon will you return?
+Mit welchem Pokémon willst du kämpfen?
+Welches Pokémon willst du zurückholen?
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -26,7 +26,7 @@ Stats
 Attacken
 Kann nicht kämpfen
 Ist am kämfen
-Standing by
+Wartet auf Anweisungen
 Partner
 Trägt kein Item
 \xf000Ă\x0001\x0000
@@ -56,19 +56,19 @@ AP
 \xf000ȁ\x0001\x0000
 /
 --
-Power
+Kraft
 \xf000Ȃ\x0001\x0000
 -
-Accuracy
+Genauigkeit
 \xf000Ȃ\x0001\x0000
-Category
-Physical
+Kategorie
+Physisch
 Status
-Special
-Appeal point(s)
-Forget
-Cancel
-VM Attacken können\xfffenicht vergessen werden.
+Spezial
+Anziehungskraft
+Verlernen
+Abbruch
+VM Attacken können\xfffenicht verlernt werden.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
@@ -96,13 +96,13 @@ It won't have any effect.
 \xf000Ă\x0001\x0000 brennt nicht mehr.
 \xf000Ă\x0001\x0000\xfffeist aufgetaut.
 AP wurden wiederhergestellt.　
-\xf000Ă\x0001\x0000 \xffferecovered from fainting!
+\xf000Ă\x0001\x0000 \xfffeist wieder auf den Beinen!
 \xf000Ă\x0001\x0000 \xfffeist gesund.
 \xf000Ă\x0001\x0000 \xfffeinst nicht mehr verwirrt.
-\xf000Ă\x0001\x0000 \xfffegot over its infatuation.
+\xf000Ă\x0001\x0000 \xfffeist nicht mehr verliebt.
 \xf000Ă\x0001\x0000 \xfffeist aufgewacht.
-\xf000Ă\x0001\x0000 has already\xfffebeen selected.
+\xf000Ă\x0001\x0000 wurde schon\xfffeausgewählt.
 Welche Attacke wiederherstellen?
 \xf000ć\x0001\x0001s　Effekt verhindert den Einsatz auf\xfffe\xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 \xfffecan't be returned!
-\xf000Ă\x0001\x0000 \xfffehas been returned.
+\xf000Ă\x0001\x0000 \xfffeKann nicht zurückgerufen werden!
+\xf000Ă\x0001\x0000 \xfffewurde zurückgerufen.
