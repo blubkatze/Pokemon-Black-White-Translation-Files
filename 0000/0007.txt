@@ -1,5 +1,6 @@
 Willkommen\xfffezu dem Kampf Wettbewerb!
-バトルたいかいには\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffeおこなわれる　Ｗｉ－Ｆｉたいかいと\xf000븁\x0000\xfffeイベントかいじょうで　おこなわれる\xfffeライブたいかいが　あります\xf000븁\x0000\xfffeさんかする　ポケモンは\xfffeバトルボックスに　とうろく　している\xf000븀\x0000\xfffeポケモンです\xf000븁\x0000\xfffeいちど　たいかいに　とうろく　すると\xfffeたいかい　さんかちゅうは\xf000븀\x0000\xfffeバトルボックスを\xf000븀\x0000\xfffeへんこう　できなくなるので\xf000븀\x0000\xfffeちゅうい　してください\xf000븁\x0000\xfffeたいかいに　さんかすると\xfffeデジタルせんしゅしょうに\xf000븀\x0000\xfffeデータが　とうろく　されるので\xf000븀\x0000\xfffeかくにん　してみてください\xf000븁\x0000
+Um dem Wettkampf beizutreten\xfffebenötigen sie eine Ｗｉ－Ｆｉ Verbindung.\xf000븀\x0000\xfffeDer　Ｗｉ－Ｆｉ Wettkampf\xf000븁\x0000\xfffefindet am Wettkampfs Treffpunkt statt.\xfffeEs ist ein live-Wettkampf\xf000븁\x0000\xfffeBeitretende Pokémon sind in der Battle-Box\xffferegistrierte Pokémon.\xf000븀\x0000\xfffe
+Bitte beachten sie,\xf000븁\x0000\xfffedass diese Auswahl\xfffenicht mehr rückgängig gemacht werden kann.\xf000븀\x0000\xfffeWannimmer am Wettkampf teilgenommen wird,\xf000븀\x0000\xfffekommt es zu einer Überprüfung\xf000븀\x0000\xfffeund Spieldaten werden aufgezeichnet\xf000븁\x0000\xfffeBitte bestätigen sie dies.\xf000븁\x0000
 Wollen sie Ｗｉ－Ｆｉ benutzen?
 Weltweite Kämpfe
 Letzten online Spieler anschauen
