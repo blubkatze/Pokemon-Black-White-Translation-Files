@@ -7,15 +7,15 @@ Schlacht
 Tausch
 Stadt
 Land
-Smart
-Athletic
-Time
+Klug
+Athletisch
+Zeit
 Geld
-Looks
-Personality
+Aussehen
+Persönlichkeit
 Cool
-Cute
-Funny
+Niedlich
+Witzig
 Pokabu
 Mijumaru
 Shita-ja
@@ -23,11 +23,11 @@ Meer
 Fluss
 Berg
 Klasse
-Break
+Pause
 Schulpause
 Familie
 Freunde
-Self
+Selbst
 Frühling
 Sommer
 Herbst
@@ -38,51 +38,51 @@ Sauer
 Bitter
 Interessant
 Cool
-Nice
-Rich
+Nett
+Reich
 Kampf
-Collect
+Sammeln
 Story
 Pokémon
-First Language
+Muttersprache
 Mathe
 Wissenschaft
 Social Studies
-First Language
+Muttersprache
 Math
 Wissenschaft
-Social Studies
+Sozialkunde
 Trainer
 Pokémon Professor
 Team Plasma
 Pokémon
-Play Outside
-Shop
-Read
+Draußen spielen
+Einkaufen
+Lesen
 Spiel
 Schlafen
 Pop
 Rock
 Jazz
 Rap
-Classic
+Klassik
 News
 Drama
-Comedy
-Sports
+Komödie
+Sport
 Anime
 Action
 SF
-Love
-Suspense
-Comedy
+Liebe
+Spannung
+Komödie
 Horror
 Baseball
-Soccer
+Fußball
 Basketball
 Football
 Hockey
-Martial Arts
+Kampfsport
 Rot
 Grün
 Blau
@@ -90,32 +90,32 @@ Gelb
 Weiß
 Schwarz
 Fitness
-Reading
+Lesen
 Musik
 Filme
-Travel
-Cooking
-Fishing
+Reisen
+Kochen
+Fischen
 Spiele
 Student
-Office Worker
-Creator
-Self-employed
-Govt. Official
-Housewife
+Büroangestellter
+Urheber
+Selbstständig
+Beamter
+Hausfrau
 Artist
-Job-Hopper
-Podda
+Teilzeitarbeiter
+Shote
 Dento
-Koon
+Getreide
 Aloe
-Arti
-Kamitsure
-Yacon
-Fuuro
-Hachiku
-Iris
-Shaga
+Artischocke
+Kamille
+Yacón
+Geranie
+Bambus
+Schwertlilie
+Sumpf-Schwertlilie
 Normal
 Feuer
 Wasser
