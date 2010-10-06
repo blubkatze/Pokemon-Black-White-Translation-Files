@@ -1,8 +1,8 @@
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-Held Item
-Nature
-Ability
+Besitz
+Wesen
+Fähigkeit
 \xf000ċ\x0001\x0000
 Box 1
 Box 2
@@ -29,84 +29,84 @@ Box 22
 Box 23
 Box 24
 \xf000ȁ\x0001\x0000
-Jump
-Wallpaper
+Springen
+Hintergrund
 Name
-Quit
-Scenery 1
-Scenery 2
-Scenery 3
+Abbrechen
+Szenerie 1
+Szenerie 2
+Szenerie 3
 Etc.
-Loving 1
-Loving 2
-Woods
-City
-Desert
+Liebe 1
+Liebe 2
+Wald
+Stadt
+Wüste
 Savanna
-Rocky mountain
-Volcano
-Snowy mountain
-Cave
-Beach
-Sea floor
-River
-Sky
+Berge
+Vulkan
+Schneeberg
+Grotte
+Strand
+Meeresboden
+Fluss
+Himmel
 Pokemon center
-Metal
-Check
-Simple
-Special
+Metall
+Scheck
+Einfach
+Spezial
 Reshiram
 Zekrom
-Monochrome
+Monochrom
 Team Plasma
 Munna
 Zoroark
-Subway
+U-Bahn
 Musical
-Back
-Forward
-Next
+Zurück
+Forwärts
+Nächste
 Party
-Box list
-Battle box
-Switch box
-Organize bag
-View status
-Held item
-Marking
-Free
-Take
-Store
-Quit
-Move
-Move
-Sleep
+Box Liste
+Kampfbox
+Wechsle box
+Beutel ordnen
+Status anzeigen
+Getragenes Item
+Markierung
+Freilassen
+Nehmen
+Lagern
+Schließen
+Bewegen
+Bewegen
+Schlafen
 OK
-Quit
-Change
-Quit
-Quit
-Change\xfffe Box
-Change\xfffe Wallpaper
-Store\xfffe Pokemon
-To bag
-Hold
-Move
+Schließen
+Wechseln
+Schließen
+Schließen
+Box\xfffe wechseln
+Wallpaper\xfffe wechseln
+Pokemon\xfffe lagern
+In die Tasche
+Geben
+Wechseln
 ♂
 ♀
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-Nature
-Ability
-Held Item
+Wesen
+Charakter
+Besitzt
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-None
+Ohne
 ???
 Lv.
-No.
-Moves
-Yes
-No
+Nr.
+Attacken
+Ja
+Nein
