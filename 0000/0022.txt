@@ -10,12 +10,12 @@
 「Radar-Umfrage」
 「Benutzerdefinierte」
 「ＯＮ／ＯＦＦ」
-Mit IR können\xfffesie gegen ohne Probleme Pokémon\xffemit ihren Freunde spielen.\xfffeZudem können sie Freundescodes austauschen\xfffeund ihre Gefühlsverträglichkeit austesten.
-ゲームシンクという　ボタンで\xfffeねむらせる　ポケモンを　えらび\xfffeＷｉ－Ｆｉコネクションで\xfffeレポートを　おくることが　できます。
-Ｗｉ－Ｆｉの　でんぱを　キャッチしても\xfffeほんたいせっていが　できていないと\xfffeＷｉ－Ｆｉに　せつぞく　できません。
-ワイヤレスつうしんを　つかって\xfffeちかくにいる　ともだちと\xfffeつぎの　あそびが　できます。\xfffe・ライブキャスター\xfffe・ハイリンク
-ライブキャスターは\xfffeＣギアで　ともだちコードを\xfffeこうかんしたり　Ｗｉ－Ｆｉクラブで\xfffeいっしょに　あそんだことの　ある\xfffeともだちと　ライブキャスターを\xfffeつかって　あそべます。
-ハイリンクは　ボタンを　タッチすれば\xfffeいっしゅんで　ハイリンクに　いけます。
+Mit IR können sie\xfffegegen ohne Probleme Pokémon\xffemit ihren Freunde spielen.\xfffeZudem können sie Freundescodes austauschen\xfffeund ihre Gefühlsverträglichkeit austesten.
+Mit GAME SYNC können sie ihre Pokémon\xfffevia Wi-Fi ins Bett schicken\xfffeund einen Bericht erhalten.
+Hauswände können den Empfang\xfffevon Wi-Fi beeinträchtigen\xfffebishin zu Verbindungsabbrüchen.
+Um bei Wi-Fi-Spielen gegen ihre Freunde Verbindungsabbrüchen vorzubeugen\xfffesollten sie sich nicht weit voneinander entfehrnen.
+Mit dem C-GEAR könnnen sie sich im Wi-Fi-Club\xfffe mit ihren Freunden treffen und zusammen spielen.
+High-Linkは　ボタンを　タッチすれば\xfffeいっしゅんで　High-Linkに　いけます。
 じぶんの　まわりで　げんざい\xfffeユニオンルームに　はいっている\xfffeにんずうが　わかります。\xfffeまた　ちかくで　ワイヤレスの\xfffeはいしんを　おこなっているかも\xfffeわかります。
 それと　Ｃギアの　でんげんを\xfffeオンにしている　ひとが\xfffeまわりに　いるか　わかります。\xfffeちかくに　ひとが　いると\xfffeすれちがいや　ちょうさレーダーの\xfffeつうしんを　キャッチ　しやすいです。
 すれちがった　ひとが\xfffeどんなことを　しているのかが\xfffeリアルタイムで　ひょうじされます。\xfffeタッチすることで　あいてについて\xfffeくわしく　みたり\xfffeじゆうに　はつげん　できます。
