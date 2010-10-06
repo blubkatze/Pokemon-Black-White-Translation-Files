@@ -1,115 +1,115 @@
 None
-Master Ball
-Ultra Ball
-Great Ball
-PokÃ© Ball
-Safari Ball
-Net Ball
-Dive Ball
-Nest Ball
-Repeat Ball
-Timer Ball
-Luxury Ball
-Premier Ball
-Dusk Ball
-Heal Ball
-Quick Ball
-Cherish Ball
-Potion
-Antidote
-Burn Heal
-Ice Heal
-Awakening
-Parlyz Heal
-Full Restore
-Max Potion
-Hyper Potion
-Super Potion
-Full Heal
-Revive
-Max Revive
-Fresh Water
-Soda Pop
-Lemonade
-Moomoo Milk
-EnergyPowder
-Energy Root
-Heal Powder
-Revival Herb
-Ether
-Max Ether
-Elixir
-Max Elixir
-Lava Cookie
-Berry Juice
-Sacred Ash
-HP Up
+Meisterball
+Hyperball
+Superball
+Pokéball
+Safariball
+Netzball
+Tauchball
+Nestball
+Wiederball
+Timerball
+Luxusball
+Premierball
+Finsterball
+Heilball
+Flottball
+Jubelball
+Trank
+Gegengift
+Feuerheiler
+Eisheiler
+Aufwecker
+Para-Heiler
+Top-Genesung
+Top-Trank
+Hypertrank
+Supertrank
+Hyperheiler
+Beleber
+Max Beleber
+Tafelwasser
+Sprudel
+Limonade
+Kuhmuh-Milch
+Energiestaub
+Kraftwurzel
+Heilpuder
+Vitalkraut
+Äther
+Top-Äther
+Elixier
+Max Elixier
+Lavakeks
+Beerensaft
+Zauberasche
+KP-Plus
 Protein
-Iron
-Carbos
-Calcium
-Rare Candy
-PP Up
-Zinc
-PP Max
-Old Gateau
-Guard Spec.
-Dire Hit
-X Attack
-X Defend
-X Speed
-X Accuracy
-X Special
-X Sp. Def
-PokÃ© Doll
-Fluffy Tail
-Blue Flute
-Yellow Flute
-Red Flute
-Black Flute
-White Flute
-Shoal Salt
-Shoal Shell
-Red Shard
-Blue Shard
-Yellow Shard
-Green Shard
-Super Repel
-Max Repel
-Escape Rope
-Repel
-Sun Stone
-Moon Stone
-Fire Stone
-Thunderstone
-Water Stone
-Leaf Stone
-TinyMushroom
-Big Mushroom
-Pearl
-Big Pearl
-Stardust
-Star Piece
+Eisen
+Carbon
+Kalzium
+Sonderbonbon
+AP-Plus
+Zink
+AP-Top
+Spezialität
+Megablock
+Angriffplus
+X-Angriff
+X-Abwehr
+X-Tempo
+X-Treffer
+X-Spezial
+X-SpezialVer
+Poképuppe
+Eneco-Rute
+Blaue Flöte
+Gelbe Flöte
+Rote Flöte
+Schw. Flöte
+Weiße Flöte
+Küstensalz
+Küstenschale
+Purpurstück
+Indigostück
+Gelbstück
+Grünstück
+Super Schutz
+Max Schutz
+Fluchtseil
+Schutz
+Sonnenstein
+Mondstein
+Feuerstein
+Donnerstein
+Wasserstein
+Blattstein
+Minipilz
+Riesenpilz
+Perle
+Big Perle
+Sternenstaub
+Sternenstück
 Nugget
-Heart Scale
-Honey
-Growth Mulch
-Damp Mulch
-Stable Mulch
-Gooey Mulch
-Root Fossil
-Claw Fossil
-Helix Fossil
-Dome Fossil
-Old Amber
-Armor Fossil
-Skull Fossil
-Rare Bone
-Shiny Stone
-Dusk Stone
-Dawn Stone
-Oval Stone
-Odd Keystone
+Herzschuppe
+Honig
+Wachsmulch
+Feuchtmulch
+Stabilmulch
+Neumulch
+Wurzelfossil
+Klauenfossil
+Helixfossil
+Domfossil
+Altbernstein
+Panzerfossil
+Kopffossil
+Steinknochen
+Leuchtstein
+Finsterstein
+Funkelstein
+Ovaler Stein
+Spiritkern
 Griseous Orb
 ???
 ???
@@ -133,199 +133,199 @@ Furiizukasetto
 ???
 ???
 Haatosuiitsu
-Adamant Orb
-Lustrous Orb
-Grass Mail
-Flame Mail
-Bubble Mail
-Bloom Mail
-Tunnel Mail
-Steel Mail
-Heart Mail
-Snow Mail
-Space Mail
-Air Mail
-Mosaic Mail
-Brick Mail
-Cheri Berry
-Chesto Berry
-Pecha Berry
-Rawst Berry
-Aspear Berry
-Leppa Berry
-Oran Berry
-Persim Berry
-Lum Berry
-Sitrus Berry
-Figy Berry
-Wiki Berry
-Mago Berry
-Aguav Berry
-Iapapa Berry
-Razz Berry
-Bluk Berry
-Nanab Berry
-Wepear Berry
-Pinap Berry
-Pomeg Berry
-Kelpsy Berry
-Qualot Berry
-Hondew Berry
-Grepa Berry
-Tamato Berry
-Cornn Berry
-Magost Berry
-Rabuta Berry
-Nomel Berry
-Spelon Berry
-Pamtre Berry
-Watmel Berry
-Durin Berry
-Belue Berry
-Occa Berry
-Passho Berry
-Wacan Berry
-Rindo Berry
-Yache Berry
-Chople Berry
-Kebia Berry
-Shuca Berry
-Coba Berry
-Payapa Berry
-Tanga Berry
-Charti Berry
-Kasib Berry
-Haban Berry
-Colbur Berry
-Babiri Berry
-Chilan Berry
-Liechi Berry
-Ganlon Berry
-Salac Berry
-Petaya Berry
-Apicot Berry
-Lansat Berry
-Starf Berry
-Enigma Berry
-Micle Berry
-Custap Berry
-Jaboca Berry
-Rowap Berry
-BrightPowder
-White Herb
-Macho Brace
-Exp. Share
-Quick Claw
-Soothe Bell
-Mental Herb
-Choice Band
-Kingâ€™s Rock
-SilverPowder
-Amulet Coin
-Cleanse Tag
-Soul Dew
-DeepSeaTooth
-DeepSeaScale
-Smoke Ball
-Everstone
-Focus Band
-Lucky Egg
-Scope Lens
-Metal Coat
-Leftovers
-Dragon Scale
-Light Ball
-Soft Sand
-Hard Stone
-Miracle Seed
-BlackGlasses
-Black Belt
+Adamant-Orb
+Weiß-Orb
+Wiesenbrief
+Feuerbrief
+Wasserbrief
+Blütenbrief
+Minenbrief
+Stahlbrief
+Rosabrief
+Schneebrief
+Sternbrief
+Luftbrief
+Mosaikbrief
+Ziegelbrief
+Amrenabeere
+Maronbeere
+Pirsifbeere
+Fragiabeere
+Wilbirbeere
+Jonagobeere
+Sinelbeere
+Persimbeere
+Prunusbeere
+Tsitrubeere
+Giefebeere
+Wikibeere
+Magobeere
+Gauvebeere
+Yapabeere
+Himmihbeere
+Morbbeere
+Nanabbeere
+Nirbebeere
+Sananabeere
+Granabeere
+Setangbeere
+Qualotbeere
+Honmelbeere
+Labrusbeere
+Tamotbeere
+Saimbeere
+Magostbeere
+Rabutabeere
+Tronzibeere
+Kiwanbeere
+Pallmbeere
+Wasmelbeere
+Durinbeere
+Myrtilbeere
+Koakobeere
+Foepasbeere
+Kerzalbeere
+Grindobeere
+Kiroyabeere
+Rospelbeere
+Grarzbeere
+Schukebeere
+Kobabeere
+Pyapabeere
+Tanigabeere
+Chiaribeere
+Zitarzbeere
+Terirobeere
+Burleobeere
+Babiribeere
+Latchibeere
+Lydzibeere
+Linganbeere
+Salkabeere
+Tahaybeere
+Apikobeere
+Lansatbeere
+Krambobeere
+Enigmabeere
+Wunfrubeere
+Eipfelbeere
+Jabocabeere
+Roselbeere
+Blendpuder
+Schlohkraut
+Machoband
+EP-Teiler
+Flinkklaue
+Sanftglocke
+Mentalkraut
+Wahlband
+King-Stein
+Silberstaub
+Münzamulett
+Schutzband
+Seelentau
+Abysszahn
+Abyssplatte
+Rauchball
+Ewigstein
+Fokus-Band
+Glücks-Ei
+Scope-Linse
+Metallmantel
+Überreste
+Drachenhaut
+Kugelblitz
+Pudersand
+Granitstein
+Wundersaat
+Schattenglas
+Schwarzgurt
 Magnet
-Mystic Water
-Sharp Beak
-Poison Barb
-NeverMeltIce
-Spell Tag
-TwistedSpoon
-Charcoal
-Dragon Fang
-Silk Scarf
+Zauberwasser
+Hackattack
+Giftstich
+Ewiges Eis
+BannLauchstangeer
+Krummlöffel
+Holzkohle
+Drachenzahn
+Seidenschal
 Up-Grade
-Shell Bell
-Sea Incense
-Lax Incense
+Seegesang
+Seerauch
+Laxrauch
 Lucky Punch
-Metal Powder
-Thick Club
-Stick
-Red Scarf
-Blue Scarf
-Pink Scarf
-Green Scarf
-Yellow Scarf
-Wide Lens
-Muscle Band
-Wise Glasses
-Expert Belt
-Light Clay
-Life Orb
-Power Herb
-Toxic Orb
-Flame Orb
-Quick Powder
-Focus Sash
-Zoom Lens
-Metronome
-Iron Ball
-Lagging Tail
-Destiny Knot
-Black Sludge
-Icy Rock
-Smooth Rock
-Heat Rock
-Damp Rock
-Grip Claw
-Choice Scarf
-Sticky Barb
-Power Bracer
-Power Belt
-Power Lens
-Power Band
-Power Anklet
-Power Weight
-Shed Shell
-Big Root
-Choice Specs
-Flame Plate
-Splash Plate
-Zap Plate
-Meadow Plate
-Icicle Plate
-Fist Plate
-Toxic Plate
-Earth Plate
-Sky Plate
-Mind Plate
-Insect Plate
-Stone Plate
-Spooky Plate
-Draco Plate
-Dread Plate
-Iron Plate
-Odd Incense
-Rock Incense
-Full Incense
-Wave Incense
-Rose Incense
-Luck Incense
-Pure Incense
-Protector
-Electirizer
-Magmarizer
-Dubious Disc
-Reaper Cloth
-Razor Claw
-Razor Fang
+Metallstaub
+Kampfknochen
+Lauchstange
+Roter Schal
+Blauer Schal
+Rosa Schal
+Grüner Schal
+Gelber Schal
+Großlinse
+Muskelband
+Schlauglas
+Expertengurt
+Lichtlehm
+Leben-Orb
+Energiekraut
+Toxik-Orb
+Heiß-Orb
+Flottstaub
+Fokusgurt
+Zoomlinse
+Metronom
+Eisen Ball
+Schwerschwf.
+Fatumknoten
+Giftschleim
+Eisbrocken
+Glattbrocken
+Heißbrocken
+Nassbrocken
+Griffklaue
+Wahlschal
+Klettdorn
+Machtreif
+Machtgurt
+Machtlinse
+Machtband
+Machtkette
+Machtgewicht
+Wechselhülle
+Großwurzel
+Wahlglas
+Feuertafel
+Wassertafel
+Blitztafel
+Wiesentafel
+Frosttafel
+Fausttafel
+Gifttafel
+Erdtafel
+Wolkentafel
+Hirntafel
+Käfertafel
+Steintafel
+Spuktafel
+Dracotafel
+Furchttafel
+Eisen Plate
+Schrägrauch
+Steinrauch
+Lahmrauch
+Wellenrauch
+Rosenrauch
+Glücksrauch
+Scheuchrauch
+Schützer
+Stromisierer
+Magmaisierer
+Dubiosdisc
+Düsterumhang
+Scharfklaue
+Scharfzahn
 TM01
 TM02
 TM03
@@ -427,42 +427,42 @@ HM06
 ???
 ???
 Tankensetto
-Loot Sack
-Rule Book
-PokÃ© Radar
-Point Card
-Journal
-Seal Case
-Fashion Case
-Seal Bag
-Pal Pad
-Works Key
-Old Charm
-Galactic Key
-Red Chain
-Town Map
-Vs. Seeker
-Coin Case
-Old Rod
-Good Rod
-Super Rod
-Sprayduck
-Poffin Case
-Bicycle
-Suite Key
-Oakâ€™s Letter
-Lunar Wing
-Member Card
-Azure Flute
-S.S. Ticket
-Contest Pass
-Magma Stone
-Parcel
-Coupon 1
-Coupon 2
-Coupon 3
-Storage Key
-SecretPotion
+Beutesack
+Regelbuch
+Pokéradar
+Punktekarte
+Tagebuch
+Stick.Koffer
+Modekoffer
+Stickertüte
+Adressbuch
+K-Schlüssel
+Talisman
+G-Schlüssel
+Rote Kette
+Karte
+Kampffahnder
+Münzkorb
+Angel
+Profiangel
+Superangel
+Entonkanne
+Knurspbox
+Fahrrad
+B-Schlüssel
+Eichs Brief
+Lunarfeder
+Mitgl.Karte
+Azurflöte
+BootLauchstangeet
+Wettb.-Karte
+Magmastein
+Paket
+Kupon 1
+Kupon 2
+Kupon 3
+L-Schlüssel
+Geheimtrank
 Vs. Recorder
 Gracidea
 Secret Key

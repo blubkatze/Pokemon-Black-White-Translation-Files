@@ -51,7 +51,7 @@ Strand
 Meeresboden
 Fluss
 Himmel
-Pokemon center
+Pokémon center
 Metall
 Scheck
 Einfach
@@ -89,7 +89,7 @@ Schließen
 Schließen
 Box\xfffe wechseln
 Wallpaper\xfffe wechseln
-Pokemon\xfffe lagern
+Pokémon\xfffe lagern
 In die Tasche
 Geben
 Wechseln
