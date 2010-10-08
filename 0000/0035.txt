@@ -1,10 +1,10 @@
 ▲
 Pokédex
 Pokémon
-Bag
-TrainerCard
-Save
-Options
+Tasche
+TrainerKarte
+Speichern
+Optionen
 　
 Chat
 　

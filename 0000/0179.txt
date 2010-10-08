@@ -19,7 +19,7 @@ Badges　\xf000ȁ\x0001\x0000
 ペアレンタルコントロールの\xfffeつうしんせいげん
 ふしぎな　おくりもの\xfffeしょかい　じゅしん
 Warning!
-つうしんを　はじめると\xfffeこのゲームを　さいだいげん　たのしめます\xfffeつねに　つうしんを　おこないますので\xfffeひこうきや　びょういんなど\xfffeむせんつうしんが　きんしの　ばしょでは\xfffeつうしんを　せつだんしてください\xfffeゲームちゅうの　Ｃギアがめんでも\xfffeへんこう　することが　できます
+つうしんを　はじめると\xfffeこのゲームを　さいだいげん　たのしめます\xfffeつねに　つうしんを　おこないますので\xfffeひこうきや　びょういんなど\xfffeむせんつうしんが　きんしの　ばしょでは\xfffeつうしんを　せつだんしてください\xfffeゲームちゅうの　C-GEARがめんでも\xfffeへんこう　することが　できます
 Warning!
 There already is a save file.\xfffeStarting a new adventure now,\xfffewill not be able to save.\xfffeDo you want to start even\xfffethough you can't save?
 A Button: Continue
@@ -28,7 +28,7 @@ Enable the C-Gear?
 Do you realy want to\xfffedisable the C-Gear?
 レポートの　ないようが\xfffeきえてしまった！
 きえて　しまった　バトルビデオの\xfffeきろくが　あります！
-Ｃギアの　スキンデータが\xfffeきえてしまった！
+C-GEARの　スキンデータが\xfffeきえてしまった！
 とくべつな　バトルけんていの\xfffeデータが　きえてしまった！
 ミュージカルの　えんもくデータが\xfffeきえてしまった！
 ずかんの　スキンデータが\xfffeきえてしまった！

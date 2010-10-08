@@ -1,43 +1,43 @@
-Ｘボタン
+Ｘ-Knopf
 ＳＥＬＥＣＴ
-Ｂボタン
-らくがきツールを　つかう
+Ｂ-Knopf
+Touchscreen benutzen
 がぞうを　とめる
-らくがきを　やめる
-ペンサイズを　へんこう
-いろを　スポイト
-けしゴムに　へんこう
-らくがきツールを　とじる
-スタンプ
-らくがきモード
-ＲＥＣ
-らくがき
+Zeichnen Modus beenden
+Stiftgröße ändern
+Frabe auswählen
+Radierer
+Touchscreen beenden
+Stempel
+Zeichnen Modus
+Aufnahme
+Zeichnung
 ＩＤ\xf000Ȅ\x0001\x0000
 ―／―
 \xf000Ȁ\x0001\x0000／４
-ともだちを　えらんでください
-ともだちを　よびだす
-さんかする
-ともだちを　よびだしちゅう！
-ともだちを　よびだしちゅう・
-ともだちを　よびだしちゅう・・
-ともだちを　よびだしちゅう・・・
-せつぞくちゅう！
-せつぞくちゅう・
-せつぞくちゅう・・
-せつぞくちゅう・・・
-ともだちを　さがしています！
-ともだちを　さがしています・
-ともだちを　さがしています・・
-ともだちを　さがしています・・・
-ライブキャスターを\xfffeしゅうりょう　しますか？
+Bitte Freund auswählen
+Freund anrufen
+Teilnehmen
+Freund anrufen！
+Freund anrufen・
+Freund anrufen・・
+Freund anrufen・・・
+Verbinde！
+Verbinde・
+Verbinde・・
+Verbinde・・・
+Freund suchen！
+Freund suchen・
+Freund suchen・・
+Freund suchen・・・
+Live Caster\xfffeBeenden?
 リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-はい
-いいえ
+Ja
+Nein
 リーダーが　しゅうりょうしたので　\xfffeかいさんします
-あいてが　しゅうりょうしたので　\xfffeかいさんします
-メンバーが　いなくなったので\xfffeしゅうりょうします
-よびだしに　しっぱいしました
-せつぞくに　しっぱいしました
+Freund hat Verbundung aufgelöst
+Ende, das Freund verlassen hat
+Anruf fehlgeschlagen
+Verbindung fehlgeschlagen
 ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが　せいげん\xfffeされています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください
-あいての　しゅうりょうを　まっています
+Auf Freund warten

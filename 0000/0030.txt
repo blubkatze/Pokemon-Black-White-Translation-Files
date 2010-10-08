@@ -1,25 +1,25 @@
-Options
-Text Speed
-Battle Scene
-Battle Style
-Sound
-Button Mode
-Frame
-IR Report
-Confirm
-Quit
-Slow
-Mid
-Fast
-On
-Off
-Shift
+Optionen
+Text Geschwindigkeit
+Kampf Animation
+Kampftyp
+Ton
+Sprache
+Wireless
+Infrarot
+Speichern
+Abbruch
+Langsam
+Mittel
+Schnell
+An
+Aus
+Wechsel
 Set
 Stereo
 Mono
-Normal
+Deutsch
 Kanji
-Write
+Speichern
 Off
 かく
 かかない
@@ -29,9 +29,9 @@ Off
 ゲームの　おとを\xfffeえらぶことが　できます
 もじの　ひょうじを\xfffeきりかえることが　できます
 いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
-Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
+C-GEARの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
 べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
 えらんだ　せっていに　かえますか？
-Yes
-No
+Ja
+Nein
 ダミーメッセージ

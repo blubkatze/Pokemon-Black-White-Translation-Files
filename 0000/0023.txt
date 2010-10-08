@@ -1,7 +1,7 @@
-Ｃギアの　でんげんを　いれて\xfffeつうしんを　はじめますか？
-オンのときは　ＤＳの　ふたを　とじても\xfffeスリープ　じょうたいに　なりません\xfffeのこりでんちに　ごちゅうい　ください
-Ｃギアの　でんげんを　きって\xfffeつうしんを　せつだん　しますか？
-\xf000\xff00\x0001\x0001ちゅうい！\xf000\xff00\x0001\x0000\xfffeひこうきや　びょういんなど\xfffeむせんつうしんを　きんしに　している\xfffeばしょでは　Ｃギアの　でんげんをきって\xfffeつうしんを　せつだん　してください
-Ｃギアの　でんげんを　オンにできません\xfffeほんたいの　むせんつうしんが\xfffeオフに　なっています\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
-はい
-いいえ
+C-GEAR einschalten?\xfffeBitte Hinweis lesen.
+Es bleibt eingeschaltet wenn der DS geschlossen wird\xfffeEs wird nicht in den Standby-Modus gehen\xfffeBitte beachten sie, dass die Batterie stärker belastet wird.
+C-GEAR ausschalten?\xfffeBitte Hinweis lesen
+\xf000\xff00\x0001\x0001Achtung!\xf000\xff00\x0001\x0000\xfffe\Bitte nicht in Flugzeugen und Krankenhäusern\xfffebenutzen, da Radiowellen vom C-GEAR ausgehen\xfffeund sensible Geräte stören können.
+Das C-GEAR kann auch wärend des Spiels\xfffeein- und ausgeschaltet werden.\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
+Ja
+Nein

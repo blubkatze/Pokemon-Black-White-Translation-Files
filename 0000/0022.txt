@@ -17,7 +17,7 @@ Um bei Wi-Fi-Spielen gegen ihre Freunde Verbindungsabbrüchen vorzubeugen\xfffes
 Mit dem C-GEAR könnnen sie sich im Wi-Fi-Club\xfffe mit ihren Freunden treffen und zusammen spielen.
 High-Linkは　ボタンを　タッチすれば\xfffeいっしゅんで　High-Linkに　いけます。
 じぶんの　まわりで　げんざい\xfffeユニオンルームに　はいっている\xfffeにんずうが　わかります。\xfffeまた　ちかくで　ワイヤレスの\xfffeはいしんを　おこなっているかも\xfffeわかります。
-それと　Ｃギアの　でんげんを\xfffeオンにしている　ひとが\xfffeまわりに　いるか　わかります。\xfffeちかくに　ひとが　いると\xfffeすれちがいや　ちょうさレーダーの\xfffeつうしんを　キャッチ　しやすいです。
+それと　C-GEARの　でんげんを\xfffeオンにしている　ひとが\xfffeまわりに　いるか　わかります。\xfffeちかくに　ひとが　いると\xfffeすれちがいや　ちょうさレーダーの\xfffeつうしんを　キャッチ　しやすいです。
 すれちがった　ひとが\xfffeどんなことを　しているのかが\xfffeリアルタイムで　ひょうじされます。\xfffeタッチすることで　あいてについて\xfffeくわしく　みたり\xfffeじゆうに　はつげん　できます。
 すれちがった　ひとの\xfffeこのみや　しゅみを　ちょうさできます。\xfffeちょうさしたい　ないようを　きめれば\xfffeきょう　すれちがった　ひとの　データ\xfffeいままでに　すれちがった　ひとの\xfffeデータを　みることが　できます。
 カスタムマークを　タッチすると\xfffeマークが　てんめつ　します。\xfffeその　じょうたいで　ボタンを\xfffeタッチすると　いろが　へんか　します。\xfffeいろの　ボタンを　ならべて\xfffeすきな　もようを　つくれます。
