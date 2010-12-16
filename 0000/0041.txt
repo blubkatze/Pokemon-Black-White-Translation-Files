@@ -1,13 +1,13 @@
-そのまま　おまちください
+Bitte einen Moment warten.
 \xf000Ă\x0001\x0000
-\xf000Ă\x0001\x0001は\xfffe\xf000Ă\x0001\x0002の　タマゴを　もらった！
-おまけエリアに　とまったので\xfffe\xf000ĉ\x0001\x0000を　もらった！
-ざんねん！　バッグが　いっぱいだ……\xfffeきのみを　もらうのを　あきらめた
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください
-つごうのつかない　メンバーがいたので\xfffeぐるぐるこうかんを　ちゅうし　します
-リーダーの　つごうが　つかないので\xfffeぐるぐるこうかんを　ちゅうし　します
-つうしんエラーが　はっせい　しました\xfffeぐるぐるこうかんを　ちゅうし　します
-じかんぎれのため　しめきられました\xfffeぐるぐるこうかんを　ちゅうし　します
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください
-ポケモンレポートに　かきこんでいます\xfffeしばらく　おまちください
-こうかんできない　タマゴが　あるので\xfffeぐるぐるこうかんを　ちゅうし　します
+\xf000Ă\x0001\x0001 Ei von\xf000Ă\x0001\x0002 erhalten!
+For stopping in the Bonus Area,\xfffereceived \xf000ĉ\x0001\x0000!
+Zu schade. Deine Tasche ist voll...\xfffeDu kannst die Beere nicht pflücken
+Warte auf Komunukation.\xfffeBitte warte einen Moment.
+Einige Teilnehmen haben Probleme.\xfffeSpin Trade wird ausgeschaltet.
+Der Führer hat Probleme.\xfffeSpin Trade wird ausgeschaltet.
+Ein Verbindungsfehler ist aufgetreten\xfffeSpin Trade wird ausgeschaltet.
+Zeit ist abgelaufen.\xfffeSpin Trade wird ausgeschaltet.
+Warte auf Kommunikation.\xfffeBitte warte einen Moment.
+Speicher das Spiel.\xfffeBitte einen Moment warten.
+Es sind nicht tauschbare Eier vorhanden.\xfffeSpin Trade wird beendet.

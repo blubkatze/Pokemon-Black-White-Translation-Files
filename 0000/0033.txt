@@ -1,7 +1,7 @@
-\xf000Ă\x0001\x0000を　グッズで\xfffeドレスアップ　しましょう！
-ドレスアップは\xfffeこれで　よろしいですか？
-ほかの　さんかしゃの\xfffeドレスアップを まっています
-\xf000Ċ\x0001\x0000\xfffe\xf000ı\x0001\x0001に　にあう　グッズです
-\xf000ı\x0001\x0000に　にあう　グッズを\xfffeせんとうに　ならびかえました
-グッズの　ならびの　じゅんばんを\xfffeもとに　もどしました
-リストから　グッズを　ひきだして\xfffeポケモンに　つけることが　できます
+Kleide \xf000Ă\x0001\x0000\xfffemit Schmuck ein!
+Ist dieser Schmuck okay?
+Warte auf andere Beitreter\xfffeum das Schmücken zu beenden.
+Ein Schmuckstück passend\xfffefür \xf000Ċ\x0001\x0000 \xf000ı\x0001\x0001.
+Schmuck für \xf000ı\x0001\x0000\xfffewurdenach vorne geholt.
+Die Reihenfolge des Schmucks\xfffewas wurde zurückgesetzt.
+Schmuck aus der Liste auswählen\xfffeund auf deine Pokémon ziehen.

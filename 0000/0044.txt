@@ -26,7 +26,7 @@ Und dies ist Bella.\xf000븁\x0000Diese Mädchen ist ein\xfffeProblem Kind...\xf
 Und mit dir in diesem Club,\xfffemacht das eine Anzahl von 3!\xf000븁\x0000Nun... Ich denke du hast es\xfffeschon mal gesehen, aber lass es mir dir zeigen.\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xf000븁\x0000Du bist fast fertig in die\xfffeWelt von Pokémon aufzubrechen!\xf000븁\x0000Denk immer daran, dass du\xfffeweiter machst egal was passiert.\xf000븁\x0000Vergess das niemals!\xf000븁\x0000Nun... Dann lass ich dich mal...\xfffeIch werd dich später sehen.\xf000븁\x0000Sorg dafür, dass du zu mir\xfffein mein Labor kommst, sobald du in der Stadt bist.\xf000븁\x0000Nun gehe in die Welt\xfffein die Welt von Pokémon!
 Warte einen Moment!\xfffeDein Zimmer sieht heute etwas anders aus
-よーし！\xfffeこれで　オーケーと！\xf000븁\x0000
+Alright!\xfffeThat'll do 'er!\xf000븁\x0000
 Achtung!\xfffeEntscheide dich für ein Pokémon\xfffeDanach kann dein Abenteuer losgehen\xfffeDu wirst auf deinem Abenteuer viele Pokémon treffen\xfffeAber wird alles gut gehen?
 Das Abenteuer beginnt
 Zurück zum Menü

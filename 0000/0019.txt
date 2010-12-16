@@ -1,13 +1,13 @@
 \xf000ć\x0001\x0000
-ＰＰ
+AP
 \xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
 \xf000Ă\x0001\x0000♂
 \xf000Ă\x0001\x0000♀
 \xf000Ă\x0001\x0000
 \xf000Ȃ\x0001\x0000
-／
+/
 \xf000ȁ\x0001\x0000
-Kampfunterbrechung!\xfffePlease wait!
+Kampfunterbrechung!\xfffeBitte warten!
 Wettkampf Aufnahme Daten kaputt,\xfffeda unterbrochen wurde!
-Aufnahme Lücke!\xfffePlease wait!
-Paused...\xfffePlease wait!
+Aufnahme Lücke!\xfffeBitte warten
+Pausiert...\xfffeBitte warten!

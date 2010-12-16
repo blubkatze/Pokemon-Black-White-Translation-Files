@@ -22,1128 +22,1128 @@ Gegnerisches \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffesind nicht sehr
 \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!sind nicht sehr effektiv...
 Wildes \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!sind nicht sehr effektiv...
 Gegnerisches \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!sind nicht sehr effektiv...
-Jedoch, \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
-Jedoch, das wilde \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
-Jedoch, das gegnerische \xf000Ă\x0001\x0000 attack\xfffedidn't land well!
-\xf000Ă\x0001\x0000's\xfffeAttack rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeAttack rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttack rose!
-\xf000Ă\x0001\x0000's\xfffeDefense rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeDefense rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeDefense rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attack rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attack rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Defense rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Defense rose!
-\xf000Ă\x0001\x0000's\xfffeSpeed rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeSpeed rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSpeed rose!
-\xf000Ă\x0001\x0000's\xfffeAccuracy rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeAccuracy rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAccuracy rose!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeEvasiveness rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeEvasiveness rose!
-\xf000Ă\x0001\x0000's\xfffeAttack rose greatly!
-Wildes \xf000Ă\x0001\x0000's\xfffeAttack rose greatly!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttack rose greatly!
-\xf000Ă\x0001\x0000's\xfffeDefense rose greatly!
-Wildes \xf000Ă\x0001\x0000's\xfffeDefense rose greatly!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeDefense rose greatly!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack rose greatly!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attack rose greatly!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attack rose greatly!
-\xf000Ă\x0001\x0000's\xfffeSp. Def rose greatly!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Def rose greatly!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Def rose greatly!
-\xf000Ă\x0001\x0000's\xfffeSpeed rose greatly!
-Wildes \xf000Ă\x0001\x0000's\xfffeSpeed rose greatly!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSpeed rose greatly!
-\xf000Ă\x0001\x0000's\xfffeAccuracy greatly rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeAccuracy greatly rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAccuracy greatly rose!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness greatly rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly rose!
-\xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
-\xf000Ă\x0001\x0000's\xfffeDefense sharply rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeDefense sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeDefense sharply rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack sharply rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense sharply rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply rose!
-\xf000Ă\x0001\x0000's\xfffeSpeed sharply rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeSpeed sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSpeed sharply rose!
-\xf000Ă\x0001\x0000's\xfffeAccuracy sharply rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeAccuracy sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAccuracy sharply rose!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness sharply rose!
-Wildes \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply rose!
-\xf000Ă\x0001\x0000's\xfffeAttack fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeAttack fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttack fell!
-\xf000Ă\x0001\x0000's\xfffeDefense fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeDefense fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeDefense fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attack fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attack fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Defense fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Defense fell!
-\xf000Ă\x0001\x0000's\xfffeSpeed fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeSpeed fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSpeed fell!
-\xf000Ă\x0001\x0000's\xfffeAccuracy fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeAccuracy fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAccuracy fell!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeEvasiveness fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeEvasiveness fell!
-\xf000Ă\x0001\x0000's\xfffeAttack greatly fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeAttack greatly fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttack greatly fell!
-\xf000Ă\x0001\x0000's\xfffeDefense greatly fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeDefense greatly fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeDefense greatly fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack greatly fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attack greatly fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attack greatly fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense greatly fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Defense greatly fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Defense greatly fell!
-\xf000Ă\x0001\x0000's\xfffeSpeed greatly fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeSpeed greatly fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSpeed greatly fell!
-\xf000Ă\x0001\x0000's\xfffeAccuracy greatly fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeAccuracy greatly fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAccuracy greatly fell!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness greatly fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly fell!
-\xf000Ă\x0001\x0000's\xfffeAttack sharply fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeAttack sharply fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttack sharply fell!
-\xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack sharply fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense sharply fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply fell!
-\xf000Ă\x0001\x0000's\xfffeSpeed sharply fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeSpeed sharply fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSpeed sharply fell!
-\xf000Ă\x0001\x0000's\xfffeAccuracy sharply fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeAccuracy sharply fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAccuracy sharply fell!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness sharply fell!
-Wildes \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply fell!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply fell!
-\xf000Ă\x0001\x0000's\xfffeAttack won't go higher!
-Wildes \xf000Ă\x0001\x0000's\xfffeAttack won't go higher!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttack won't go higher!
-\xf000Ă\x0001\x0000's\xfffeDefense won't go higher!
-Wildes \xf000Ă\x0001\x0000's\xfffeDefense won't go higher!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeDefense won't go higher!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack won't go higher!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go higher!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go higher!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense won't go higher!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Defense won't go higher!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Defense won't go higher!
-\xf000Ă\x0001\x0000's\xfffeSpeed won't go higher!
-Wildes \xf000Ă\x0001\x0000's\xfffeSpeed won't go higher!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSpeed won't go higher!
-\xf000Ă\x0001\x0000's\xfffeAccuracy won't go higher!
-Wildes \xf000Ă\x0001\x0000's\xfffeAccuracy won't go higher!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAccuracy won't go higher!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness won't go higher!
-Wildes \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go higher!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go higher!
-\xf000Ă\x0001\x0000's\xfffeAttack won't go lower!
-Wildes \xf000Ă\x0001\x0000's\xfffeAttack won't go lower!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttack won't go lower!
-\xf000Ă\x0001\x0000's\xfffeDefense won't go lower!
-Wildes \xf000Ă\x0001\x0000's\xfffeDefense won't go lower!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeDefense won't go lower!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack won't go lower!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go lower!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go lower!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense won't go lower!
-Wildes \xf000Ă\x0001\x0000's\xfffeSp. Defense won't go lower!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Defense won't go lower!
-\xf000Ă\x0001\x0000's\xfffeSpeed won't go lower!
-Wildes \xf000Ă\x0001\x0000's\xfffeSpeed won't go lower!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeSpeed won't go lower!
-\xf000Ă\x0001\x0000's\xfffeAccuracy won't go lower!
-Wildes \xf000Ă\x0001\x0000's\xfffeAccuracy won't go lower!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeAccuracy won't go lower!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
-Wildes \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
-Gegnerisches \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
+Jedoch, \xf000Ă\x0001\x0000's Attacke\xfffetraff nicht!
+Jedoch, das wilde \xf000Ă\x0001\x0000's Attacke\xfffetraff nicht!
+Jedoch, das gegnerische \xf000Ă\x0001\x0000's Attacke\xfffetraff nicht!
+\xf000Ă\x0001\x0000's\xfffeAttacke steigt!
+Wildes \xf000Ă\x0001\x0000's\xfffeAttacke steigt!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttacke steigt!
+\xf000Ă\x0001\x0000's\xfffeVerteidigung steigt!
+Wildes \xf000Ă\x0001\x0000's\xfffeVerteidigung steigt!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeVerteidigung steigt!
+\xf000Ă\x0001\x0000's\xfffeSp. Attacke steigt!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attacke steigt!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attacke steigt!
+\xf000Ă\x0001\x0000's\xfffeSp. Verteidigung steigt!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung steigt!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung steigt!
+\xf000Ă\x0001\x0000's\xfffeInt steigt!
+Wildes \xf000Ă\x0001\x0000's\xfffeInt steigt!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeInt steigt!
+\xf000Ă\x0001\x0000's\xfffeGenauigk. steigt!
+Wildes \xf000Ă\x0001\x0000's\xfffeGenauigk. steigt!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeGenauigk. steigt!
+\xf000Ă\x0001\x0000's\xfffeAusweichen steigt!
+Wildes \xf000Ă\x0001\x0000's\xfffeAusweichen steigt!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAusweichen steigt!
+\xf000Ă\x0001\x0000's\xfffeAttacke steigt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeAttacke steigt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttacke steigt stark!
+\xf000Ă\x0001\x0000's\xfffeVerteidigung steigt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeVerteidigung steigt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeVerteidigung steigt stark!
+\xf000Ă\x0001\x0000's\xfffeSp. Attacke steigt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attacke steigt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attacke steigt stark!
+\xf000Ă\x0001\x0000's\xfffeSp. Def steigt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Def steigt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Def steigt stark!
+\xf000Ă\x0001\x0000's\xfffeInt steigt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeInt steigt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeInt steigt stark!
+\xf000Ă\x0001\x0000's\xfffeGenauigk. steigt stark an!
+Wildes \xf000Ă\x0001\x0000's\xfffeGenauigk. steigt stark an!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeGenauigk. steigt stark an!
+\xf000Ă\x0001\x0000's\xfffeAusweichen steigt stark an!
+Wildes \xf000Ă\x0001\x0000's\xfffeAusweichen steigt stark an!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAusweichen steigt stark an!
+\xf000Ă\x0001\x0000's\xfffeAttacke steigt leicht an!
+Wildes \xf000Ă\x0001\x0000's\xfffeAttacke steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttacke steigt leicht an!
+\xf000Ă\x0001\x0000's\xfffeVerteidigung steigt leicht an!
+Wildes \xf000Ă\x0001\x0000's\xfffeVerteidigung steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeVerteidigung steigt leicht an!
+\xf000Ă\x0001\x0000's\xfffeSp. Attacke steigt leicht an!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attacke steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attacke steigt leicht an!
+\xf000Ă\x0001\x0000's\xfffeSp. Verteidigung steigt leicht an!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung steigt leicht an!
+\xf000Ă\x0001\x0000's\xfffeInt steigt leicht an!
+Wildes \xf000Ă\x0001\x0000's\xfffeInt steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeInt steigt leicht an!
+\xf000Ă\x0001\x0000's\xfffeGenauigk. steigt leicht an!
+Wildes \xf000Ă\x0001\x0000's\xfffeGenauigk. steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeGenauigk. steigt leicht an!
+\xf000Ă\x0001\x0000's\xfffeAusweichen steigt leicht an!
+Wildes \xf000Ă\x0001\x0000's\xfffeAusweichen steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAusweichen steigt leicht an!
+\xf000Ă\x0001\x0000's\xfffeAttacke fell!
+Wildes \xf000Ă\x0001\x0000's\xfffeAttacke fell!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttacke fell!
+\xf000Ă\x0001\x0000's\xfffeVerteidigung fell!
+Wildes \xf000Ă\x0001\x0000's\xfffeVerteidigung fell!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeVerteidigung fell!
+\xf000Ă\x0001\x0000's\xfffeSp. Attacke fell!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attacke fell!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attacke fell!
+\xf000Ă\x0001\x0000's\xfffeSp. Verteidigung fell!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung fell!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung fell!
+\xf000Ă\x0001\x0000's\xfffeInt fell!
+Wildes \xf000Ă\x0001\x0000's\xfffeInt fell!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeInt fell!
+\xf000Ă\x0001\x0000's\xfffeGenauigk. fell!
+Wildes \xf000Ă\x0001\x0000's\xfffeGenauigk. fell!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeGenauigk. fell!
+\xf000Ă\x0001\x0000's\xfffeAusweichen fell!
+Wildes \xf000Ă\x0001\x0000's\xfffeAusweichen fell!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAusweichen fell!
+\xf000Ă\x0001\x0000's\xfffeAttacke fällt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeAttacke fällt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttacke fällt stark!
+\xf000Ă\x0001\x0000's\xfffeVerteidigung fällt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeVerteidigung fällt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeVerteidigung fällt stark!
+\xf000Ă\x0001\x0000's\xfffeSp. Attacke fällt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attacke fällt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attacke fällt stark!
+\xf000Ă\x0001\x0000's\xfffeSp. Verteidigung fällt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung fällt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung fällt stark!
+\xf000Ă\x0001\x0000's\xfffeInt fällt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeInt fällt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeInt fällt stark!
+\xf000Ă\x0001\x0000's\xfffeGenauigk. fällt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeGenauigk. fällt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeGenauigk. fällt stark!
+\xf000Ă\x0001\x0000's\xfffeAusweichen fällt stark!
+Wildes \xf000Ă\x0001\x0000's\xfffeAusweichen fällt stark!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAusweichen fällt stark!
+xf000Ă\x0001\x0000's\xfffeAttacke fällt leicht!
+Wildes \xf000Ă\x0001\x0000's\xfffeAttacke fällt leicht!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttacke fällt leicht!
+\xf000Ă\x0001\x0000's\xfffeVerteidigung fällt leicht!
+Wildes \xf000Ă\x0001\x0000's\xfffeVerteidigung fällt leicht!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeVerteidigung fällt leicht!
+\xf000Ă\x0001\x0000's\xfffeSp. Attacke fällt leicht!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attacke fällt leicht!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attacke fällt leicht!
+\xf000Ă\x0001\x0000's\xfffeSp. Verteidigung fällt leicht!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung fällt leicht!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung fällt leicht!
+\xf000Ă\x0001\x0000's\xfffeInt fällt leicht!
+Wildes \xf000Ă\x0001\x0000's\xfffeInt fällt leicht!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeInt fällt leicht!
+\xf000Ă\x0001\x0000's\xfffeGenauigk. fällt leicht!
+Wildes \xf000Ă\x0001\x0000's\xfffeGenauigk. fällt leicht!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeGenauigk. fällt leicht!
+\xf000Ă\x0001\x0000's\xfffeAusweichen fällt leicht!
+Wildes \xf000Ă\x0001\x0000's\xfffeAusweichen fällt leicht!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAusweichen fällt leicht!
+\xf000Ă\x0001\x0000's\xfffeAttacke kann nicht erhöht werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeAttacke kann nicht erhöht werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttacke kann nicht erhöht werden!
+\xf000Ă\x0001\x0000's\xfffeVerteidigung kann nicht erhöht werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeVerteidigung kann nicht erhöht werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeVerteidigung kann nicht erhöht werden!
+\xf000Ă\x0001\x0000's\xfffeSp. Attacke kann nicht erhöht werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attacke kann nicht erhöht werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attacke kann nicht erhöht werden!
+\xf000Ă\x0001\x0000's\xfffeSp. Verteidigung kann nicht erhöht werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung kann nicht erhöht werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung kann nicht erhöht werden!
+\xf000Ă\x0001\x0000's\xfffeInt kann nicht erhöht werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeInt kann nicht erhöht werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeInt kann nicht erhöht werden!
+\xf000Ă\x0001\x0000's\xfffeGenauigk. kann nicht erhöht werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeGenauigk. kann nicht erhöht werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeGenauigk. kann nicht erhöht werden!
+\xf000Ă\x0001\x0000's\xfffeAusweichen kann nicht erhöht werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeAusweichen kann nicht erhöht werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAusweichen kann nicht erhöht werden!
+\xf000Ă\x0001\x0000's\xfffeAttacke kann nicht weniger werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeAttacke kann nicht weniger werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAttacke kann nicht weniger werden!
+\xf000Ă\x0001\x0000's\xfffeVerteidigung kann nicht weniger werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeVerteidigung kann nicht weniger werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeVerteidigung kann nicht weniger werden!
+\xf000Ă\x0001\x0000's\xfffeSp. Attacke kann nicht weniger werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Attacke kann nicht weniger werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Attacke kann nicht weniger werden!
+\xf000Ă\x0001\x0000's\xfffeSp. Verteidigung kann nicht weniger werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung kann nicht weniger werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeSp. Verteidigung kann nicht weniger werden!
+\xf000Ă\x0001\x0000's\xfffeInt kann nicht weniger werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeInt kann nicht weniger werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeInt kann nicht weniger werden!
+\xf000Ă\x0001\x0000's\xfffeGenauigk. kann nicht weniger werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeGenauigk. kann nicht weniger werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeGenauigk. kann nicht weniger werden!
+\xf000Ă\x0001\x0000's\xfffeAusweichen kann nicht weniger werden!
+Wildes \xf000Ă\x0001\x0000's\xfffeAusweichen kann nicht weniger werden!
+Gegnerisches \xf000Ă\x0001\x0000's\xfffeAusweichen kann nicht weniger werden!
 \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
 Wildes \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
 Gegnerisches \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
-\xf000Ă\x0001\x0000 \xfffeのうりょくは　さがらない！
-Wildes \xf000Ă\x0001\x0000 \xfffeのうりょくは　さがらない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeのうりょくは　さがらない！
-\xf000Ă\x0001\x0000 \xfffeこうげきは　さがらない！
-Wildes \xf000Ă\x0001\x0000 \xfffeこうげきは　さがらない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeこうげきは　さがらない！
-\xf000Ă\x0001\x0000 \xfffeぼうぎょは　さがらない！
-Wildes \xf000Ă\x0001\x0000 \xfffeぼうぎょは　さがらない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeぼうぎょは　さがらない！
-\xf000Ă\x0001\x0000 \xfffeめいちゅうりつは　さがらない！
-Wildes \xf000Ă\x0001\x0000 \xfffeめいちゅうりつは　さがらない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeめいちゅうりつは　さがらない！
-\xf000Ă\x0001\x0000 \xfffeisn't affected by it...
-Wildes \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
-\xf000Ă\x0001\x0000 \xfffeavoided the attack!
-Wildes \xf000Ă\x0001\x0000 \xfffeavoided the attack!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeavoided the attack!
+\xf000Ă\x0001\x0000 \xfffeability kann nicht verringert werden!
+Wildes \xf000Ă\x0001\x0000 \xfffeability kann nicht verringert werden!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeability kann nicht verringert werden!
+\xf000Ă\x0001\x0000 \xfffeAttacke kann nicht verringert werden!
+Wildes \xf000Ă\x0001\x0000 \xfffeAttacke kann nicht verringert werden!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeAttacke kann nicht verringert werden!
+\xf000Ă\x0001\x0000 \xfffeVerteidigung kann nicht verringert werden!
+Wildes \xf000Ă\x0001\x0000 \xfffeVerteidigung kann nicht verringert werden!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeVerteidigung kann nicht verringert werden!
+\xf000Ă\x0001\x0000 \xfffeGenauigk. kann nicht verringert werden!
+Wildes \xf000Ă\x0001\x0000 \xfffeGenauigk. kann nicht verringert werden!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeGenauigk. kann nicht verringert werden!
+\xf000Ă\x0001\x0000 \xfffewird davon nicht getroffen...
+Wildes \xf000Ă\x0001\x0000 \xfffewird davon nicht getroffen...
+Gegnerisches \xf000Ă\x0001\x0000 \xfffewird davon nicht getroffen...
+\xf000Ă\x0001\x0000 \xfffeist ausgewichen!
+Wildes \xf000Ă\x0001\x0000 \xfffeist ausgewichen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist ausgewichen!
 \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
 Wildes \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
 Gegnerisches \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
-\xf000Ă\x0001\x0000 increased the \xfffe\xf000ĉ\x0001\x0001's Defense!
-\xf000Ă\x0001\x0000 increased das wilde \xfffe\xf000ĉ\x0001\x0001's Defense!
-\xf000Ă\x0001\x0000 increased das gegnerische \xfffe\xf000ĉ\x0001\x0001's Defense!
-\xf000Ă\x0001\x0000's \xfffeform changed!
-Wildes \xf000Ă\x0001\x0000's \xfffeform changed!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeform changed!
-\xf000Ă\x0001\x0000 dropped\xfffe\xf000ĉ\x0001\x0001!
-Wildes \xf000Ă\x0001\x0000 dropped\xfffe\xf000ĉ\x0001\x0001!
-Gegnerisches \xf000Ă\x0001\x0000 dropped\xfffe\xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000's \xfffestatus returned to normal!
-Wildes \xf000Ă\x0001\x0000's \xfffestatus returned to normal!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffestatus returned to normal!
-\xf000Ă\x0001\x0000 \xfffemoved to the middle!
-Wildes \xf000Ă\x0001\x0000 \xfffemoved to the middle!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffemoved to the middle!
-\xf000Ă\x0001\x0000 \xfffegot covered in poison!
-Wildes \xf000Ă\x0001\x0000 \xfffegot covered in poison!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffegot covered in poison!
+\xf000Ă\x0001\x0000 erhöht \xfffe\xf000ĉ\x0001\x0001's Verteidigung!
+\xf000Ă\x0001\x0000 erhöht die Verteidigung des wilde \xfffe\xf000ĉ\x0001\x0001's!
+\xf000Ă\x0001\x0000 erhöht die Verteidigung des gegnerische \xfffe\xf000ĉ\x0001\x0001's!
+\xf000Ă\x0001\x0000's \xfffeForm hat sich verändert!
+Wildes \xf000Ă\x0001\x0000's \xfffeForm hat sich verändert!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeForm hat sich verändert!
+\xf000Ă\x0001\x0000 hat \xfffe\xf000ĉ\x0001\x0001 fallen gelassen!
+Wildes \xf000Ă\x0001\x0000 hat \xfffe\xf000ĉ\x0001\x0001 fallen gelassen!
+Gegnerisches \xf000Ă\x0001\x0000 hat \xfffe\xf000ĉ\x0001\x0001 fallen gelassen!
+\xf000Ă\x0001\x0000's \xfffeStatus ist wieder Normal!
+Wildes \xf000Ă\x0001\x0000's \xfffeStatus ist wieder Normal!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeStatus ist wieder Normal!
+\xf000Ă\x0001\x0000 \xfffeist in die Mitte gegangen!
+Wildes \xf000Ă\x0001\x0000 \xfffeist in die Mitte gegangen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist in die Mitte gegangen!
+\xf000Ă\x0001\x0000 \xfffeist übersäht mit Gift!!
+Wildes \xf000Ă\x0001\x0000 \xfffeist übersäht mit Gift!!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist übersäht mit Gift!!
 \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
 Wildes \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
 Gegnerisches \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
-\xf000Ă\x0001\x0000 got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
-Wildes \xf000Ă\x0001\x0000 got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
-Gegnerisches \xf000Ă\x0001\x0000 got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
-\xf000Ă\x0001\x0000 \xfffetook damage from the poison!
-Wildes \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
-\xf000Ă\x0001\x0000's \xfffepoison was removed completely!
-Wildes \xf000Ă\x0001\x0000's \xfffepoison was removed completely!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffepoison was removed completely!
-\xf000Ă\x0001\x0000 \xfffeis already poisoned!
-Wildes \xf000Ă\x0001\x0000 \xfffeis already poisoned!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis already poisoned!
-\xf000Ă\x0001\x0000 \xfffecan't be poisoned!
-Wildes \xf000Ă\x0001\x0000 \xfffecan't be poisoned!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffecan't become poisoned!
-\xf000Ă\x0001\x0000 \xfffegot burned!
-Wildes \xf000Ă\x0001\x0000 \xfffegot burned!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffegot burned!
-\xf000Ă\x0001\x0000got burned by the \xfffe\xf000ĉ\x0001\x0001!
-Wildes \xf000Ă\x0001\x0000got burned by the \xfffe\xf000ĉ\x0001\x0001!
-Gegnerisches \xf000Ă\x0001\x0000got burned by the \xfffe\xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffetook damage from the burn!
-Wildes \xf000Ă\x0001\x0000 \xfffetook damage from the burn!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffetook damage from the burn!
-\xf000Ă\x0001\x0000's \xfffeburn was healed!
-Wildes \xf000Ă\x0001\x0000's \xfffeburn was healed!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeburn was healed!
-\xf000Ă\x0001\x0000is already burnt.
-Wildes \xf000Ă\x0001\x0000is already burnt.
-Gegnerisches \xf000Ă\x0001\x0000is already burnt.
-\xf000Ă\x0001\x0000 \xfffecannot be burned!
-Wildes \xf000Ă\x0001\x0000 \xfffecannot be burned!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffecannot be burned!
-\xf000Ă\x0001\x0000 is paralyzed\xfffeand can't move!
-Wildes \xf000Ă\x0001\x0000 is paralyzed\xfffeand can't move!
-Gegnerisches \xf000Ă\x0001\x0000 is paralyzed\xfffeand can't move!
-\xf000Ă\x0001\x0000 \xfffeis paralyzed and cannot move!
-Wildes \xf000Ă\x0001\x0000 \xfffeis paralyzed and cannot move!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis paralyzed and cannot move!
-\xf000Ă\x0001\x0000 \xfffeis no longer paralyzed!
-Wildes \xf000Ă\x0001\x0000 \xfffeis no longer paralyzed!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis no longer paralyzed!
-\xf000Ă\x0001\x0000 \xfffeis already paralyzed!
-Wildes \xf000Ă\x0001\x0000 \xfffeis already paralyzed!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis already paralyzed!
-\xf000Ă\x0001\x0000 \xfffecan't be paralyzed!
-Wildes \xf000Ă\x0001\x0000 \xfffecan't be paralyzed!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffecan't be paralyzed!
-\xf000Ă\x0001\x0000 \xfffebecame frozen!
-Wildes \xf000Ă\x0001\x0000 \xfffebecame frozen!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffebecame frozen!
-\xf000Ă\x0001\x0000 \xfffeis frozen solid and cannot move!
-Wildes \xf000Ă\x0001\x0000 \xfffeis frozen solid and cannot move!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis frozen solid and cannot move!
-\xf000Ă\x0001\x0000 \xfffehas thawed out!
-Wildes \xf000Ă\x0001\x0000 \xfffehas thawed out!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffehas thawed out!
-\xf000Ă\x0001\x0000 \xfffeis already frozen!
-Wildes \xf000Ă\x0001\x0000 \xfffeis already frozen!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis already frozen!
-\xf000Ă\x0001\x0000 \xfffecan't be frozen!
-Wildes \xf000Ă\x0001\x0000 \xfffecan't be frozen!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffecan't be frozen!
-\xf000Ă\x0001\x0000 used \xf000ć\x0001\x0001\xfffeand thawed out!
-Wildes \xf000Ă\x0001\x0000 used \xf000ć\x0001\x0001\xfffeand thawed out!
-Gegnerisches \xf000Ă\x0001\x0000 used \xf000ć\x0001\x0001\xfffeand thawed out!
-\xf000Ă\x0001\x0000 \xfffefell asleep!
-Wildes \xf000Ă\x0001\x0000 \xfffefell asleep!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffefell asleep!
-\xf000Ă\x0001\x0000 \xfffeis sound asleep!
-Wildes \xf000Ă\x0001\x0000 \xfffeis sound asleep!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis sound asleep!
-\xf000Ă\x0001\x0000 \xfffewoke up!
-Wildes \xf000Ă\x0001\x0000 \xfffewoke up!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffewoke up!
-\xf000Ă\x0001\x0000 \xfffeis already asleep!
-Wildes \xf000Ă\x0001\x0000 \xfffeis already asleep!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis already asleep!
-\xf000Ă\x0001\x0000 \xfffecan't sleep!
-Wildes \xf000Ă\x0001\x0000 \xfffecan't sleep!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffecan't sleep!
-\xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
-Wildes \xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
-\xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
-Wildes \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
-\xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-Wildes \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-\xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-Wildes \xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-Gegnerisches \xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-\xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-Wildes \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-Gegnerisches \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffe fell in love!
-Wildes \xf000Ă\x0001\x0000 \xfffe fell in love!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe fell in love!
-\xf000Ă\x0001\x0000 \xfffeis no longer in love!
-Wildes \xf000Ă\x0001\x0000 \xfffeis no longer in love!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis no longer in love!
-\xf000Ă\x0001\x0000 \xfffeis back to normal!
-Wildes \xf000Ă\x0001\x0000 \xfffeis back to normal!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis back to normal!
-\xf000Ă\x0001\x0000 \xfffebecame confused!
-Wildes \xf000Ă\x0001\x0000 \xfffebecame confused!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffebecame confused!
-\xf000Ă\x0001\x0000 \xfffeis confused!
-Wildes \xf000Ă\x0001\x0000 \xfffeis confused!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis confused!
-\xf000Ă\x0001\x0000 \xfffeis no longer confused!
-Wildes \xf000Ă\x0001\x0000 \xfffeis no longer confused!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis no longer confused!
-\xf000Ă\x0001\x0000is \xfffealready confused!
-Wildes \xf000Ă\x0001\x0000is \xfffealready confused!
-Gegnerisches \xf000Ă\x0001\x0000is \xfffealready confused!
-\xf000Ă\x0001\x0000 \xfffecan't become confused!
-Wildes \xf000Ă\x0001\x0000 \xfffecan't become confused!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffecan't become confused!
-\xf000Ă\x0001\x0000 \xfffeis so tired it become confused!
-Wildes \xf000Ă\x0001\x0000 \xfffeis so tired it become confused!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis so tired it become confused!
-\xf000Ă\x0001\x0000 \xfffeis afraid and won't listen!
-Wildes \xf000Ă\x0001\x0000 \xfffeis afraid and won't listen!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis afraid and won't listen!
-\xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
-Wildes \xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
-Gegnerisches \xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
-\xf000Ă\x0001\x0000's \xfffeillusion wore off!
-Wildes \xf000Ă\x0001\x0000's \xfffeillusion wore off!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeillusion wore off!
-\xf000Ă\x0001\x0000 took damage \xfffefrom \xf000ć\x0001\x0001!
-Wildes \xf000Ă\x0001\x0000 took damage \xfffefrom \xf000ć\x0001\x0001!
-Gegnerisches \xf000Ă\x0001\x0000 took damage \xfffefrom \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 has broken free \xfffefrom \xf000ć\x0001\x0001!
-Wildes \xf000Ă\x0001\x0000 has broken free \xfffefrom \xf000ć\x0001\x0001!
-Gegnerisches \xf000Ă\x0001\x0000 has broken free \xfffefrom \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffewas hit with recoil!
-Wildes \xf000Ă\x0001\x0000 \xfffewas hit with recoil!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffewas hit with recoil!
-\xf000Ă\x0001\x0000's  \xfffe\xf000Ć\x0001\x0001 was traced!
-Wildes \xf000Ă\x0001\x0000's  \xfffe\xf000Ć\x0001\x0001 was traced!
-Gegnerisches \xf000Ă\x0001\x0000  \xfffe\xf000Ć\x0001\x0001 was traced!
-\xf000Ă\x0001\x0000's \xfffeattack was a critical hit!
-Wildes \xf000Ă\x0001\x0000's \xfffeattack was a critical hit!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeattack was a critical hit!
-\xf000Ă\x0001\x0000's \xfffeHP was restored!
-Wildes \xf000Ă\x0001\x0000's \xfffeHP was restored!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeHP was restored!
-\xf000Ă\x0001\x0000 restored \xf000ć\x0001\x0001's PP!
-Wildes \xf000Ă\x0001\x0000 restored \xf000ć\x0001\x0001's PP!
-Gegnerisches \xf000Ă\x0001\x0000 restored \xf000ć\x0001\x0001's PP!
-\xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
-Wildes \xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
-Gegnerisches \xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
-\xf000Ă\x0001\x0000 is buffeted \xfffeby the sandstorm!
-Wildes \xf000Ă\x0001\x0000 is buffeted \xfffeby the sandstorm!
-The foe \xf000Ă\x0001\x0000 is buffeted \xfffeby the sandstorm!
-\xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
-Wildes \xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
-Gegnerisches \xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
-\xf000Ă\x0001\x0000 \xfffetook damage!
-Wildes \xf000Ă\x0001\x0000 \xfffetook damage!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffetook damage!
-\xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ć\x0001\x0001!
-Wildes \xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ć\x0001\x0001!
-Gegnerisches \xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ć\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffeis using a balloon to float!
-Wildes \xf000Ă\x0001\x0000 \xfffeis using a balloon to float!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeis using a balloon to float!
-\xf000Ă\x0001\x0000's \xfffeballoon popped!
-Wildes \xf000Ă\x0001\x0000's \xfffeballoon popped!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeballoon popped!
-\xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
-Wildes \xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
-\xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた！
-\xf000Ă\x0001\x0000は　レッドカードを\xfffeWildes \xf000Ă\x0001\x0001に　たたきつけた！
-\xf000Ă\x0001\x0000は　レッドカードを\xfffeGegnerisches \xf000Ă\x0001\x0001に　たたきつけた！
-Wildes \xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた！
-Wildes \xf000Ă\x0001\x0000は　レッドカードを\xfffeThe wild \xf000Ă\x0001\x0001に　たたきつけた！
-Gegnerisches \xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた！
-Gegnerisches \xf000Ă\x0001\x0000は　レッドカードを\xfffeThe foe's \xf000Ă\x0001\x0001に　たたきつけた！
-\xf000Ă\x0001\x0000 \xfffeゴツゴツメットで　ダメージを　うけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeゴツゴツメットで　ダメージを　うけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeゴツゴツメットで　ダメージを　うけた！
-\xf000Ă\x0001\x0000 \xfffeほのおの　いりょくが　あがった！
-Wildes \xf000Ă\x0001\x0000 \xfffeほのおの　いりょくが　あがった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeほのおの　いりょくが　あがった！
-\xf000Ă\x0001\x0000 \xfffeきずついた！
-Wildes \xf000Ă\x0001\x0000 \xfffeきずついた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeきずついた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001　を　よみとった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001　を　よみとった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001　を　よみとった！
-\xf000Ă\x0001\x0000 \xfffeみぶるいした！
-Wildes \xf000Ă\x0001\x0000 \xfffeみぶるいした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeみぶるいした！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　を　おみとおしだ！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　を　おみとおしだ！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　を　おみとおしだ！
-\xf000Ă\x0001\x0000 \xfffeかたやぶりだ！
-Wildes \xf000Ă\x0001\x0000 \xfffeかたやぶりだ！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeかたやぶりだ！
-\xf000Ă\x0001\x0000 \xfffeなまけている
-Wildes \xf000Ă\x0001\x0000 \xfffeなまけている
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeなまけている
-\xf000Ă\x0001\x0000 \xfffeこうげきを　ひきよせた！
-Wildes \xf000Ă\x0001\x0000 \xfffeこうげきを　ひきよせた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeこうげきを　ひきよせた！
-\xf000Ă\x0001\x0000は　ねむらない！
-Wildes \xf000Ă\x0001\x0000は　ねむらない！
-Gegnerisches \xf000Ă\x0001\x0000は　ねむらない！
-\xf000Ă\x0001\x0000 \xfffeきゅうばんで　はりついている！
-Wildes \xf000Ă\x0001\x0000 \xfffeきゅうばんで　はりついている！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeきゅうばんで　はりついている！
-\xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった！
-Wildes \xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばった！
-\xf000Ă\x0001\x0000 \xfffeとくせいが　ミイラになっちゃった！
-Wildes \xf000Ă\x0001\x0000 \xfffeとくせいが　ミイラになっちゃった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeとくせいが　ミイラになっちゃった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-\xf000Ă\x0001\x0000 \xfffeみかたからの　こうげきを　うけない！
-Wildes \xf000Ă\x0001\x0000 \xfffeみかたからの　こうげきを　うけない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeみかたからの　こうげきを　うけない！
-\xf000Ă\x0001\x0000 \xfffeどくを　あびせた！
-Wildes \xf000Ă\x0001\x0000 \xfffeどくを　あびせた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeどくを　あびせた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　しゅうかくした！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　しゅうかくした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　しゅうかくした！
-\xf000Ă\x0001\x0000 \xfffeイリュージョンが　とけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeイリュージョンが　とけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeイリュージョンが　とけた！
-\xf000Ă\x0001\x0000 \xfffeこうげきが　さいだいまで　あがった！
-Wildes \xf000Ă\x0001\x0000 \xfffeこうげきが　さいだいまで　あがった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeこうげきが　さいだいまで　あがった！
-\xf000Ă\x0001\x0000 \xfffeうなされている！
-Wildes \xf000Ă\x0001\x0000 \xfffeうなされている！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeうなされている！
-\xf000Ă\x0001\x0000 \xfffeプレッシャーを　はなっている！
-Wildes \xf000Ă\x0001\x0000 \xfffeプレッシャーを　はなっている！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeプレッシャーを　はなっている！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-\xf000Ă\x0001\x0000 \xfffeどうぐを　うばえない！
-Wildes \xf000Ă\x0001\x0000 \xfffeどうぐを　うばえない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeどうぐを　うばえない！
-\xf000Ă\x0001\x0000 \xfffeちょうしが　あがらない！
-Wildes \xf000Ă\x0001\x0000 \xfffeちょうしが　あがらない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeちょうしが　あがらない！
-\xf000Ă\x0001\x0000 \xfffeちょうしを　とりもどした！
-Wildes \xf000Ă\x0001\x0000 \xfffeちょうしを　とりもどした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeちょうしを　とりもどした！
-\xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている！
-Wildes \xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている！
-\xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている！
-Wildes \xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている！
-\xf000Ă\x0001\x0000 \xfffeおたがいの　とくせいを　いれかえた！
-Wildes \xf000Ă\x0001\x0000 \xfffeおたがいの　とくせいを　いれかえた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeおたがいの　とくせいを　いれかえた！
-\xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった！
-Wildes \xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった！
-\xf000Ă\x0001\x0000 \xfffeこうげきを　こらえた！
-Wildes \xf000Ă\x0001\x0000 \xfffeこうげきを　こらえた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeこうげきを　こらえた！
-\xf000Ă\x0001\x0000 \xfffeまもりの　たいせいに　はいった！
-Wildes \xf000Ă\x0001\x0000 \xfffeまもりの　たいせいに　はいった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeまもりの　たいせいに　はいった！
-\xf000Ă\x0001\x0000 \xfffeまもりを　うちやぶった！
-Wildes \xf000Ă\x0001\x0000 \xfffeまもりを　うちやぶった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeまもりを　うちやぶった！
-\xf000Ă\x0001\x0000 \xfffeこうげきから　みを　まもった！
-Wildes \xf000Ă\x0001\x0000 \xfffeこうげきから　みを　まもった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeこうげきから　みを　まもった！
-\xf000Ă\x0001\x0000 \xfffeフェイントに　ひっかかった！
-Wildes \xf000Ă\x0001\x0000 \xfffeフェイントに　ひっかかった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeフェイントに　ひっかかった！
-\xf000Ă\x0001\x0000 \xfffeそらたかく　とびあがった！
-Wildes \xf000Ă\x0001\x0000 \xfffeそらたかく　とびあがった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeそらたかく　とびあがった！
-\xf000Ă\x0001\x0000 \xfffeいかりのボルテージが　あがっていく！
-Wildes \xf000Ă\x0001\x0000 \xfffeいかりのボルテージが　あがっていく！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeいかりのボルテージが　あがっていく！
-\xf000Ă\x0001\x0000 \xfffeすいちゅうに　みをひそめた！
-Wildes \xf000Ă\x0001\x0000 \xfffeすいちゅうに　みをひそめた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeすいちゅうに　みをひそめた！
-\xf000Ă\x0001\x0000 \xfffeじめんに　もぐった！
-Wildes \xf000Ă\x0001\x0000 \xfffeじめんに　もぐった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeじめんに　もぐった！
-\xf000Ă\x0001\x0000 すがたが\xfffeいっしゅんにして　きえた！
-Wildes \xf000Ă\x0001\x0000 すがたが\xfffeいっしゅんにして　きえた！
-Gegnerisches \xf000Ă\x0001\x0000 すがたが\xfffeいっしゅんにして　きえた！
-\xf000Ă\x0001\x0000 \xfffeたかく　とびはねた！
-Wildes \xf000Ă\x0001\x0000 \xfffeたかく　とびはねた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeたかく　とびはねた！
-\xf000Ă\x0001\x0000 　まわりで\xfffeくうきが　うずをまく！
-Wildes \xf000Ă\x0001\x0000 　まわりで\xfffeくうきが　うずをまく！
-Gegnerisches \xf000Ă\x0001\x0000 　まわりで\xfffeくうきが　うずをまく！
-\xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
-Wildes \xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
-Gegnerisches \xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
-\xf000Ă\x0001\x0000 \xfffeひかりを　きゅうしゅうした！
-Wildes \xf000Ă\x0001\x0000 \xfffeひかりを　きゅうしゅうした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeひかりを　きゅうしゅうした！
-\xf000Ă\x0001\x0000 \xfffeくびを　ひっこめた！
-Wildes \xf000Ă\x0001\x0000 \xfffeくびを　ひっこめた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeくびを　ひっこめた！
-\xf000Ă\x0001\x0000 \xfffeアンコールをうけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeアンコールをうけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeアンコールをうけた！
-\xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた！
-\xf000Ă\x0001\x0000 \xfffeとくせいが　きかなくなった！
-Wildes \xf000Ă\x0001\x0000 \xfffeとくせいが　きかなくなった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeとくせいが　きかなくなった！
-\xf000Ă\x0001\x0000 \xfffeちょうはつに　のってしまった！
-Wildes \xf000Ă\x0001\x0000 \xfffeちょうはつに　のってしまった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeちょうはつに　のってしまった！
-\xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
-Wildes \xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
-Gegnerisches \xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
-\xf000Ă\x0001\x0000 \xfffeちょうはつの　こうかが　とけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeちょうはつの　こうかが　とけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeちょうはつの　こうかが　とけた！
-\xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられた！
-Wildes \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられた！
-\xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられたので\xf000븀\x0000つづけて　おなじ　わざが　だせない！
-Wildes \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられたので\xf000븀\x0000つづけて　おなじ　わざが　だせない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられたので\xf000븀\x0000つづけて　おなじ　わざが　だせない！
-\xf000Ă\x0001\x0000 \xfffeいちゃもんの　こうかが　きれた！
-Wildes \xf000Ă\x0001\x0000 \xfffeいちゃもんの　こうかが　きれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeいちゃもんの　こうかが　きれた！
-\xf000Ă\x0001\x0000 \xfffeGegnerisches わざを　ふういんした！
-Wildes \xf000Ă\x0001\x0000 \xfffeGegnerisches わざを　ふういんした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's わざを　ふういんした！
-\xf000Ă\x0001\x0000 \xfffeふういんで\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
-Wildes \xf000Ă\x0001\x0000 \xfffeふういんで\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeふういんで\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふうじこめた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふうじこめた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふうじこめた！
-\xf000Ă\x0001\x0000は　かなしばりで\xfffe\xf000ć\x0001\x0001が　だせない！
-Wildes \xf000Ă\x0001\x0000は　かなしばりで\xfffe\xf000ć\x0001\x0001が　だせない！
-Gegnerisches \xf000Ă\x0001\x0000は　かなしばりで\xfffe\xf000ć\x0001\x0001が　だせない！
-\xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
-\xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
-Wildes \xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
-\xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
-Wildes \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
-\xf000Ă\x0001\x0000 \xfffeたねを　うえつけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeたねを　うえつけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeたねを　うえつけた！
-やどりぎが　\xf000Ă\x0001\x0000 \xfffeたいりょくを　うばう！
-やどりぎが　Wildes \xf000Ă\x0001\x0000 \xfffeたいりょくを　うばう！
-やどりぎが　Gegnerisches \xf000Ă\x0001\x0000 \xfffeたいりょくを　うばう！
-\xf000Ă\x0001\x0000 \xfffeたいりょくを　けずって　パワーぜんかい！
-Wildes \xf000Ă\x0001\x0000 \xfffeたいりょくを　けずって　パワーぜんかい！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeたいりょくを　けずって　パワーぜんかい！
-\xf000Ă\x0001\x0000 \xfffeしゅうちゅうりょくを　たかめている！
-Wildes \xf000Ă\x0001\x0000 \xfffeしゅうちゅうりょくを　たかめている！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeしゅうちゅうりょくを　たかめている！
-\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-\xf000Ă\x0001\x0000は　Wildes \xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-\xf000Ă\x0001\x0000は　Gegnerisches \xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-Wildes \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000Ć\x0001\x0002を　コピーした！
-Gegnerisches \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000Ć\x0001\x0002を　コピーした！
-\xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　しようとしている！
-Wildes \xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　しようとしている！
-Gegnerisches \xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　しようとしている！
-\xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　した！
-Wildes \xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　した！
-Gegnerisches \xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　した！
-\xf000Ă\x0001\x0000は　あいてに\xfffeおんねんを　かけようとしている！
-Wildes \xf000Ă\x0001\x0000は　あいてに\xfffeおんねんを　かけようとしている！
-Gegnerisches \xf000Ă\x0001\x0000は　あいてに\xfffeおんねんを　かけようとしている！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001は\xf000븀\x0000おんねんで　ＰＰが０になった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001は\xf000븀\x0000おんねんで　ＰＰが０になった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001は\xf000븀\x0000おんねんで　ＰＰが０になった！
-\xf000Ă\x0001\x0000は　ねむって\xfffeげんきに　なった！
-Wildes \xf000Ă\x0001\x0000は　ねむって\xfffeげんきに　なった！
-Gegnerisches \xf000Ă\x0001\x0000は　ねむって\xfffeげんきに　なった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　\xf000Ȁ\x0001\x0002けずった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　\xf000Ȁ\x0001\x0002けずった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　\xf000Ȁ\x0001\x0002けずった！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に　へんしんした！
-\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001に　へんしんした！
-\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001に　へんしんした！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に　へんしんした！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に　へんしんした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に　へんしんした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に　へんしんした！
-\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001!\xfffeねらいを　さだめた！
-\xf000Ă\x0001\x0000は　やせいの\xf000Ă\x0001\x0001に　\xfffeねらいを　さだめた！
-\xf000Ă\x0001\x0000は　あいての\xf000Ă\x0001\x0001に　\xfffeねらいを　さだめた！
-Wildes \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001!\xfffeねらいを　さだめた！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に\xf000븀\x0000ねらいを　さだめた！
-Gegnerisches \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001!\xfffeねらいを　さだめた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に\xf000븀\x0000ねらいを　さだめた！
-\xf000Ă\x0001\x0000 \xfffeでんじりょくで　うかびあがった！
-Wildes \xf000Ă\x0001\x0000 \xfffeでんじりょくで　うかびあがった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeでんじりょくで　うかびあがった！
-\xf000Ă\x0001\x0000 \xfffeでんじりょくが　なくなった！
-Wildes \xf000Ă\x0001\x0000 \xfffeでんじりょくが　なくなった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeでんじりょくが　なくなった！
-\xf000Ă\x0001\x0000 \xfffeじゅうでんを　はじめた！
-Wildes \xf000Ă\x0001\x0000 \xfffeじゅうでんを　はじめた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeじゅうでんを　はじめた！
-\xf000Ă\x0001\x0000 \xfffeねむけを　さそった！
-Wildes \xf000Ă\x0001\x0000 \xfffeねむけを　さそった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeねむけを　さそった！
-\xf000Ă\x0001\x0000 \xfffeちゅうもくの　まとになった！
-Wildes \xf000Ă\x0001\x0000 \xfffeちゅうもくの　まとになった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeちゅうもくの　まとになった！
-\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた！
-Wildes \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた！
-Gegnerisches \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた！
-\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげき and とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた！
-Wildes \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげき and とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた！
-Gegnerisches \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげき and とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた！
-\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょ and とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた！
-Wildes \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょ and とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた！
-Gegnerisches \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょ and とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた！
-\xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた！
-Wildes \xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた！
-Gegnerisches \xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　てにいれた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　てにいれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　てにいれた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　おぼえた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　おぼえた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　おぼえた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　スケッチした！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　スケッチした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　スケッチした！
-\xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた！
-Wildes \xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた！
-Gegnerisches \xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた！
-いやしのねがいが\xfffe\xf000Ă\x0001\x0000に　とどいた！
-いやしのねがいが\xfffeWildes \xf000Ă\x0001\x0000に　とどいた！
-いやしのねがいが\xfffeGegnerisches \xf000Ă\x0001\x0000に　とどいた！
-\xf000Ă\x0001\x0000 \xfffeねがいごとが　かなった！
-Wildes \xf000Ă\x0001\x0000 \xfffeねがいごとが　かなった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeねがいごとが　かなった！
-\xf000Ă\x0001\x0000 \xfffeさわぎだした！
-Wildes \xf000Ă\x0001\x0000 \xfffeさわぎだした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeさわぎだした！
-\xf000Ă\x0001\x0000 \xfffeさわがしくて　めが　さめた！
-Wildes \xf000Ă\x0001\x0000 \xfffeさわがしくて　めが　さめた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeさわがしくて　めが　さめた！
-しかし　\xf000Ă\x0001\x0000 \xfffeさわがしくて　ねむれない！
-しかし　Wildes \xf000Ă\x0001\x0000 \xfffeさわがしくて　ねむれない！
-しかし　Gegnerisches \xf000Ă\x0001\x0000 \xfffeさわがしくて　ねむれない！
-しかし　\xf000Ă\x0001\x0000 \xfffeさわいでいて　ねむれない！
-しかし　Wildes \xf000Ă\x0001\x0000 \xfffeさわいでいて　ねむれない！
-しかし　Gegnerisches \xf000Ă\x0001\x0000 \xfffeさわいでいて　ねむれない！
-\xf000Ă\x0001\x0000 \xfffeさわいでいる！
-Wildes \xf000Ă\x0001\x0000 \xfffeさわいでいる！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeさわいでいる！
-\xf000Ă\x0001\x0000 \xfffeおとなしくなった！
-Wildes \xf000Ă\x0001\x0000 \xfffeおとなしくなった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeおとなしくなった！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つ　たくわえた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つ　たくわえた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つ　たくわえた！
-\xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた！
-Wildes \xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた！
-Gegnerisches \xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた！
-\xf000Ă\x0001\x0000 \xfffeどうぐが　つかえなくなった！
-Wildes \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえなくなった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえなくなった！
-\xf000Ă\x0001\x0000 \xfffeどうぐが　つかえるようになった！
-Wildes \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえるようになった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえるようになった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-\xf000Ă\x0001\x0000は　ねを　はった！
-Wildes \xf000Ă\x0001\x0000は　ねを　はった！
-Gegnerisches \xf000Ă\x0001\x0000は　ねを　はった！
-\xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった！
-Wildes \xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった！
-Gegnerisches \xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった！
-\xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない！
-Wildes \xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない！
-Gegnerisches \xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない！
+\xf000Ă\x0001\x0000 ist übersäht mit Gift! from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
+Wildes \xf000Ă\x0001\x0000 ist übersäht mit Gift! from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
+Gegnerisches \xf000Ă\x0001\x0000 ist übersäht mit Gift! from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
+Das Gift schaded \xf000Ă\x0001\x0000 \xfffe !
+Das Gift schaded Wildes \xf000Ă\x0001\x0000 \xfffe !
+Das Gift schaded Gegnerisches \xf000Ă\x0001\x0000 \xfffe !
+Das Gift von \xf000Ă\x0001\x0000's \xfffewurde vollständig entfehrnt!
+Das Gift von Wildes \xf000Ă\x0001\x0000's \xfffewurde vollständig entfehrnt!
+Das Gift von Gegnerisches \xf000Ă\x0001\x0000 \xfffewurde vollständig entfehrnt!
+\xf000Ă\x0001\x0000 \xfffeist schon vergiftet!
+Wildes \xf000Ă\x0001\x0000 \xfffeist schon vergiftet!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist schon vergiftet!
+\xf000Ă\x0001\x0000 \xfffekann nicht vergiftet werden!
+Wildes \xf000Ă\x0001\x0000 \xfffekann nicht vergiftet werden!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffekann nicht vergiftet werden!
+\xf000Ă\x0001\x0000 \xfffefängt an zu brennen!
+Wildes \xf000Ă\x0001\x0000 \xfffefängt an zu brennen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffefängt an zu brennen!
+\xf000Ă\x0001\x0000fängt an zu brennen by the \xfffe\xf000ĉ\x0001\x0001!
+Wildes \xf000Ă\x0001\x0000fängt an zu brennen by the \xfffe\xf000ĉ\x0001\x0001!
+Gegnerisches \xf000Ă\x0001\x0000fängt an zu brennen by the \xfffe\xf000ĉ\x0001\x0001!
+Das Feuer schaded \xf000Ă\x0001\x0000 \xfffe!
+Das Feuer schaded Wildes \xf000Ă\x0001\x0000 \xfffe!
+Das Feuer schaded Gegnerisches \xf000Ă\x0001\x0000 \xfffe!
+\xf000Ă\x0001\x0000's \xfffeverbrennung wurde geheilt!
+Wildes \xf000Ă\x0001\x0000's \xfffeverbrennung wurde geheilt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeverbrennung wurde geheilt!
+\xf000Ă\x0001\x0000ist schon am brennen.
+Wildes \xf000Ă\x0001\x0000ist schon am brennen.
+Gegnerisches \xf000Ă\x0001\x0000ist schon am brennen.
+\xf000Ă\x0001\x0000 \xfffekann kein Feuer fangen!
+Wildes \xf000Ă\x0001\x0000 \xfffekann kein Feuer fangen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffekann kein Feuer fangen!
+\xf000Ă\x0001\x0000 ist paralysiert\xfffeund kann sich nicht bewegen!
+Wildes \xf000Ă\x0001\x0000 ist paralysiert\xfffeund kann sich nicht bewegen!
+Gegnerisches \xf000Ă\x0001\x0000 ist paralysiert\xfffeund kann sich nicht bewegen!
+\xf000Ă\x0001\x0000 \xfffeist paralysiert und kann sich nicht bewegen!
+Wildes \xf000Ă\x0001\x0000 \xfffeist paralysiert und kann sich nicht bewegen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist paralysiert und kann sich nicht bewegen!
+\xf000Ă\x0001\x0000 \xfffeist nichtmehr paralisiert!
+Wildes \xf000Ă\x0001\x0000 \xfffeist nichtmehr paralisiert!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist nichtmehr paralisiert!
+\xf000Ă\x0001\x0000 \xfffeist schon paralisiert!
+Wildes \xf000Ă\x0001\x0000 \xfffeist schon paralisiert!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist schon paralisiert!
+\xf000Ă\x0001\x0000 \xfffekann nicht paralisiert werden!
+Wildes \xf000Ă\x0001\x0000 \xfffekann nicht paralisiert werden!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffekann nicht paralisiert werden!
+\xf000Ă\x0001\x0000 \xfffeist eingefroren!
+Wildes \xf000Ă\x0001\x0000 \xfffeist eingefroren!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist eingefroren!
+\xf000Ă\x0001\x0000 \xfffeist eingefroren und kann sich nicht bewegen!
+Wildes \xf000Ă\x0001\x0000 \xfffeist eingefroren und kann sich nicht bewegen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist eingefroren und kann sich nicht bewegen!
+\xf000Ă\x0001\x0000 \xfffeist aufgetaut!
+Wildes \xf000Ă\x0001\x0000 \xfffeist aufgetaut!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist aufgetaut!
+\xf000Ă\x0001\x0000 \xfffeist schon eingefroren!
+Wildes \xf000Ă\x0001\x0000 \xfffeist schon eingefroren!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist schon eingefroren!
+\xf000Ă\x0001\x0000 \xfffekann nicht einfrieren!
+Wildes \xf000Ă\x0001\x0000 \xfffekann nicht einfrieren!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffekann nicht einfrieren!
+\xf000Ă\x0001\x0000 benutzt \xf000ć\x0001\x0001\xfffeund taut auf!
+Wildes \xf000Ă\x0001\x0000 benutzt \xf000ć\x0001\x0001\xfffeund taut auf!
+Gegnerisches \xf000Ă\x0001\x0000 benutzt \xf000ć\x0001\x0001\xfffeund taut auf!
+\xf000Ă\x0001\x0000 \xfffeist eingeschlafen!
+Wildes \xf000Ă\x0001\x0000 \xfffeist eingeschlafen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist eingeschlafen!
+\xf000Ă\x0001\x0000 \xfffeist am schlafen!
+Wildes \xf000Ă\x0001\x0000 \xfffeist am schlafen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist am schlafen!
+\xf000Ă\x0001\x0000 \xfffeist aufgewacht!
+Wildes \xf000Ă\x0001\x0000 \xfffeist aufgewacht!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist aufgewacht!
+\xf000Ă\x0001\x0000 \xfffeist schon am schlafen!
+Wildes \xf000Ă\x0001\x0000 \xfffeist schon am schlafen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist schon am schlafen!
+\xf000Ă\x0001\x0000 \xfffekann nicht einschlafen!
+Wildes \xf000Ă\x0001\x0000 \xfffekann nicht einschlafen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffekann nicht einschlafen!
+\xf000Ă\x0001\x0000 \xfffesieht Alpträume!
+Wildes \xf000Ă\x0001\x0000 \xfffesieht Alpträume!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffesieht Alpträume!
+\xf000Ă\x0001\x0000 \xfffehat Alpträume!
+Wildes \xf000Ă\x0001\x0000 \xfffehat Alpträume!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffehat Alpträume!
+\xf000Ă\x0001\x0000 \xfffehat Alpträume!
+Wildes \xf000Ă\x0001\x0000 \xfffehat Alpträume!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffehat Alpträume!
+\xf000Ă\x0001\x0000 und \xf000ĉ\x0001\x0001  \xfffehaben Alpträume!
+Wildes \xf000Ă\x0001\x0000 und \xf000ĉ\x0001\x0001  \xfffehaben Alpträume!
+Gegnerisches \xf000Ă\x0001\x0000 und \xf000ĉ\x0001\x0001  \xfffehaben Alpträume!
+\xf000Ă\x0001\x0000 vernarrt sich in \xf000Ă\x0001\x0001!
+Wildes \xf000Ă\x0001\x0000 vernarrt sich in \xf000Ă\x0001\x0001!
+Gegnerisches \xf000Ă\x0001\x0000 vernarrt sich in \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffe hat sich verliebt!
+Wildes \xf000Ă\x0001\x0000 \xfffe hat sich verliebt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe hat sich verliebt!
+\xf000Ă\x0001\x0000 \xfffeist nichtmehr verliebt!
+Wildes \xf000Ă\x0001\x0000 \xfffeist nichtmehr verliebt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist nichtmehr verliebt!
+\xf000Ă\x0001\x0000 \xfffeist wieder normal!
+Wildes \xf000Ă\x0001\x0000 \xfffeist wieder normal!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist wieder normal!
+\xf000Ă\x0001\x0000 \xfffeist verwirrt worden!
+Wildes \xf000Ă\x0001\x0000 \xfffeist verwirrt worden!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist verwirrt worden!
+\xf000Ă\x0001\x0000 \xfffeist verwirrt!
+Wildes \xf000Ă\x0001\x0000 \xfffeist verwirrt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist verwirrt!
+\xf000Ă\x0001\x0000 \xfffeist nicht mehr verwirrt!
+Wildes \xf000Ă\x0001\x0000 \xfffeist nicht mehr verwirrt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist nicht mehr verwirrt!
+\xf000Ă\x0001\x0000ist schon verwirrt!
+Wildes \xf000Ă\x0001\x0000ist schon verwirrt!
+Gegnerisches \xf000Ă\x0001\x0000ist schon verwirrt!
+\xf000Ă\x0001\x0000 \xfffekann nicht verwirrt werden!
+Wildes \xf000Ă\x0001\x0000 \xfffekann nicht verwirrt werden!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffekann nicht verwirrt werden!
+\xf000Ă\x0001\x0000 \xfffeist so müde, dass es verwirrt wurde!
+Wildes \xf000Ă\x0001\x0000 \xfffeist so müde, dass es verwirrt wurde!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist so müde, dass es verwirrt wurde!
+\xf000Ă\x0001\x0000 \xfffeist verängstigt und wird nicht hören!
+Wildes \xf000Ă\x0001\x0000 \xfffeist verängstigt und wird nicht hören!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist verängstigt und wird nicht hören!
+\xf000Ă\x0001\x0000kann sich nicht konzentrieren\xfffeund wird nicht hören!
+Wildes \xf000Ă\x0001\x0000kann sich nicht konzentrieren\xfffeund wird nicht hören!
+Gegnerisches \xf000Ă\x0001\x0000kann sich nicht konzentrieren\xfffeund wird nicht hören!
+\xf000Ă\x0001\x0000's \xfffeIllusion ist verschwunden!
+Wildes \xf000Ă\x0001\x0000's \xfffeIllusion ist verschwunden!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeIllusion ist verschwunden!
+\xf000Ă\x0001\x0000 hat Schaden\xfffevon \xf000ć\x0001\x0001bekommen!
+Wildes \xf000Ă\x0001\x0000 hat Schaden\xfffevon \xf000ć\x0001\x0001bekommen!
+Gegnerisches \xf000Ă\x0001\x0000 hat Schaden\xfffevon \xf000ć\x0001\x0001bekommen!
+\xf000Ă\x0001\x0000 hat sich von \xf000ć\x0001\x0001befreit!
+Wildes \xf000Ă\x0001\x0000 hat sich von \xf000ć\x0001\x0001befreit!
+Gegnerisches \xf000Ă\x0001\x0000 hat sich von \xf000ć\x0001\x0001befreit!
+\xf000Ă\x0001\x0000 \xfffebekam Schaden durch den Rückstoß!
+Wildes \xf000Ă\x0001\x0000 \xfffebekam Schaden durch den Rückstoß!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffebekam Schaden durch den Rückstoß!
+\xf000Ă\x0001\x0000's  \xfffe\xf000Ć\x0001\x0001 wird verfolgt!
+Wildes \xf000Ă\x0001\x0000's  \xfffe\xf000Ć\x0001\x0001 wird verfolgt!
+Gegnerisches \xf000Ă\x0001\x0000  \xfffe\xf000Ć\x0001\x0001 wird verfolgt!
+\xf000Ă\x0001\x0000 \xfffehat eine kritischen Treffer gelandet!
+Wildes \xf000Ă\x0001\x0000 \xfffehat eine kritischen Treffer gelandet!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffehat eine kritischen Treffer gelandet!
+\xf000Ă\x0001\x0000's \xfffeKP wurden wiederhergestellt!
+Wildes \xf000Ă\x0001\x0000's \xfffeKP wurden wiederhergestellt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeKP wurden wiederhergestellt!
+\xf000Ă\x0001\x0000 haben \xf000ć\x0001\x0001's AP wiederhegestellt!
+Wildes \xf000Ă\x0001\x0000 haben \xf000ć\x0001\x0001's AP wiederhegestellt!
+Gegnerisches \xf000Ă\x0001\x0000 haben \xf000ć\x0001\x0001's AP wiederhegestellt!
+\xf000Ă\x0001\x0000 \xfffehaben all of their moves' AP wiederhegestellt!
+Wildes \xf000Ă\x0001\x0000 \xfffehaben all of their moves' AP wiederhegestellt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffehaben all of their moves' AP wiederhegestellt!
+\xf000Ă\x0001\x0000 wird durch den Sandsturm\xfffehin- und hergeworfen!
+Wildes \xf000Ă\x0001\x0000 wird durch den Sandsturm\xfffehin- und hergeworfen!
+The foe \xf000Ă\x0001\x0000 wird durch den Sandsturm\xfffehin- und hergeworfen!
+\xf000Ă\x0001\x0000wird durch den Hagel getroffen!
+Wildes \xf000Ă\x0001\x0000wird durch den Hagel getroffen!
+Gegnerisches \xf000Ă\x0001\x0000wird durch den Hagel getroffen!
+\xf000Ă\x0001\x0000 \xfffehat Schaden genommen!
+Wildes \xf000Ă\x0001\x0000 \xfffehat Schaden genommen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffehat Schaden genommen!
+\xf000Ă\x0001\x0000 verwandelt sich in \xfffe\xf000Ć\x0001\x0001!
+Wildes \xf000Ă\x0001\x0000 verwandelt sich in \xfffe\xf000Ć\x0001\x0001!
+Gegnerisches \xf000Ă\x0001\x0000 verwandelt sich in \xfffe\xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffebenutzt einen Ballon um zu schweben!
+Wildes \xf000Ă\x0001\x0000 \xfffebenutzt einen Ballon um zu schweben!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffebenutzt einen Ballon um zu schweben!
+\xf000Ă\x0001\x0000's \xfffeBallon ist geplatzt!
+Wildes \xf000Ă\x0001\x0000's \xfffeBallon ist geplatzt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeBallon ist geplatzt!
+\xf000Ă\x0001\x0000 \xfffereturned by using Escape Button!
+Wildes \xf000Ă\x0001\x0000 \xfffereturned by using Escape Button!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffereturned by using Escape Button!
+\xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた!
+\xf000Ă\x0001\x0000は　レッドカードを\xfffeWildes \xf000Ă\x0001\x0001に　たたきつけた!
+\xf000Ă\x0001\x0000は　レッドカードを\xfffeGegnerisches \xf000Ă\x0001\x0001に　たたきつけた!
+Wildes \xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた!
+Wildes \xf000Ă\x0001\x0000は　レッドカードを\xfffeThe wild \xf000Ă\x0001\x0001に　たたきつけた!
+Gegnerisches \xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた!
+Gegnerisches \xf000Ă\x0001\x0000は　レッドカードを\xfffeThe foe's \xf000Ă\x0001\x0001に　たたきつけた!
+\xf000Ă\x0001\x0000 \xfffewurde vom Rückstoß getroffen!
+Wildes \xf000Ă\x0001\x0000 \xfffewurde vom Rückstoß getroffen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffewurde vom Rückstoß getroffen!
+\xf000Ă\x0001\x0000 \xfffeerhöht die Stärke von Feuer-Typ Attacken!
+Wildes \xf000Ă\x0001\x0000 \xfffeerhöht die Stärke von Feuer-Typ Attacken!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeerhöht die Stärke von Feuer-Typ Attacken!
+\xf000Ă\x0001\x0000 \xfffewurde verletzt!
+Wildes \xf000Ă\x0001\x0000 \xfffewurde verletzt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffewurde verletzt!
+\xf000Ă\x0001\x0000 Vorwarnung\xfffealarmiert\xf000ć\x0001\x0001 !
+Wildes \xf000Ă\x0001\x0000 Vorwarnung \xfffealarmiert\xf000ć\x0001\x0001 !
+Gegnerisches \xf000Ă\x0001\x0000 Vorwarnung \xfffealarmiert\xf000ć\x0001\x0001 !
+\xf000Ă\x0001\x0000 \xfffeVorfreude lässt es zittern!
+Wildes \xf000Ă\x0001\x0000 \xfffeVorfreude lässt es zittern!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeVorfreude lässt es zittern!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001ist nicht benutzbar!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001ist nicht benutzbar!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001ist nicht benutzbar!
+\xf000Ă\x0001\x0000 \xfffehat Überbrückung!
+Wildes \xf000Ă\x0001\x0000 \xfffehat Überbrückung!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffehat Überbrückung!
+\xf000Ă\x0001\x0000 \xfffeist faul
+Wildes \xf000Ă\x0001\x0000 \xfffeist faul
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist faul
+\xf000Ă\x0001\x0000 \xfffeerhöht seine Attacke!
+Wildes \xf000Ă\x0001\x0000 \xfffeerhöht seine Attacke!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeerhöht seine Attacke!
+\xf000Ă\x0001\x0000kann nicht schlafen!
+Wildes \xf000Ă\x0001\x0000kann nicht schlafen!
+Gegnerisches \xf000Ă\x0001\x0000kann nicht schlafen!
+\xf000Ă\x0001\x0000 \xfffehat Saugnäpfe an sich kleben!
+Wildes \xf000Ă\x0001\x0000 \xfffehat Saugnäpfe an sich kleben!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffehat Saugnäpfe an sich kleben!
+\xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった!
+Wildes \xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　wurde gestohlen!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　wurde gestohlen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　wurde gestohlen!
+\xf000Ă\x0001\x0000 \xfffeFähigkeit wurde zu Mirra!
+Wildes \xf000Ă\x0001\x0000 \xfffeFähigkeit wurde zu Mirra!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeFähigkeit wurde zu Mirra!
+\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001wird keine Schläge von Freunden bekommen!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001wird keine Schläge von Freunden bekommen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001wird keine Schläge von Freunden bekommen!
+\xf000Ă\x0001\x0000 \xfffeist immun gegen Attack von dieser Seite!
+Wildes \xf000Ă\x0001\x0000 \xfffeist immun gegen Attack von dieser Seite!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist immun gegen Attack von dieser Seite!
+\xf000Ă\x0001\x0000 \xfffeist übersäht mit Gift!
+Wildes \xf000Ă\x0001\x0000 \xfffeist übersäht mit Gift!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist übersäht mit Gift!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001wurde konsumiert!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001wurde konsumiert!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001wurde konsumiert!
+\xf000Ă\x0001\x0000 \xfffeIllusion ist abgeklungen!
+Wildes \xf000Ă\x0001\x0000 \xfffeIllusion ist abgeklungen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeIllusion ist abgeklungen!
+\xf000Ă\x0001\x0000 \xfffehat seinen Angriff maximiert!
+Wildes \xf000Ă\x0001\x0000 \xfffehat seinen Angriff maximiert!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffehat seinen Angriff maximiert!
+\xf000Ă\x0001\x0000 \xfffehat einen Alptraum!
+Wildes \xf000Ă\x0001\x0000 \xfffehat einen Alptraum!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffehat einen Alptraum!
+\xf000Ă\x0001\x0000 \xfffeverringert den Druck!
+Wildes \xf000Ă\x0001\x0000 \xfffeverringert den Druck!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeverringert den Druck!
+\xf000Ă\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001aufgenommen!
+Wildes \xf000Ă\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001aufgenommen!
+Gegnerisches \xf000Ă\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001aufgenommen!
+\xf000Ă\x0001\x0000 \xfffeItem wurde gestohlen!
+Wildes \xf000Ă\x0001\x0000 \xfffeItem wurde gestohlen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeItem wurde gestohlen!
+\xf000Ă\x0001\x0000 \xfffein Sekundenschnelle!
+Wildes \xf000Ă\x0001\x0000 \xfffein Sekundenschnelle!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffein Sekundenschnelle!
+\xf000Ă\x0001\x0000 \xfffefühlt sich besser!
+Wildes \xf000Ă\x0001\x0000 \xfffefühlt sich besser!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffefühlt sich besser!
+\xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている!
+Wildes \xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている!
+\xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている!
+Wildes \xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている!
+\xf000Ă\x0001\x0000 \xfffewurde getroffen!
+Wildes \xf000Ă\x0001\x0000 \xfffewurde getroffen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffewurde getroffen!
+\xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった!
+Wildes \xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった!
+\xf000Ă\x0001\x0000 \xfffehällt den Treffer aus!
+Wildes \xf000Ă\x0001\x0000 \xfffehällt den Treffer aus!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffehällt den Treffer aus!
+\xf000Ă\x0001\x0000 \xfffeschützt sich selbst!
+Wildes \xf000Ă\x0001\x0000 \xfffeschützt sich selbst!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeschützt sich selbst!
+\xf000Ă\x0001\x0000 \xfffeschützt sich vor dem Treffer!
+Wildes \xf000Ă\x0001\x0000 \xfffeschützt sich vor dem Treffer!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeschützt sich vor dem Treffer!
+\xf000Ă\x0001\x0000 \xfffeschützt sich selbst!
+Wildes \xf000Ă\x0001\x0000 \xfffeschützt sich selbst!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeschützt sich selbst!
+\xf000Ă\x0001\x0000 fell for\xfffethe feint!
+Wildes \xf000Ă\x0001\x0000 fell for\xfffethe feint!
+Gegnerisches \xf000Ă\x0001\x0000 fell for\xfffethe feint!
+\xf000Ă\x0001\x0000 fliegt\xfffehoch empor!
+Wildes \xf000Ă\x0001\x0000 fliegt\xfffehoch empor!
+Gegnerisches \xf000Ă\x0001\x0000 fliegt\xfffehoch empor!
+\xf000Ă\x0001\x0000's Wut\xfffesteigt an!
+Wildes \xf000Ă\x0001\x0000's Wut\xfffesteigt an!
+Gegnerisches \xf000Ă\x0001\x0000's Wut\xfffesteigt an!
+\xf000Ă\x0001\x0000 \xfffewurde Unterwasser getroffen!
+Wildes \xf000Ă\x0001\x0000 \xfffewurde Unterwasser getroffen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffewurde Unterwasser getroffen!
+\xf000Ă\x0001\x0000 \xfffegräbt sich ein!
+Wildes \xf000Ă\x0001\x0000 \xfffegräbt sich ein!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffegräbt sich ein!
+\xf000Ă\x0001\x0000 verschwindet\xfffeim Schatten!
+Wildes \xf000Ă\x0001\x0000 verschwindet\xfffeim Schatten!
+Gegnerisches \xf000Ă\x0001\x0000 verschwindet\xfffeim Schatten!
+\xf000Ă\x0001\x0000 \xfffesprint empor!
+Wildes \xf000Ă\x0001\x0000 \xfffesprint empor!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffesprint empor!
+\xf000Ă\x0001\x0000 　entfacht einen Wirbelwind!
+Wildes \xf000Ă\x0001\x0000 　entfacht einen Wirbelwind!
+Gegnerisches \xf000Ă\x0001\x0000 　entfacht einen Wirbelwind!
+\xf000Ă\x0001\x0000を\xfffeversteckt sich in harsh Licht!
+Wildes \xf000Ă\x0001\x0000を\xfffeversteckt sich in harsh Licht!
+Gegnerisches \xf000Ă\x0001\x0000を\xfffeversteckt sich in harsh Licht!
+\xf000Ă\x0001\x0000 \xfffenimmt die Sonnenstrahlen auf!
+Wildes \xf000Ă\x0001\x0000 \xfffenimmt die Sonnenstrahlen auf!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffenimmt die Sonnenstrahlen auf!
+\xf000Ă\x0001\x0000 \xfffetucked in its head!
+Wildes \xf000Ă\x0001\x0000 \xfffetucked in its head!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffetucked in its head!
+\xf000Ă\x0001\x0000 \xfffereceived an encore!
+Wildes \xf000Ă\x0001\x0000 \xfffereceived an encore!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffereceived an encore!
+\xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた!
+Wildes \xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた!
+\xf000Ă\x0001\x0000 \xfffeFähigkeit ist nicht mehr aktiv!
+Wildes \xf000Ă\x0001\x0000 \xfffeFähigkeit ist nicht mehr aktiv!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeFähigkeit ist nicht mehr aktiv!
+\xf000Ă\x0001\x0000 \xfffelies sich beleidigen!
+Wildes \xf000Ă\x0001\x0000 \xfffelies sich beleidigen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffelies sich beleidigen!
+\xf000Ă\x0001\x0000 kann \xf000ć\x0001\x0001 nicht benutzen da er in Rage ist!
+Wildes \xf000Ă\x0001\x0000 kann \xf000ć\x0001\x0001 nicht benutzen da er in Rage ist!
+Gegnerisches \xf000Ă\x0001\x0000 kann \xf000ć\x0001\x0001 nicht benutzen da er in Rage ist!
+\xf000Ă\x0001\x0000s Ragexfffeist abgeklungen!
+Wildes \xf000Ă\x0001\x0000s Ragexfffeist abgeklungen!
+Gegnerisches \xf000Ă\x0001\x0000s Ragexfffeist abgeklungen!
+\xf000Ă\x0001\x0000 \xfffewurde von Folterknecht getroffen!
+Wildes \xf000Ă\x0001\x0000 \xfffewurde von Folterknecht getroffen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffewurde von Folterknecht getroffen!
+\xf000Ă\x0001\x0000 \xfffewurde von Folterknecht getroffen\xfffeund kann deshalb keine Attacke zwei mal hintereinander ausführen!
+Wildes \xf000Ă\x0001\x0000 \xfffewurde von Folterknecht getroffen\xfffeund kann deshalb keine Attacke zwei mal hintereinander ausführen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffewurde von Folterknecht getroffen\xfffeund kann deshalb keine Attacke zwei mal hintereinander ausführen!
+\xf000Ă\x0001\x0000s Statusxfffeist wieder Normal!
+Wildes \xf000Ă\x0001\x0000s Statusxfffeist wieder Normal!
+Gegnerisches \xf000Ă\x0001\x0000s Statusxfffeist wieder Normal!
+\xf000Ă\x0001\x0000 hat\xfffegegnerische Attacke verhindert!
+Wildes \xf000Ă\x0001\x0000 hat\xfffegegnerische Attacke verhindert!
+Gegnerisches \xf000Ă\x0001\x0000 hat\xfffegegnerische Attacke verhindert!
+\xf000Ă\x0001\x0000 \xfffeist sealed from using \xf000븀\x0000\xf000ć\x0001\x0001!
+Wildes \xf000Ă\x0001\x0000 \xfffeist sealed from using \xf000븀\x0000\xf000ć\x0001\x0001!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeist sealed from using \xf000븀\x0000\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 wurde geblockt!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 wurde geblockt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 wurde geblockt!
+\xf000Ă\x0001\x0000s \xfffe\xf000ć\x0001\x0001 ist geblockt!
+Wildes \xf000Ă\x0001\x0000s \xfffe\xf000ć\x0001\x0001 ist geblockt!
+Gegnerisches \xf000Ă\x0001\x0000s \xfffe\xf000ć\x0001\x0001 ist geblockt!
+\xf000Ă\x0001\x0000 \xfffeis nichtmehr geblockt!
+Wildes \xf000Ă\x0001\x0000 \xfffeis nichtmehr geblockt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeis nichtmehr geblockt!
+\xf000Ă\x0001\x0000 \xfffeumgibt sich mit A VEIL OF WATER!
+Wildes \xf000Ă\x0001\x0000 \xfffeumgibt sich mit A VEIL OF WATER!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeumgibt sich mit A VEIL OF WATER!
+AQUA RING stellt\xfffe\xf000Ă\x0001\x0000 s KP wieder her!
+AQUA RING stellt\xfffeWildes \xf000Ă\x0001\x0000 s KP wieder her!
+AQUA RING stellt\xfffeGegnerisches \xf000Ă\x0001\x0000 s KP wieder her!
+\xf000Ă\x0001\x0000 \xfffewurde besamt!
+Wildes \xf000Ă\x0001\x0000 \xfffewurde besamt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffewurde besamt!
+\xf000Ă\x0001\x0000 wurde KP durchxfffeEgelsamen abgezogen!
+Wildem \xf000Ă\x0001\x0000 wurde KP durchxfffeEgelsamen abgezogen!
+Gegnerischem \xf000Ă\x0001\x0000 wurde KP durchxfffeEgelsamen abgezogen!
+\xf000Ă\x0001\x0000 \xfffeverringert seine KP um seinen Angriff zu erhöhen!
+Wildes \xf000Ă\x0001\x0000 \xfffeverringert seine KP um seinen Angriff zu erhöhen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeverringert seine KP um seinen Angriff zu erhöhen!
+\xf000Ă\x0001\x0000 \xfffeerhöht seine Konzentration!
+Wildes \xf000Ă\x0001\x0000 \xfffeerhöht seine Konzentration!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeerhöht seine Konzentration!
+\xf000Ă\x0001\x0000 kopiert \xf000Ă\x0001\x0001s\xfffe\xf000Ć\x0001\x0002Status veränderung!
+\xf000Ă\x0001\x0000 kopiert Wildes \xf000Ă\x0001\x0001s\xfffe\xf000Ć\x0001\x0002Status veränderung!
+\xf000Ă\x0001\x0000 kopiert Gegnerisches \xf000Ă\x0001\x0001s\xfffe\xf000Ć\x0001\x0002Status veränderung!
+Wildes \xf000Ă\x0001\x0000 kopiert \xf000Ă\x0001\x0001s\xfffe\xf000Ć\x0001\x0002Status veränderung!
+Wildes  kopiert \xf000Ă\x0001\x0000s \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000Ć\x0001\x0002Status veränderung!
+Gegnerisches \xf000Ă\x0001\x0000 kopiert \xf000Ă\x0001\x0001s\xfffe\xf000Ć\x0001\x0002Status veränderung!
+Gegnerisches  kopiert \xf000Ă\x0001\x0000s's \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000Ć\x0001\x0002Status veränderung!
+\xf000Ă\x0001\x0000 versucht seinen Gegnerxfffe mit sich zu nehmen!
+Wildes \xf000Ă\x0001\x0000 versucht seinen Gegnerxfffe mit sich zu nehmen!
+Gegnerisches \xf000Ă\x0001\x0000 versucht seinen Gegnerxfffe mit sich zu nehmen!
+\xf000Ă\x0001\x0000 nimmt seinen Gegner mit sich!
+Wildes \xf000Ă\x0001\x0000 nimmt seinen Gegner mit sich!
+Gegnerisches \xf000Ă\x0001\x0000 nimmt seinen Gegner mit sich!
+\xf000Ă\x0001\x0000versucht xfffedie Jahreszeit zu ändern!
+Wildes \xf000Ă\x0001\x0000versucht xfffedie Jahreszeit zu ändern!
+Gegnerisches \xf000Ă\x0001\x0000versucht xfffedie Jahreszeit zu ändern!
+\xf000Ă\x0001\x0000s \xfffe\xf000ć\x0001\x0001は\xf000븀\x0000wurde auf 0AP durch einen GRUDGE gesetzt!
+Wildes \xf000Ă\x0001\x0000s \xfffe\xf000ć\x0001\x0001は\xf000븀\x0000wurde auf 0AP durch einen GRUDGE gesetzt!
+Gegnerisches \xf000Ă\x0001\x0000s \xfffe\xf000ć\x0001\x0001は\xf000븀\x0000wurde auf 0AP durch einen GRUDGE gesetzt!
+\xf000Ă\x0001\x0000schläftxfffeund regeneriert seine Gesundheit!
+Wildes \xf000Ă\x0001\x0000schläftxfffeund regeneriert seine Gesundheit!
+Gegnerisches \xf000Ă\x0001\x0000schläftxfffeund regeneriert seine Gesundheit!
+Es reduziert die AP von \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 um \xf000Ȁ\x0001\x0002!
+Es reduziert die AP von Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 um \xf000Ȁ\x0001\x0002!
+Es reduziert die AP von Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 um \xf000Ȁ\x0001\x0002!
+\xf000Ă\x0001\x0000 verwandelt sich in\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 verwandelt sich in\xfffeWildes \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 verwandelt sich in\xfffeGegnerisches \xf000Ă\x0001\x0001!
+Wildes\xf000Ă\x0001\x0000 verwandelt sich in\xfffe\xf000Ă\x0001\x0001!
+Wildes\xf000Ă\x0001\x0000 \xfffeverwandelt sich in das wilde\xf000Ă\x0001\x0001!
+Gegnerisches\xf000Ă\x0001\x0000 verwandelt sich in\xfffe\xf000Ă\x0001\x0001!
+Gegnerisches\xf000Ă\x0001\x0000 \xfffeverwandelt sich in das gegnerische\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001!\xfffeねらいを　さだめた!
+\xf000Ă\x0001\x0000は　やせいの\xf000Ă\x0001\x0001に　\xfffeねらいを　さだめた!
+\xf000Ă\x0001\x0000は　あいての\xf000Ă\x0001\x0001に　\xfffeねらいを　さだめた!
+Wildes \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001!\xfffeねらいを　さだめた!
+Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に\xf000븀\x0000ねらいを　さだめた!
+Gegnerisches \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001!\xfffeねらいを　さだめた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に\xf000븀\x0000ねらいを　さだめた!
+\xf000Ă\x0001\x0000 \xfffeでんじりょくで　うかびあがった!
+Wildes \xf000Ă\x0001\x0000 \xfffeでんじりょくで　うかびあがった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeでんじりょくで　うかびあがった!
+\xf000Ă\x0001\x0000 \xfffeでんじりょくが　なくなった!
+Wildes \xf000Ă\x0001\x0000 \xfffeでんじりょくが　なくなった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeでんじりょくが　なくなった!
+\xf000Ă\x0001\x0000 \xfffeじゅうでんを　はじめた!
+Wildes \xf000Ă\x0001\x0000 \xfffeじゅうでんを　はじめた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeじゅうでんを　はじめた!
+\xf000Ă\x0001\x0000 \xfffeねむけを　さそった!
+Wildes \xf000Ă\x0001\x0000 \xfffeねむけを　さそった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeねむけを　さそった!
+\xf000Ă\x0001\x0000 \xfffeちゅうもくの　まとになった!
+Wildes \xf000Ă\x0001\x0000 \xfffeちゅうもくの　まとになった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeちゅうもくの　まとになった!
+\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた!
+Wildes \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた!
+Gegnerisches \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた!
+\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげき and とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた!
+Wildes \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげき and とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた!
+Gegnerisches \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげき and とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた!
+\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょ and とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた!
+Wildes \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょ and とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた!
+Gegnerisches \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょ and とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた!
+\xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた!
+Wildes \xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた!
+Gegnerisches \xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　てにいれた!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　てにいれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　てにいれた!
+\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　おぼえた!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　おぼえた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　おぼえた!
+\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　スケッチした!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　スケッチした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　スケッチした!
+\xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた!
+Wildes \xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた!
+Gegnerisches \xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた!
+いやしのねがいが\xfffe\xf000Ă\x0001\x0000に　とどいた!
+いやしのねがいが\xfffeWildes \xf000Ă\x0001\x0000に　とどいた!
+いやしのねがいが\xfffeGegnerisches \xf000Ă\x0001\x0000に　とどいた!
+\xf000Ă\x0001\x0000 \xfffeねがいごとが　かなった!
+Wildes \xf000Ă\x0001\x0000 \xfffeねがいごとが　かなった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeねがいごとが　かなった!
+\xf000Ă\x0001\x0000 \xfffeさわぎだした!
+Wildes \xf000Ă\x0001\x0000 \xfffeさわぎだした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeさわぎだした!
+\xf000Ă\x0001\x0000 \xfffeさわがしくて　めが　さめた!
+Wildes \xf000Ă\x0001\x0000 \xfffeさわがしくて　めが　さめた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeさわがしくて　めが　さめた!
+しかし　\xf000Ă\x0001\x0000 \xfffeさわがしくて　ねむれない!
+しかし　Wildes \xf000Ă\x0001\x0000 \xfffeさわがしくて　ねむれない!
+しかし　Gegnerisches \xf000Ă\x0001\x0000 \xfffeさわがしくて　ねむれない!
+しかし　\xf000Ă\x0001\x0000 \xfffeさわいでいて　ねむれない!
+しかし　Wildes \xf000Ă\x0001\x0000 \xfffeさわいでいて　ねむれない!
+しかし　Gegnerisches \xf000Ă\x0001\x0000 \xfffeさわいでいて　ねむれない!
+\xf000Ă\x0001\x0000 \xfffeさわいでいる!
+Wildes \xf000Ă\x0001\x0000 \xfffeさわいでいる!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeさわいでいる!
+\xf000Ă\x0001\x0000 \xfffeおとなしくなった!
+Wildes \xf000Ă\x0001\x0000 \xfffeおとなしくなった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeおとなしくなった!
+\xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つ　たくわえた!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つ　たくわえた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つ　たくわえた!
+\xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた!
+Wildes \xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた!
+Gegnerisches \xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた!
+\xf000Ă\x0001\x0000 \xfffeどうぐが　つかえなくなった!
+Wildes \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえなくなった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえなくなった!
+\xf000Ă\x0001\x0000 \xfffeどうぐが　つかえるようになった!
+Wildes \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえるようになった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえるようになった!
+\xf000Ă\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001aufgenommen!
+Wildes \xf000Ă\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001aufgenommen!
+Gegnerisches \xf000Ă\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001aufgenommen!
+\xf000Ă\x0001\x0000は　ねを　はった!
+Wildes \xf000Ă\x0001\x0000は　ねを　はった!
+Gegnerisches \xf000Ă\x0001\x0000は　ねを　はった!
+\xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった!
+Wildes \xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった!
+Gegnerisches \xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった!
+\xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない!
+Wildes \xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない!
+Gegnerisches \xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない!
 \xf000Ă\x0001\x0000は　がまんしている
 Wildes \xf000Ă\x0001\x0000は　がまんしている
 Gegnerisches \xf000Ă\x0001\x0000は　がまんしている
-\xf000Ă\x0001\x0000 \xfffeがまんが　とかれた！
-Wildes \xf000Ă\x0001\x0000 \xfffeがまんが　とかれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeがまんが　とかれた！
-\xf000Ă\x0001\x0000 \xfffeGegnerisches でかたを　うかがっている！
-Wildes \xf000Ă\x0001\x0000 \xfffeGegnerisches でかたを　うかがっている！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's でかたを　うかがっている！
-\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-\xf000Ă\x0001\x0000は　Wildes \xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-\xf000Ă\x0001\x0000は　Gegnerisches \xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-Wildes \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の\xf000븀\x0000わざを　よこどりした！
-Gegnerisches \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の\xf000븀\x0000わざを　よこどりした！
-\xf000Ă\x0001\x0000 \xfffeマジックコートに　つつまれた！
-Wildes \xf000Ă\x0001\x0000 \xfffeマジックコートに　つつまれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeマジックコートに　つつまれた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-\xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした！
-Wildes \xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
-\xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた！
-Wildes \xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした！
-\xf000Ă\x0001\x0000 \xfffeみがわりが　あらわれた！
-Wildes \xf000Ă\x0001\x0000 \xfffeみがわりが　あらわれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeみがわりが　あらわれた！
+\xf000Ă\x0001\x0000 \xfffeがまんが　とかれた!
+Wildes \xf000Ă\x0001\x0000 \xfffeがまんが　とかれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeがまんが　とかれた!
+\xf000Ă\x0001\x0000 \xfffeGegnerisches でかたを　うかがっている!
+Wildes \xf000Ă\x0001\x0000 \xfffeGegnerisches でかたを　うかがっている!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's でかたを　うかがっている!
+\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした!
+\xf000Ă\x0001\x0000は　Wildes \xf000Ă\x0001\x0001の\xfffeわざを　よこどりした!
+\xf000Ă\x0001\x0000は　Gegnerisches \xf000Ă\x0001\x0001の\xfffeわざを　よこどりした!
+Wildes \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした!
+Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の\xf000븀\x0000わざを　よこどりした!
+Gegnerisches \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の\xf000븀\x0000わざを　よこどりした!
+\xf000Ă\x0001\x0000 \xfffeマジックコートに　つつまれた!
+Wildes \xf000Ă\x0001\x0000 \xfffeマジックコートに　つつまれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeマジックコートに　つつまれた!
+\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001wird keine Schläge von Freunden bekommen!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001wird keine Schläge von Freunden bekommen!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001wird keine Schläge von Freunden bekommen!
+\xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした!
+Wildes \xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした!
+\xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく!
+\xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた!
+Wildes \xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた!
+\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした!
+\xf000Ă\x0001\x0000 \xfffeみがわりが　あらわれた!
+Wildes \xf000Ă\x0001\x0000 \xfffeみがわりが　あらわれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeみがわりが　あらわれた!
 しかし　\xf000Ă\x0001\x0000 \xfffeみがわりは　すでに　でていた
 しかし　Wildes \xf000Ă\x0001\x0000 \xfffeみがわりは　すでに　でていた
 しかし　Gegnerisches \xf000Ă\x0001\x0000 \xfffeみがわりは　すでに　でていた
-\xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた！
-Wildes \xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた！
-Gegnerisches \xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた！
+\xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた!
+Wildes \xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた!
+Gegnerisches \xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた!
 \xf000Ă\x0001\x0000 \xfffeみがわりは　きえてしまった…
 Wildes \xf000Ă\x0001\x0000 \xfffeみがわりは　きえてしまった…
 Gegnerisches \xf000Ă\x0001\x0000 \xfffeみがわりは　きえてしまった…
-\xf000Ă\x0001\x0000 \xfffeワイドガードで　まもられた！
-Wildes \xf000Ă\x0001\x0000 \xfffeワイドガードで　まもられた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeワイドガードで　まもられた！
-\xf000Ă\x0001\x0000 \xfffeファストガードで　まもられた！
-Wildes \xf000Ă\x0001\x0000 \xfffeファストガードで　まもられた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeファストガードで　まもられた！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-\xf000Ă\x0001\x0000 \xfffeうずの　なかに　とじこめられた！
-Wildes \xf000Ă\x0001\x0000 \xfffeうずの　なかに　とじこめられた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeうずの　なかに　とじこめられた！
-\xf000Ă\x0001\x0000 \xfffeほのおの　うずに　とじこめられた！
-Wildes \xf000Ă\x0001\x0000 \xfffeほのおの　うずに　とじこめられた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeほのおの　うずに　とじこめられた！
-\xf000Ă\x0001\x0000 \xfffeマグマの　うずに　とじこめられた！
-Wildes \xf000Ă\x0001\x0000 \xfffeマグマの　うずに　とじこめられた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeマグマの　うずに　とじこめられた！
-\xf000Ă\x0001\x0000 \xfffeすなじごくに　とらわれた！
-Wildes \xf000Ă\x0001\x0000 \xfffeすなじごくに　とらわれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeすなじごくに　とらわれた！
-\xf000Ă\x0001\x0000 \xfffeだすことのできる　わざが　ない！
-Wildes \xf000Ă\x0001\x0000 \xfffeだすことのできる　わざが　ない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeだすことのできる　わざが　ない！
-\xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている！
-Wildes \xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている！
-Gegnerisches \xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている！
-\xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている！
-Wildes \xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている！
-Gegnerisches \xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている！
-\xf000Ă\x0001\x0000 \xfffeせんとうに　ひきずりだされた！
-Wildes \xf000Ă\x0001\x0000 \xfffeせんとうに　ひきずりだされた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeせんとうに　ひきずりだされた！
-\xf000Ă\x0001\x0000 \xfffeこうげきの　はんどうで　うごけない！
-Wildes \xf000Ă\x0001\x0000 \xfffeこうげきの　はんどうで　うごけない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeこうげきの　はんどうで　うごけない！
-\xf000Ă\x0001\x0000 \xfffeまきびしの　ダメージを　うけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeまきびしの　ダメージを　うけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeまきびしの　ダメージを　うけた！
-\xf000Ă\x0001\x0000 \xfffeとがった　いわが　くいこんだ！
-Wildes \xf000Ă\x0001\x0000 \xfffeとがった　いわが　くいこんだ！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeとがった　いわが　くいこんだ！
-\xf000Ă\x0001\x0000 \xfffeじくうを　ゆがめた！
-Wildes \xf000Ă\x0001\x0000 \xfffeじくうを　ゆがめた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeじくうを　ゆがめた！
-\xf000Ă\x0001\x0000 \xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった！
-Wildes \xf000Ă\x0001\x0000 \xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった！
-\xf000Ă\x0001\x0000 \xfffeつめたい　ひかりに　つつまれた！
-Wildes \xf000Ă\x0001\x0000 \xfffeつめたい　ひかりに　つつまれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeつめたい　ひかりに　つつまれた！
-\xf000Ă\x0001\x0000 \xfffeこごえる　くうきに　つつまれた！
-Wildes \xf000Ă\x0001\x0000 \xfffeこごえる　くうきに　つつまれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeこごえる　くうきに　つつまれた！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　で　にげられない！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　で　にげられない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　で　にげられない！
-\xf000Ă\x0001\x0000 \xfffeもう　にげられない！
-Wildes \xf000Ă\x0001\x0000 \xfffeもう　にげられない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeもう　にげられない！
-\xf000Ă\x0001\x0000 \xfffeにげられない！
-Wildes \xf000Ă\x0001\x0000 \xfffeにげられない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeにげられない！
-\xf000Ă\x0001\x0000 　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない！
-Wildes \xf000Ă\x0001\x0000 　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない！
-Gegnerisches \xf000Ă\x0001\x0000 　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない！
-\xf000Ă\x0001\x0000 \xfffeかいふくどうさを　ふうじられた！
-Wildes \xf000Ă\x0001\x0000 \xfffeかいふくどうさを　ふうじられた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeかいふくどうさを　ふうじられた！
-\xf000Ă\x0001\x0000 \xfffeかいふくふうじの　こうかが　きれた！
-Wildes \xf000Ă\x0001\x0000 \xfffeかいふくふうじの　こうかが　きれた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeかいふくふうじの　こうかが　きれた！
-\xf000Ă\x0001\x0000 \xfffeかいふくふうじで　かいふく　できない！
-Wildes \xf000Ă\x0001\x0000 \xfffeかいふくふうじで　かいふく　できない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeかいふくふうじで　かいふく　できない！
-\xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
-Wildes \xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
-Gegnerisches \xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
-しかし　\xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ！
-しかし　Wildes \xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ！
-しかし　Gegnerisches \xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ！
-\xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった！
-\xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった！
-Wildes \xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった！
-Gegnerisches \xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった！
-いきおいあまって　\xf000Ă\x0001\x0000 \xfffeじめんに　ぶつかった！
-いきおいあまって　Wildes \xf000Ă\x0001\x0000 \xfffeじめんに　ぶつかった！
-いきおいあまって　Gegnerisches \xf000Ă\x0001\x0000 \xfffeじめんに　ぶつかった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした！
+\xf000Ă\x0001\x0000 \xfffeワイドガードで　まもられた!
+Wildes \xf000Ă\x0001\x0000 \xfffeワイドガードで　まもられた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeワイドガードで　まもられた!
+\xf000Ă\x0001\x0000 \xfffeファストガードで　まもられた!
+Wildes \xf000Ă\x0001\x0000 \xfffeファストガードで　まもられた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeファストガードで　まもられた!
+\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた!
+\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた!
+\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた!
+Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた!
+\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた!
+\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた!
+\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた!
+Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた!
+\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた!
+\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた!
+\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた!
+Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた!
+\xf000Ă\x0001\x0000 \xfffeうずの　なかに　とじこめられた!
+Wildes \xf000Ă\x0001\x0000 \xfffeうずの　なかに　とじこめられた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeうずの　なかに　とじこめられた!
+\xf000Ă\x0001\x0000 \xfffeほのおの　うずに　とじこめられた!
+Wildes \xf000Ă\x0001\x0000 \xfffeほのおの　うずに　とじこめられた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeほのおの　うずに　とじこめられた!
+\xf000Ă\x0001\x0000 \xfffeマグマの　うずに　とじこめられた!
+Wildes \xf000Ă\x0001\x0000 \xfffeマグマの　うずに　とじこめられた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeマグマの　うずに　とじこめられた!
+\xf000Ă\x0001\x0000 \xfffeすなじごくに　とらわれた!
+Wildes \xf000Ă\x0001\x0000 \xfffeすなじごくに　とらわれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeすなじごくに　とらわれた!
+\xf000Ă\x0001\x0000 \xfffeだすことのできる　わざが　ない!
+Wildes \xf000Ă\x0001\x0000 \xfffeだすことのできる　わざが　ない!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeだすことのできる　わざが　ない!
+\xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている!
+Wildes \xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている!
+Gegnerisches \xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている!
+\xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている!
+Wildes \xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている!
+Gegnerisches \xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている!
+\xf000Ă\x0001\x0000 \xfffeせんとうに　ひきずりだされた!
+Wildes \xf000Ă\x0001\x0000 \xfffeせんとうに　ひきずりだされた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeせんとうに　ひきずりだされた!
+\xf000Ă\x0001\x0000 \xfffeこうげきの　はんどうで　うごけない!
+Wildes \xf000Ă\x0001\x0000 \xfffeこうげきの　はんどうで　うごけない!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeこうげきの　はんどうで　うごけない!
+\xf000Ă\x0001\x0000 \xfffeまきびしの　ダメージを　うけた!
+Wildes \xf000Ă\x0001\x0000 \xfffeまきびしの　ダメージを　うけた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeまきびしの　ダメージを　うけた!
+\xf000Ă\x0001\x0000 \xfffeとがった　いわが　くいこんだ!
+Wildes \xf000Ă\x0001\x0000 \xfffeとがった　いわが　くいこんだ!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeとがった　いわが　くいこんだ!
+\xf000Ă\x0001\x0000 \xfffeじくうを　ゆがめた!
+Wildes \xf000Ă\x0001\x0000 \xfffeじくうを　ゆがめた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeじくうを　ゆがめた!
+\xf000Ă\x0001\x0000 \xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった!
+Wildes \xf000Ă\x0001\x0000 \xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった!
+\xf000Ă\x0001\x0000 \xfffeつめたい　ひかりに　つつまれた!
+Wildes \xf000Ă\x0001\x0000 \xfffeつめたい　ひかりに　つつまれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeつめたい　ひかりに　つつまれた!
+\xf000Ă\x0001\x0000 \xfffeこごえる　くうきに　つつまれた!
+Wildes \xf000Ă\x0001\x0000 \xfffeこごえる　くうきに　つつまれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeこごえる　くうきに　つつまれた!
+\xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　で　にげられない!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　で　にげられない!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　で　にげられない!
+\xf000Ă\x0001\x0000 \xfffeもう　にげられない!
+Wildes \xf000Ă\x0001\x0000 \xfffeもう　にげられない!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeもう　にげられない!
+\xf000Ă\x0001\x0000 \xfffeにげられない!
+Wildes \xf000Ă\x0001\x0000 \xfffeにげられない!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeにげられない!
+\xf000Ă\x0001\x0000 　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない!
+Wildes \xf000Ă\x0001\x0000 　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない!
+Gegnerisches \xf000Ă\x0001\x0000 　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない!
+\xf000Ă\x0001\x0000 \xfffeかいふくどうさを　ふうじられた!
+Wildes \xf000Ă\x0001\x0000 \xfffeかいふくどうさを　ふうじられた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeかいふくどうさを　ふうじられた!
+\xf000Ă\x0001\x0000 \xfffeかいふくふうじの　こうかが　きれた!
+Wildes \xf000Ă\x0001\x0000 \xfffeかいふくふうじの　こうかが　きれた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeかいふくふうじの　こうかが　きれた!
+\xf000Ă\x0001\x0000 \xfffeかいふくふうじで　かいふく　できない!
+Wildes \xf000Ă\x0001\x0000 \xfffeかいふくふうじで　かいふく　できない!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeかいふくふうじで　かいふく　できない!
+\xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない!
+Wildes \xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない!
+Gegnerisches \xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない!
+しかし　\xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ!
+しかし　Wildes \xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ!
+しかし　Gegnerisches \xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ!
+\xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった!
+\xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった!
+Wildes \xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった!
+Gegnerisches \xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった!
+いきおいあまって　\xf000Ă\x0001\x0000 \xfffeじめんに　ぶつかった!
+いきおいあまって　Wildes \xf000Ă\x0001\x0000 \xfffeじめんに　ぶつかった!
+いきおいあまって　Gegnerisches \xf000Ă\x0001\x0000 \xfffeじめんに　ぶつかった!
+\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で すこし　かいふく
 Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で すこし　かいふく
 Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で すこし　かいふく
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffewoke up!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffewoke up!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffewoke up!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeis no longer in love!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeis no longer in love!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeis no longer in love!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000Evasiveness rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000Evasiveness rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000Evasiveness rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose greatly!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose greatly!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose greatly!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose greatly!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose greatly!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose greatly!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose greatly!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose greatly!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose greatly!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Def rose greatly!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Def rose greatly!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Def rose greatly!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose greatly!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose greatly!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose greatly!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy greatly rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy greatly rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy greatly rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness greatly rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness greatly rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness greatly rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack sharply rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack sharply rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense sharply rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense sharply rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack sharply rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack sharply rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense sharply rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense sharply rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed sharply rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed sharply rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy sharply rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy sharply rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness sharply rose!
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness sharply rose!
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness sharply rose!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000はりきりだした！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000はりきりだした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000はりきりだした！
-\xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた！
-Wildes \xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた！
-Gegnerisches \xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で　もちこたえた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で　もちこたえた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で　もちこたえた！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした！
-Wildes \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした！
-Gegnerisches \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした！
-\xf000Ă\x0001\x0000 \xfffeいのちが　すこし　けずられた！
-Wildes \xf000Ă\x0001\x0000 \xfffeいのちが　すこし　けずられた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeいのちが　すこし　けずられた！
-…しかし　\xf000Ă\x0001\x0000 \xfffeこのばに　いなかった！
-…しかし　Wildes \xf000Ă\x0001\x0000 \xfffeこのばに　いなかった！
-…しかし　Gegnerisches \xf000Ă\x0001\x0000 \xfffeこのばに　いなかった！
-…しかし　\xf000Ă\x0001\x0000 \xfffeつかえる　どうぐを　もっていなかった！
-…しかし　Wildes \xf000Ă\x0001\x0000 \xfffeつかえる　どうぐを　もっていなかった！
-…しかし　Gegnerisches \xf000Ă\x0001\x0000 \xfffeつかえる　どうぐを　もっていなかった！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった！
-Wildes \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった！
-Gegnerisches \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった！
-Wildes \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった！
-Gegnerisches \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000あたりやすくなった！
-Wildes \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000あたりやすくなった！
-Gegnerisches \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000あたりやすくなった！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffetook damage!
-Wildes \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffetook damage!
-Gegnerisches \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffetook damage!
-\xf000Ă\x0001\x0000 \xfffeはりきっている！
-Wildes \xf000Ă\x0001\x0000 \xfffeはりきっている！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeはりきっている！
-\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった！
-Wildes \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった！
-Gegnerisches \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった！
-\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした！
-Wildes \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした！
-Gegnerisches \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした！
-\xf000Ă\x0001\x0000は　Wildes \xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-\xf000Ă\x0001\x0000は　Gegnerisches \xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-Wildes \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした！
-Gegnerisches \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000Wildes \xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000Gegnerisches \xf000Ă\x0001\x0001に　のろいを　かけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The wild \xf000Ă\x0001\x0001に　のろいを　かけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The foe's \xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000 \xfffeのろわれている！
-Wildes \xf000Ă\x0001\x0000 \xfffeのろわれている！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeのろわれている！
-\xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした！
-Wildes \xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした！
-\xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした！
-Wildes \xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
-\xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった！
-Wildes \xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった！
-\xf000Ă\x0001\x0000 \xfffeじゅうりょくが　つよくて\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
-Wildes \xf000Ă\x0001\x0000 \xfffeじゅうりょくが　つよくて\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeじゅうりょくが　つよくて\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-\xf000Ă\x0001\x0000 \xfffeおたがいのパワーを　シェアした！
-Wildes \xf000Ă\x0001\x0000 \xfffeおたがいのパワーを　シェアした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeおたがいのパワーを　シェアした！
-\xf000Ă\x0001\x0000 \xfffeおたがいのガードを　シェアした！
-Wildes \xf000Ă\x0001\x0000 \xfffeおたがいのガードを　シェアした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeおたがいのガードを　シェアした！
-\xf000Ă\x0001\x0000 \xfffeみがるになった！
-Wildes \xf000Ă\x0001\x0000 \xfffeみがるになった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeみがるになった！
-\xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった！
-Wildes \xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった！
-Gegnerisches \xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001は　やけてなくなった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001は　やけてなくなった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001は　やけてなくなった！
-\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001から\xfffe\xf000ĉ\x0001\x0002を　うけとった！
-\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
-\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
-Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
-\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-\xf000Ă\x0001\x0000は　Wildes \xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-\xf000Ă\x0001\x0000は　Gegnerisches \xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-Wildes \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001を\xf000븀\x0000じょうくうに　つれさった！
-Gegnerisches \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001を\xf000븀\x0000じょうくうに　つれさった！
-\xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた！
-Wildes \xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた！
-\xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた！
-Wildes \xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた！
-\xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした！
-Wildes \xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした！
-\xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
-Wildes \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
-\xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
-Wildes \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
-Gegnerisches \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
-\xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
-Wildes \xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
-Gegnerisches \xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
-\xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた！
-Wildes \xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた！
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeist aufgewacht!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeist aufgewacht!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeist aufgewacht!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeist nichtmehr verliebt!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeist nichtmehr verliebt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeist nichtmehr verliebt!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttacke steigt!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttacke steigt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttacke steigt!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeVerteidigung steigt!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeVerteidigung steigt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeVerteidigung steigt!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attacke steigt!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attacke steigt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attacke steigt!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Verteidigung steigt!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Verteidigung steigt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Verteidigung steigt!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeInt steigt!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeInt steigt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeInt steigt!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeGenauigk. steigt!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeGenauigk. steigt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeGenauigk. steigt!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000Ausweichen steigt!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000Ausweichen steigt!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000Ausweichen steigt!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttacke steigt stark!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttacke steigt stark!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttacke steigt stark!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeVerteidigung steigt stark!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeVerteidigung steigt stark!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeVerteidigung steigt stark!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attacke steigt stark!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attacke steigt stark!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attacke steigt stark!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Def steigt stark!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Def steigt stark!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Def steigt stark!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeInt steigt stark!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeInt steigt stark!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeInt steigt stark!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeGenauigk. steigt stark an!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeGenauigk. steigt stark an!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeGenauigk. steigt stark an!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAusweichen steigt stark an!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAusweichen steigt stark an!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAusweichen steigt stark an!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttacke steigt leicht an!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttacke steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttacke steigt leicht an!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeVerteidigung steigt leicht an!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeVerteidigung steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeVerteidigung steigt leicht an!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attacke steigt leicht an!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attacke steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attacke steigt leicht an!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Verteidigung steigt leicht an!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Verteidigung steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Verteidigung steigt leicht an!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeInt steigt leicht an!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeInt steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeInt steigt leicht an!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeGenauigk. steigt leicht an!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeGenauigk. steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeGenauigk. steigt leicht an!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAusweichen steigt leicht an!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAusweichen steigt leicht an!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAusweichen steigt leicht an!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000はりきりだした!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000はりきりだした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000はりきりだした!
+\xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた!
+Wildes \xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた!
+Gegnerisches \xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で　もちこたえた!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で　もちこたえた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で　もちこたえた!
+\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした!
+Wildes \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした!
+Gegnerisches \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした!
+\xf000Ă\x0001\x0000 \xfffeいのちが　すこし　けずられた!
+Wildes \xf000Ă\x0001\x0000 \xfffeいのちが　すこし　けずられた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeいのちが　すこし　けずられた!
+…しかし　\xf000Ă\x0001\x0000 \xfffeこのばに　いなかった!
+…しかし　Wildes \xf000Ă\x0001\x0000 \xfffeこのばに　いなかった!
+…しかし　Gegnerisches \xf000Ă\x0001\x0000 \xfffeこのばに　いなかった!
+…しかし　\xf000Ă\x0001\x0000 \xfffeつかえる　どうぐを　もっていなかった!
+…しかし　Wildes \xf000Ă\x0001\x0000 \xfffeつかえる　どうぐを　もっていなかった!
+…しかし　Gegnerisches \xf000Ă\x0001\x0000 \xfffeつかえる　どうぐを　もっていなかった!
+\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった!
+Wildes \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった!
+Gegnerisches \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった!
+\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった!
+Wildes \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった!
+Gegnerisches \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった!
+\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000あたりやすくなった!
+Wildes \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000あたりやすくなった!
+Gegnerisches \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000あたりやすくなった!
+\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた!
+\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた!
+\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた!
+Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた!
+\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffehat Schaden genommen!
+Wildes \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffehat Schaden genommen!
+Gegnerisches \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffehat Schaden genommen!
+\xf000Ă\x0001\x0000 \xfffeはりきっている!
+Wildes \xf000Ă\x0001\x0000 \xfffeはりきっている!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeはりきっている!
+\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった!
+Wildes \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった!
+Gegnerisches \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった!
+\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした!
+Wildes \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした!
+Gegnerisches \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした!
+\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした!
+\xf000Ă\x0001\x0000は　Wildes \xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした!
+\xf000Ă\x0001\x0000は　Gegnerisches \xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした!
+Wildes \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした!
+Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした!
+Gegnerisches \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした!
+\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった!
+\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった!
+\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった!
+Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった!
+\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた!
+\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000Wildes \xf000Ă\x0001\x0001に　のろいを　かけた!
+\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000Gegnerisches \xf000Ă\x0001\x0001に　のろいを　かけた!
+Wildes \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた!
+Wildes \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The wild \xf000Ă\x0001\x0001に　のろいを　かけた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The foe's \xf000Ă\x0001\x0001に　のろいを　かけた!
+\xf000Ă\x0001\x0000 \xfffeのろわれている!
+Wildes \xf000Ă\x0001\x0000 \xfffeのろわれている!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeのろわれている!
+\xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした!
+Wildes \xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした!
+\xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした!
+Wildes \xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした!
+\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた!
+\xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった!
+Wildes \xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった!
+\xf000Ă\x0001\x0000 \xfffeじゅうりょくが　つよくて\xf000븀\x0000\xf000ć\x0001\x0001が　だせない!
+Wildes \xf000Ă\x0001\x0000 \xfffeじゅうりょくが　つよくて\xf000븀\x0000\xf000ć\x0001\x0001が　だせない!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeじゅうりょくが　つよくて\xf000븀\x0000\xf000ć\x0001\x0001が　だせない!
+\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった!
+\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった!
+\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった!
+Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった!
+\xf000Ă\x0001\x0000 \xfffeおたがいのパワーを　シェアした!
+Wildes \xf000Ă\x0001\x0000 \xfffeおたがいのパワーを　シェアした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeおたがいのパワーを　シェアした!
+\xf000Ă\x0001\x0000 \xfffeおたがいのガードを　シェアした!
+Wildes \xf000Ă\x0001\x0000 \xfffeおたがいのガードを　シェアした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeおたがいのガードを　シェアした!
+\xf000Ă\x0001\x0000 \xfffeみがるになった!
+Wildes \xf000Ă\x0001\x0000 \xfffeみがるになった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeみがるになった!
+\xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった!
+Wildes \xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった!
+Gegnerisches \xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001は　やけてなくなった!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001は　やけてなくなった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001は　やけてなくなった!
+\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001から\xfffe\xf000ĉ\x0001\x0002を　うけとった!
+\xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった!
+\xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった!
+Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった!
+Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった!
+\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった!
+\xf000Ă\x0001\x0000は　Wildes \xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった!
+\xf000Ă\x0001\x0000は　Gegnerisches \xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった!
+Wildes \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった!
+Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001を\xf000븀\x0000じょうくうに　つれさった!
+Gegnerisches \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001を\xf000븀\x0000じょうくうに　つれさった!
+\xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた!
+Wildes \xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた!
+\xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた!
+Wildes \xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた!
+\xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした!
+Wildes \xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした!
+\xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした!
+Wildes \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした!
+\xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた!
+Wildes \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた!
+Gegnerisches \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた!
+\xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた!
+Wildes \xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた!
+Gegnerisches \xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた!
+\xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた!
+Wildes \xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた!
 \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001を　まっている…
 \xf000Ă\x0001\x0000 \xfffeWildes \xf000Ă\x0001\x0001を　まっている…
 \xf000Ă\x0001\x0000 \xfffeGegnerisches \xf000Ă\x0001\x0001を　まっている…
@@ -1151,9 +1151,9 @@ Wildes \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001を　まっている…
 Wildes \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001を　まっている…
 Gegnerisches \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001を　まっている…
 Gegnerisches \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001を　まっている…
-\xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
-Wildes \xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
-Gegnerisches \xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
-\xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた！
-Wildes \xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた！
-Gegnerisches \xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた！
+\xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ!
+Wildes \xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ!
+Gegnerisches \xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ!
+\xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた!
+Wildes \xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた!
+Gegnerisches \xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた!

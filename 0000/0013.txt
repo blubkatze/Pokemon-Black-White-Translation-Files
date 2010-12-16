@@ -4,7 +4,7 @@ Sind sie sicher?
 \xf000Ă\x0001\x0000 wurde freigelassen!
 Tschüss, \xf000Ă\x0001\x0000!
 Getränk lagern!
-たたかうポケモンが　いなくなります！
+Das Pokémon kann nicht kämpfen
 Was willst du mit dieser Box machen?
 Springe zu welcher\xfffeBox?
 Welches Thema sollen sie bekommen?
@@ -24,7 +24,7 @@ Kann nicht versenden!
 Was willst du mit \xf000ĉ\x0001\x0000tuen?
 \xf000ĉ\x0001\x0000 schließen?
 \xf000ĉ\x0001\x0000 in die Tasche einpacken!
-どうぐを　もつことが　できます
+Kann kein Item tragen
 Bitte Briefe entfehrnen!
 Eier können nicht freigelassen werden!
 \xf000Ă\x0001\x0000 kam wieder!
@@ -44,7 +44,7 @@ Pokémon auswählen zum ins Bett schicken
 Brief kann nicht entfehrnt werden!
 \xf000ĉ\x0001\x0000 darf nichts halten!
 Bekam Post!
-たたかうポケモンが　いなくなります！
+Pokémon wird nicht kämpfen!
 Brief kann nicht entfehrnt werden!
 Kann Brief hier nicht geben
 Ei kann nicht ausgewählt werden

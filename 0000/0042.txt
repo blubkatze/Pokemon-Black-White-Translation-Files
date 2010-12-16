@@ -1,21 +1,21 @@
 \xf000Ā\x0001\x0000
 ＩＤ\xf000Ȅ\x0001\x0000
-メンバーが　そろったら\xfffeＡボタン：すすむ　Ｂボタン：やめる
-この　メンバーで　よろしいですか？
-ぐるぐるこうかんを\xfffeちゅうし　しますか？
-それでは　ぐるぐるこうかんを\xfffeちゅうし　します
-つごうが　わるくなってしまった\xfffeメンバーが　います
-メンバーが　いなくなりました\xfffeぐるぐるこうかんを　ちゅうし　します
-そのまま　おまちください\xfffeＢボタン：やめる
-つごうのつかない　メンバーがいたので\xfffeぐるぐるこうかんを　ちゅうし　します
-ぐるぐるこうかんを　やめますか？
-それでは　ぐるぐるこうかんを\xfffeちゅうし　します
-レコードを　まぜています\xfffeでんげんを　きらないで　ください！
-ぐるぐるこうかんが　おわりました！\xfffeユニオンルームへ　いどうします
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-\xf000Ā\x0001\x0000さんが　かえりました
-リーダーの　\xf000Ă\x0001\x0000さんが\xfffeぬけたので　かいさん　します
-ぐるぐるこうかん　ぼしゅうちゅう！
-ぐるぐるこうかんちゅう！
-はい
-いいえ
+Sind alle Mitglieder zusammen?\xfffeA Knopf: Weiter, B Knopf: Abbruch
+Sind diese Mitglieder okay?
+Spin Trade beenden?
+Spin Trade\xfffewird nun beendet.
+Einige Mitglieder haben\xfffetechnische Probleme.
+Alle Mitglieder verliesen.\xfffeSpin Trade wird beendet.
+Bitte warten.\xfffeB Knopf: Abbruch
+Einige Mitglieder haben Probleme.\xfffeSpin Trade wird beendet.
+Spin Trade beenden?
+Spin Trade\xfffewird beendet.
+Tausche Rekorde aus.\xfffeBitte den DS nicht ausschalten!
+Spin Trade ist zuende!\xfffeGehe zurück zum Union Room.
+Wenn den Führer beendet, die Gruppe\xfffewird dissolve. Ist das Okay?
+\xf000Ā\x0001\x0000 kam wieder.
+Der Führer \xf000Ă\x0001\x0000 ging,\xfffedie Gruppe wird dissolve.
+Recruiting for Spin Trade!
+Now Spin Trading!
+Ja
+Nein

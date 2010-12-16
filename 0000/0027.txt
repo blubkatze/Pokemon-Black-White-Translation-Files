@@ -2,7 +2,7 @@
 ＳＥＬＥＣＴ
 Ｂ-Knopf
 Touchscreen benutzen
-がぞうを　とめる
+Bild speichern
 Zeichnen Modus beenden
 Stiftgröße ändern
 Frabe auswählen
@@ -13,8 +13,8 @@ Zeichnen Modus
 Aufnahme
 Zeichnung
 ＩＤ\xf000Ȅ\x0001\x0000
-―／―
-\xf000Ȁ\x0001\x0000／４
+―/―
+\xf000Ȁ\x0001\x0000/４
 Bitte Freund auswählen
 Freund anrufen
 Teilnehmen
@@ -31,13 +31,13 @@ Freund suchen・
 Freund suchen・・
 Freund suchen・・・
 Live Caster\xfffeBeenden?
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
+Sie sind der Leiter\xfffeWenn Sie verlassen wird es aufgelöst.\xfffeIn Ordnung?
 Ja
 Nein
-リーダーが　しゅうりょうしたので　\xfffeかいさんします
+Leiter beendete die Verbindung
 Freund hat Verbundung aufgelöst
 Ende, das Freund verlassen hat
 Anruf fehlgeschlagen
 Verbindung fehlgeschlagen
-ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが　せいげん\xfffeされています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください
+Durch die Kindersicherung wird die Bild-zu-Bild Übertragung beschränkt\xfffeBitte entfehrnen sie die beschränkungs Einstellungen.
 Auf Freund warten

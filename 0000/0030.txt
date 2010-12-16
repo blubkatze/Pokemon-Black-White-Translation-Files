@@ -1,6 +1,6 @@
 Optionen
-Text Geschwindigkeit
-Kampf Animation
+Text-Tempo
+Animation
 Kampftyp
 Ton
 Sprache
@@ -19,19 +19,19 @@ Stereo
 Mono
 Deutsch
 Kanji
-Speichern
+Ein
 Off
-かく
-かかない
-メッセージの　はやさを\xfffe３しゅるいから　えらべます
-せんとうのとき　ポケモンの　わざの\xfffeアニメを　みるかどうか　えらべます
-しょうぶの　ルールを\xfffeえらぶことが　できます
-ゲームの　おとを\xfffeえらぶことが　できます
-もじの　ひょうじを\xfffeきりかえることが　できます
-いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
-C-GEARの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
-べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
-えらんだ　せっていに　かえますか？
+Speichern
+Abbruch
+Text-Tempo kann in 3 verschiedenen\fffeGeschwindigkeiten angezeigt werden.
+Kampfanimation anzeigen
+Wähle die standard Regel aus\xfffeum Pokémon im Kampf zu wechseln
+Wähle ob Stereo oder Mono\xfffeeingestellt sein soll
+Wähle die Sprache aus.\xfffeKanji ist Japanisch.
+Wähle ob du W-LAN immer an haben willst.
+Wähle ob jedesmal ein Report geschrieben werden soll,\xfffevor C-Gear IR Verbindung.
+Ein anderer Report wurde schon geschrieben.\xfffeDadurch kann es nicht veändert werden.\xf000븁\x0000
+Willst du speichern?\xfffeWenn nicht werden alle Veränderungen verworfen
 Ja
 Nein
-ダミーメッセージ
+Dummy-Nachricht

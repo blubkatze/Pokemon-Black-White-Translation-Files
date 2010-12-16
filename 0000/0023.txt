@@ -2,6 +2,6 @@ C-GEAR einschalten?\xfffeBitte Hinweis lesen.
 Es bleibt eingeschaltet wenn der DS geschlossen wird\xfffeEs wird nicht in den Standby-Modus gehen\xfffeBitte beachten sie, dass die Batterie stärker belastet wird.
 C-GEAR ausschalten?\xfffeBitte Hinweis lesen
 \xf000\xff00\x0001\x0001Achtung!\xf000\xff00\x0001\x0000\xfffe\Bitte nicht in Flugzeugen und Krankenhäusern\xfffebenutzen, da Radiowellen vom C-GEAR ausgehen\xfffeund sensible Geräte stören können.
-Das C-GEAR kann auch wärend des Spiels\xfffeein- und ausgeschaltet werden.\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
+Das C-GEAR kann auch wärend des Spiels\xfffeein- und ausgeschaltet werden.
 Ja
 Nein

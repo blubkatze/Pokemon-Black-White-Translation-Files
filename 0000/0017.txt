@@ -34,18 +34,18 @@ Hat \xf000Ȁ\x0001\x0000 mal getroffen!
 \xf000Ā\x0001\x0000 benutzt\xfffeein \xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000 benutzt\xfffeein \xf000ĉ\x0001\x0001!
 \xf000Ď\x0001\x0000 benutzt\xf000Ā\x0001\x0001\xfffe\xf000ĉ\x0001\x0002!
-\xf000Ā\x0001\x0000が　\xf000Ă\x0001\x0001に\xfffe\xf000ĉ\x0001\x0002を　シュートした！！
-いまは　ミラクルシューターを\xfffeつかうことが　できない！
-\xf000Ā\x0001\x0000 wird linksherum\xfffegedreht\xfffeひだりへ　ローテーション！
-\xf000Ā\x0001\x0000 wird linksherum\xfffegedreht\xfffeひだりへ　ローテーション！
-\xf000Ā\x0001\x0000 wird rechtsherum\xfffegedreht\xfffeみぎへ　ローテーション！
-\xf000Ā\x0001\x0000 wird rechtsherum\xfffegedreht\xfffeみぎへ　ローテーション！
+\xf000Ā\x0001\x0000 schiest ein \xfffe\xf000ĉ\x0001\x0002 auf \xf000Ă\x0001\x0001！！
+Der MIRACLE SHOOTERxfffe kann jetzt nicht benutzt werden
+000Ā\x0001\x0000 wird linksherum\xfffegedreht\xfffe！
+\xf000Ā\x0001\x0000 dreht die Pokémon\xfffelinksherum！
+\xf000Ā\x0001\x0000 dreht die Pokémon\xffferechtsherum！
+\xf000Ā\x0001\x0000 dreht die Pokémon\xffferechtsherum！
 \xf000Č\x0001\x0000 bekam\xfffe\xf000Ȇ\x0001\x0001 Ep. Punkte!
 \xf000Č\x0001\x0000 bekam erhöte\xfffe\xf000Ȇ\x0001\x0001 Ep. Punkte!
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001\xfffeとの　しょうぶに　かった！
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffe\xf000Ď\x0001\x0002の　\xf000Ā\x0001\x0003\xf000븀\x0000との　しょうぶに　かった！
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001\xfffeとの　しょうぶに　まけた！
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001\xfffeとの　しょうぶは　ひきわけだ！
+Spieler besiegt\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffe！
+Spieler besiegt\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 und \xfffe\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003！
+Spieler besiegt\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffe！
+Spieler besiegt\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffe！
 Spieler besiegt\xfffe\xf000Ā\x0001\x0000!
 Spieler besiegt \xf000Ā\x0001\x0000￪nd \xf000Ā\x0001\x0001!
 Spieler verlor gegeen\xfffe\xf000Ā\x0001\x0000!
@@ -53,8 +53,8 @@ Spieler hat gegen\xf000Ā\x0001\x0000\xfffeund \xf000Ā\x0001\x0001 verloren!
 Spieler hat ein Unentschieden gegen\xfffe\xf000Ā\x0001\x0000 gespielt!
 Spieler hat ein Unentschieden gegen\xfffe\xf000Ā\x0001\x0000 und \xf000Ā\x0001\x0001 gespielt!
 \xf000Ā\x0001\x0000 hat keine\xfffekampffähigen Pokémon mehr!\xf000븁\x0000
-\xf000Ā\x0001\x0000は　あわてて\xfffe\xf000Ȅ\x0001\x0001円　なくしてしまった…
-\xf000Ā\x0001\x0000は　しょうきんとして\xfffe\xf000Ȅ\x0001\x0001円　しはらった…
+\xf000Ā\x0001\x0000 hat \xfffe\xf000Ȅ\x0001\x0001円 in Panik fallen gelassen…
+\xf000Ā\x0001\x0000 gibt\xfffe\xf000Ȅ\x0001\x0001円 dem Gewinner…
 …　…　…　…\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffe eine Spirale der Finsterniss hült dich ein!
 \xf000Ā\x0001\x0000 bekam \xf000Ȅ\x0001\x0001円\xfffefür seinen Sieg!
 \xf000Ā\x0001\x0000 hebt \xf000Ȅ\x0001\x0001円 auf!
@@ -73,15 +73,15 @@ Was wird \xf000Ā\x0001\x0000 tuen?
 Sicher davon gekommen!
 Flucht klappte nicht!
 Du kannst nicht fliehen
-Wildes \xf000Ă\x0001\x0000\xfffeist abgehaun!
+Wildes \xf000Ă\x0001\x0000\xfffeist weg gerannt!
 Nein! Du kannst nicht vor \xfffe Trainer Kampf davon laufen!
 Willst du den Kampf aufgeben?
 Es ist sehr effektiv!
 Es ist nicht sehr effektiv...
 Es hat sich selbst in seiner\xfffe Verwirrtheit geschlagen!
 Das war ein Wunder Punkt!
-しかし　わざの　のこりポイントが\xfffeなかった！
-たすけにきた　\xf000Ā\x0001\x0000の　おかげで\xfffe\xf000Ă\x0001\x0001の\xf000븀\x0000たいりょくが　かいふくした！
+Aber es sind\xfffekeine AP für diese Attacke übrig!
+Dank \xf000Ā\x0001\x0000s hilfe,\xfffe\xf000Ă\x0001\x0001s Kp wurden wiederhergestellt!
 Das Sonnenlicht wird stärker!
 Es hat angefangen zu regnen!
 Ein Sandsturm zieht auf!
@@ -98,17 +98,17 @@ Auf einmal, hagelt es!
 Ein-Schlag KO!
 \xf000ĉ\x0001\x0000\xfffe\xf000ć\x0001\x0001Kraft schächt ab!
 \xf000ĉ\x0001\x0000s Effekt\xfffe\xf000ć\x0001\x0001schwächt ab!
-\xf000Č\x0001\x0000は\xfffe\xf000ć\x0001\x0001しか　だせない！
+\xf000Č\x0001\x0000 kann nur\xfffe\xf000ć\x0001\x0001 benutzen！
 Jeder Statuswert ist wieder auf den Anfang zurückgesetzt!
 Aber nichts passiert!
 \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
-Magnitude 4!
-Magnitude 5!
-Magnitude 6!
-Magnitude 7!
-Magnitude 8!
-Magnitude 9!
-Magnitude 10!!!
+Stärke 4!
+Stärke 5!
+Stärke 6!
+Stärke 7!
+Stärke 8!
+Stärke 9!
+Stärke 10!!!
 Der Ton eines Glöckchen erklingt!
 Angenehmes Aroma\xfffebreitet sich aus!
 Die Kämpfer teilten ihren Schmerz!
@@ -155,37 +155,37 @@ Poison spikes were scattered all\xfffearound the enemy team’s feet!
 The poison spikes disappeared from\xfffearound your team’s feet!
 The poison spikes disappeared from\xfffearound the enemy team’s feet!
 Pointed stones float in the air\xfffearound your team!
-Pointed stones float in the air\xfffearound your foe’s team!
-みかたの　まわりの\xfffeステルスロックが　きえさった！
-あいての　まわりの\xfffeステルスロックが　きえさった！
-みかたの　まわりを\xfffeワイドガードが　まもっている！
-あいての　まわりを\xfffeワイドガードが　まもっている！
-みかたの　まわりを\xfffeファストガードが　まもっている！
-あいての　まわりを\xfffeファストガードが　まもっている！
-みかたの　そらに　にじが　かかった！
-あいての　そらに　にじが　かかった！
-みかたの　そらから　にじが　きえた！
-あいての　そらから　にじが　きえた！
-みかたの　まわりが\xfffeひのうみに　つつまれた！
-あいての　まわりが\xfffeひのうみに　つつまれた！
-みかたの　まわりの\xfffeひのうみが　きえさった！
-あいての　まわりの\xfffeひのうみが　きえさった！
-みかたの　まわりに\xfffeしつげんが　ひろがった！
-あいての　まわりに\xfffeしつげんが　ひろがった！
-みかたの　まわりの\xfffeしつげんが　きえさった！
-あいての　まわりの\xfffeしつげんが　きえさった！
-みかたは　きんちょうして\xfffeきのみが　たべられなくなった！
-あいては　きんちょうして\xfffeきのみが　たべられなくなった！
-ぼうぎょと　とくぼうが　いれかわる\xfffeくうかんを　つくりだした！
-ワンダールームが　かいじょされ\xfffeぼうぎょと　とくぼうが　もとにもどった！
-もたせた　どうぐの　こうかが\xfffeなくなる　くうかんを　つくりだした！
-マジックルームが　かいじょされ\xfffeどうぐの　こうかが　もとにもどった！
-\xf000ĉ\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeいりょくを　つよめた！
-せいげんじかんが　なくなりました！\xfffeたいせんを　しゅうりょう　します！
-しょうぶの　じかんが　ながすぎるため\xfffeさいせいを　ちゅうだん　します！
-ダルマモード　はつどう！
-ダルマモード　かいじょ！
-２つのわざが　ひとつになった！\xfffeコンビネーションわざだ！
+Pointed stones float in the air\xfffearound the enemy team!
+The pointed stones floating\xfffe around your team went away!
+The pointed stones floating\xfffe around the enemy team went away!
+Your team is protected\xfffeby Wide Guard!
+The enemy team is protected\xfffeby Wide Guard!
+Your team is protected\xfffeby Fast Guard!
+The enemy team is protected\xfffeby Fast Guard!
+A rainbow reached across\xfffethe sky above your team!
+A rainbow reached across\xfffethe sky above the enemy team!
+The rainbow disappeared from\xfffethe sky above your team!
+The rainbow disappeared from\xfffethe sky above the enemy team!
+Your team was engulfed\xfffein a sea of fire!
+The enemy team was engulfed\xfffein a sea of fire!
+The sea of fire around\xfffeyour team disappeared!
+The sea of fire around\xfffethe enemy team disappeared!
+Wetlands extended out\xfffearound your team!
+Wetlands extended out\xfffearound the enemy team!
+The wetlands around\xfffeyour team disappeared!
+The wetlands around\xfffethe enemy team disappeared!
+Your team was made\xfffetoo nervous to eat berries!
+The enemy team was made\xfffetoo nervous to eat berries!
+An area that reverses Defense\xfffeand Sp. Defense was created!
+Wonder Room ceased, and\xfffeDefense and Sp. Defense returned to normal!
+An area that removes the effect\xfffeof held items was created!
+Magic Room ceased, and\xfffehold items regained their effect!
+\xf000ĉ\x0001\x0000 increased\xfffe\xf000ć\x0001\x0001's power!
+The time limit ran out!\xfffeThe battle will be ended!
+The battle went on too long,\xfffeso playback will be suspended!
+Daruma mode activated!
+Daruma mode ceased!
+Two moves turned into one!\xfffeIt's a combination move!
 \xf000Č\x0001\x0000 won’t obey!
 \xf000Č\x0001\x0000 is\xfffeloafing around!
 \xf000Č\x0001\x0000 turned away!
@@ -193,8 +193,8 @@ Pointed stones float in the air\xfffearound your foe’s team!
 \xf000Č\x0001\x0000 ignored orders!
 \xf000Č\x0001\x0000 began to nap!
 \xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
-リセットムーブ！！
-しかし　この　どうぐを\xfffeつかえる　ばしょに　いなかった！
-\xf000Č\x0001\x0000は　フリーフォールで\xfffeじゆうに　ならない！
-こうさんが　えらばれました
-（\xf000Ȁ\x0001\x0000）のゆびをふる　\xf000Ȃ\x0001\x0001：\xf000ć\x0001\x0002
+Reset Move!!
+But there's nowhere\xfffeto use this item!
+\xf000Č\x0001\x0000 can't act freely\xfffebecause of Freefall!
+Chose to give in.
+(\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002

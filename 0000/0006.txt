@@ -39,7 +39,7 @@ Geben
 \xf000Ȃ\x0001\x0000
 ×
 Trinken
-\xf000ȃ\x0001\x0000まい
+\xf000ȃ\x0001\x0000nicht
 Schliesen
 Was ist mit \xf000ĉ\x0001\x0000?
 Du kannst hier\xfffekeine Briefe schreiben！
@@ -58,9 +58,9 @@ Prof. Araragis sagt immer...\xfffe\xf000븀\x0000, dies ist weder der rechte Ort
 Du kannst hier nicht vom Fahrrad absteigen.
 Prof. Araragis sagt immer...\xfffe\xf000븀\x0000, dies ist weder der rechte Ort noch die rechte Zeit dafür!
 Deine Münzen:　\xf000Ȅ\x0001\x0000
-Booted up an TM.
-Booted up an HM.
-It contained　\xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeto a Pokémon?
+TM geladen.
+VM geladen.
+Sie enthällt　\xf000ć\x0001\x0000.\xf000븁\x0000\xf000ć\x0001\x0000\xfffeeinem Pokémon beibringen?
 \xf000Ā\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001 benutzt.
 Dadurch, dass dein Schutz noch wirkt,\xfffekannst du keine weiteren benutzen.
 \xf000Ā\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001 benutzt.\xf000븁\x0000Wilde Pokémon werden angelockt.
@@ -69,7 +69,7 @@ Die Box ist voll!
 Puder:　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
-\xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+\xf000봂\x0000Mystery\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Beerenpuder
 Hat die Pokéflöte gespielt!\xfffeWow! Das hört sich gut an!
 Hat die Pokéflöte gespielt!

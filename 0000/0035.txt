@@ -5,15 +5,15 @@ Tasche
 TrainerKarte
 Speichern
 Optionen
-　
+ 
 Chat
-　
-ずかんを　せんたくしました
-ポケモンステータスを　せんたくしました
-バッグを　せんたくしました
-トレーナーカードを　せんたくしました
-レポートを　せんたくしました
-せっていを　せんたくしました
-ポケモンレポートに　かきこんでいます
-ポケモンレポートに\xfffeしっかり　かきのこした！
-つうしんちゅうは　レポートを　かけません
+ 
+Pokédex ausgewählt
+Pokémon Status ausgewählt.
+Tasche ausgewählt.
+Trainer Karte ausgewählt.
+Speicherstand ausgewählt.
+Optionen ausgewählt.
+Speichern.
+Das Spiel wurde\xfffeerfolgreich gespeichert!
+Kann nicht speichern wärend der Kommunikation!
