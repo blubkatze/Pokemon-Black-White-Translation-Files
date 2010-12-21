@@ -1,28 +1,28 @@
-ことばを　えらんでね！
-たいせんまえの　ことばを　かんがえよう
-かったときの　きめゼリフを　かんがえよう
-まけたときの　いいわけを　かんがえよう
-はやっている　ものは？
-ユニオンあいさつを　かんがえよう
-これで　いいですか？
-なにか　ことばを　いれてください！
-なにも　しないで　やめますか？
-はい
-いいえ
-グループ\xfffeモード
-あいうえお\xfffeモード
-つかう
-けってい
-やめる
-へんしゅう
-あたらしく　メッセージを　ついかする
-えらぶ
-けす
-やめる
-メッセージとうろくリスト：\xfffeつかいたい　メッセージを\xfffeえらんで　ください！
-メッセージの　しゅるいや\xfffeことばをいれる　ばしょを\xfffeえらんで　ください！
-ことばをいれる　ばしょを\xfffeえらんで　ください！
-グループモード：\xfffeグループの　なかから\xfffeことばを　えらんで　ください！
-あいうえおモード：\xfffeもじを　えらんでいって\xfffeことばを　しぼりこんでください！
-あいうえおモード：\xfffeしぼりこんだ　なかから\xfffeことばを　えらんで　ください！
-グループモード：\xfffeきめた　ばしょに　あてはまる\xfffeグループを　えらんで　ください
+Suche ein Word aus!
+Denk dir ein vor-Kampf Intro aus!
+Denk dir eine coole Gewinnerzeile aus!
+Denk dir eine verlierer Ausrede aus!
+WAs ist trendig?
+Denk dir eine Union Begrüßung aus!
+Ist dies okay?
+Steck ein Word rein!
+Eingabe beenden?
+Ja
+Nein
+Gruppen\xfffeModus
+ABC\xfffeModus
+Benutzen
+Bestätigen
+Beenden
+Editieren
+Eine neue Nachricht hinzufügen
+Auswählen
+Löschen
+Beenden
+メッセージとうろくリスト：\xfffeつかいたい メッセージを\xfffeえらんで ください!
+メッセージの しゅるいや\xfffeことばをいれる ばしょを\xfffeえらんで ください!
+Wähle aus wo du\xfffedas Word hinstecken willst!
+Gruppen Modus:\xfffeSuche Word\xfffeaus der Kategorie!
+ABC Modus:\xfffeWähle Buchstabe aus\xfffeum die Wörter zu beschränken!
+ABC Modus:\xfffeWähle Wörter von\xfffeder beschränkten Liste!
+Gruppen Modus:\xfffeWähle die\xfffebestimmte Gruppe!

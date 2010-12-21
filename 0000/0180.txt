@@ -1,9 +1,9 @@
-Health
-Attack
-Defence
-Speed
-Special Attack
-Special Defense
-Accuracy
-Evasion
-Max HP
+KP
+Angriff
+Verteidigung
+Geschw.
+Sp. Angriff
+Sp. Vert.
+Genauigk.
+Ausweichen
+Max KP

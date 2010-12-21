@@ -1,2 +1,2 @@
-スタートボタンを　おしてください
-PUSH　START　BUTTON
+Drücke Start Knopf
+DRÜCKE START KNOPF

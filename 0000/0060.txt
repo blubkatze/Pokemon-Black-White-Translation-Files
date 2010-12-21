@@ -1,6 +1,6 @@
-Confirm
-Quit
-Please enter a phrase or word.
-Stop giving the Pokémon\xfffeMail?
-Yes
-No
+Bestätigen
+Beenden
+Bitte einee Phrase oder ein Wort eingeben.
+Dem Pokémon die Nachricht nicht geben?
+Ja
+Nein

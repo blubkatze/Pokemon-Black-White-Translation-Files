@@ -1,2 +1,2 @@
-つうしんエラーが　はっせいしました
-つうしんエラーが　はっせいしました\xfffeでんげんを　きってください
+Ein Kommunikationsfehler ist aufgetreten
+Ein Kommunikationsfehler ist aufgetreten\xfffeBitte schalten sie den DS aus.

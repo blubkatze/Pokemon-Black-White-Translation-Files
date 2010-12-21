@@ -1,11 +1,11 @@
-もじモードを　えらんでください
-おとこのこ？　おんなのこ？
-つうしんきのう　を　オンにしますか？
-ちゅうい！
-このゲームを　さいだいげんに　たのしむ\xfffeためには　むせんつうしんきのうを\xfffeオンに　してください\xfffeひこうきや　びょういんなど\xfffeむせんつうしんきのうを　きんしに　している\xfffeばしょでは　オフに　してください\xfffeゲームちゅうの　せっていがめんでも\xfffeへんこう　することが　できます　
-ひらがなモード
-漢字モード
-おとこのこ
-おんなのこ
-はい
-いいえ
+Bitte Sprache auswählen.
+Bist du ein Junge? Oder bist du ein Mädchen?
+W-LAN Funktion einschalten?
+Warnung!
+Bitte schalte die Wireless Kommunikation\xfffeein für den maximalen Spielspass.\xfffeBitte schalte es aus in Orten\xfffewo man keine Funkverbindungen haben darf,\xfffewie z. B. in Flugzeugen und Krankenhäusern.\xfffeDies kann im Spiel geändert\xfffwerden in den Einstellungen.
+Deutsch
+Kanji
+Junge
+Mädchen
+Ja
+Nein

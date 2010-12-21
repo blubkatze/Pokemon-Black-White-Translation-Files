@@ -1,9 +1,9 @@
-It will forget the saying it knows now.\xfffeIs that OK?
-Press the A button, then speak\xfffeinto the microphone.\xf000븁\x0000
-\xf000Ă\x0001\x0000 learned a new saying!\xf000븁\x0000
-\xf000Ă\x0001\x0000 failed to learn a new saying.\xf000븁\x0000
-Would you like to try again?
-It seems distracted and \xfffeunable to concentrate...
-Preparing the Mic...
-Yes
-No
+Es wird seine Sprüche vergessen.\xfffeIst das OK?
+Drücke den A Knopf, dann spreche\xfffein das Mikrofon.\xf000븁\x0000
+\xf000Ă\x0001\x0000 lernte einen neuen Spruch!\xf000븁\x0000
+\xf000Ă\x0001\x0000 kann den neuen Spruch nicht lernen.\xf000븁\x0000
+Willst du es erneut versuchen?
+Es scheint abgelengt zu sein und\xfffeunfähig sich zu konzentrieren...
+Bereite das Mikrofon vor...
+Ja
+Nein

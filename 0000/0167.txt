@@ -1,6 +1,6 @@
 Level 50
-No limitations
+Keine Beschränkungen
 Standard
-Random Match
-Battle Subway
+Zufalls Kampf
+Kampf U-Bahn
 Flat

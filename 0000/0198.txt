@@ -1,6 +1,6 @@
 \xf000Ā\x0001\x0000
-チェレン
-ベル
-はかせ
-ママ
+Cheren
+Bel
+Professor
+Mama
 \xf000Ā\x0001\x0000

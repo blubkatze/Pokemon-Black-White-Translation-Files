@@ -1,669 +1,669 @@
-Welcome to Mystery Gift!
-Please choose how you want to\xfffereceive your gift.
-DS Wireless Communications will\xfffebe launched.
-Searching for a gift.\xfffePlease wait...
-Receive this gift?
-Search for a different gift?
-Your request has been sent.\xfffePlease wait a moment...
-Receiving your gift.\xfffeDon’t turn off the power.
-The gift has been received!\xf000븁\x0000Please pick up your gift from the\xfffedeliveryman in any Poké Center.
-This gift is being shared by\xfffeanother person.\xf000븁\x0000You may accept this gift, but you\xfffewill not be able to distribute it\xf000븀\x0000to your friends.\xf000븁\x0000Will you accept this gift?
-ふしぎなカードが\xfffe１まいも　ありません
-Pokémon Ranger\xfffeMANAPHY Egg Transfer
-Recieve Gift
-Check Card
+Willkommen zum Geheimgeschehen!
+Bitte wählen sie aus,\xfffewie sie das Geschenk empfangen möchten.
+DS W-LAN Verbindung wird\xfffenun gestartet.
+Suche nach Geschenk.\xfffeBitte warten...
+Diese Geschenk empfangen?
+Nach anderem Geschenk suchen?
+Ihre Anfrage wurde gesendet.\xfffeEinen Moment geduld...
+Empfange Geschenk.\xfffeBitte DS nicht ausschalten.
+Das Geschenk wurde empfangen!\xf000븁\x0000Bitte hole dein Geschenk beim\xfffenächsten Poké Center bei dem Empfangstyp an.
+Dieses Geschenk wurde von jemandem\xfffeVerteilt.\xf000븁\x0000Sie könnnen diese Geschenk annehmen\fffeaber sie werden nicht im stande sein\xf000븀\x0000es ihren Freunden weiter zu geben\xf000븁\x0000Wollen sie das Geschenk empfangen?
+Es sind keine\xfffeGeheimgeschehen verfügbar.
+Pokémon Ranger\xfffeMANAPHY Er Übertragen
+Empfange Geschenk
+Karte lesen
 Exit
-Get from a Friend
-Get via Nintendo WFC
-Cancel
-Yes
-No
-Get via Wireless
-Our deliveryman is overloaded with\xfffegifts for you!\xf000븁\x0000Please see him at any Poké Mart and\xfffepick up some of your gifts.
-You’ve already received this gift.\xfffeYou may not get another one.
-There were no gifts to be found.
-Your request was turned down.
-You are out of room for\xfffeWonder Cards.\xf000븁\x0000You may not accept another gift.
-There was a problem with\xfffereceiving the gift.\xf000븁\x0000Press the A Button to return to\xfffethe title screen.
-A gift has been found, but it cannot\xfffebe received using this version.\xf000븀\x0000Press the A Button to return to\xfffethe menu.
+Von Freund erhalten
+Von Nintendo WFC erhalten
+Abbruch
+Ja
+Nein
+Von Wireless erhalten
+Unser Empfangstyp ist überladen mit\xfffeGeschenken für dich!\xf000븁\x0000Bitte siche in im Poké Mart auf und\xfffenimm ein paar Geschenke entgegen.
+Du hast dieses Geschenk schon erhalten.\xfffeDu kannst es nicht nochmal bekommen.
+Es wurden keine Geschenke gefunden.
+Deine Anfrage wurde abgebrochen.
+Du hast keinen Platz mehr\xfffefür weitere Wunderkarten.\xf000븁\x0000Du kannst keine weiteren Geschenke annehmen.
+Es ist ein Problem beim\xfffeGeschenkempfang aufgettreten.\xf000븁\x0000Drücke den A Knopf um zurück zum\xfffeTitelbildschirm zu gelangen.
+Ein Geschenk wurde gefunden,\xfffeaber du kannst es mit dieser Version nicht empfangen.\xf000븀\x0000A Knopf drücken um zum Menü\xfffe zurück zu kehren.
 The person sharing has\xfffebeen disconnected...
-ポケモンレンジャーと\xfffeせつぞく　しています
-Press the A Button.
-レポートを　かいています\xfffeしばらく　おまち　ください
-タマゴを　てんそうちゅう　です
-タマゴの　じゅしんに\xfffeしっぱい　しました
-Please touch Pokémon Ranger’s\xfffegame screen.
-ポケモンレンジャーの\xfffeじゅんび　まち　です
-Wonder Card\xfffeWhat would you like to do?
-Please pick up your gift from the\xfffedeliveryman in any Poké Mart.
-You have already received\xfffethis gift before.
-This card does not have\xfffea gift attached.
-Date received
-This gift can be distributed　\xf000Ĵ\x0001\x0000 time(s).
+ポケモンレンジャーと\xfffeせつぞく しています
+A Knopf drücken.
+レポートを かいています\xfffeしばらく おまち ください
+タマゴを てんそうちゅう です
+タマゴの じゅしんに\xfffeしっぱい しました
+Bitte berühre Pokémon Rangers\xfffeSpielemenü.
+ポケモンレンジャーの\xfffeじゅんび まち です
+Wunderkarte\xfffeWas würdest du gerne tuen?
+Bitte holen sie sich ihr Geschenk\xfffebeim Empfangsmann im Poké Markt ab.
+Du hast dieses Geschenk\xfffeschon einmal erhalten.
+Diese Karte hat kein Geschenk
+Daten empfangen
+Dieses Geschenk kann \xf000Ĵ\x0001\x0000 maal wiederverteilt werden.
 Info
-Share
-Trash
+Verteilen
+Müll
 Exit
-Would you like to share this gift?
-Yes
-No
-\xf000ĵ\x0001\x0000／\xf000ĳ\x0001\x0001／\xf000ĳ\x0001\x0002
-この　カードを　どうしますか？
-This gift can be shared with as\xfffemany friends as you like.
-Pal Distribution Registration
+Wollen sie dieses Geschenk verteilen?
+Ja
+Nein
+\xf000ĵ\x0001\x0000/\xf000ĳ\x0001\x0001/\xf000ĳ\x0001\x0002
+Was mit der Karte machen?
+Diese Geschenk können sie so oft\xfffewie sie wollen an Freunde verteilen.
+Freundes Verteilung Registrierung
 \xf000ă\x0001\x0000
-ID No. \xf000Ķ\x0001\x0000
-Current\xfffeentries
-\xf000\xff00\x0001\x0001\xf000Ĳ\x0001\x0000\xf000\xff00\x0001\x0000／４
-Send
-Cancel
-Gift distribution under way...\xfffeDon’t turn off the power.
-Your gift distribution\xfffewas successful.
-Throw this card away?
-You haven’t received your gift yet.\xfffeDo you want to discard this card?
-Discarding...\xfffeDon’t turn off the power.
-Yes
-No
-\xf000\xff00\x0001\x0003\xf000ă\x0001\x0000\xf000\xff00\x0001\x0002　\xf000\xff00\x0001\x0000ＩＤＮｏ．\xf000Ķ\x0001\x0001
-ＩＤＮｏ．\xf000Ķ\x0001\x0001
-Application No.:
+ID Nr. \xf000Ķ\x0001\x0000
+Jetzige\xfffeEinträge
+\xf000\xff00\x0001\x0001\xf000Ĳ\x0001\x0000\xf000\xff00\x0001\x0000/４
+Senden
+Abbruch
+Geschenkverteilung am laufen...\xfffeDS nicht ausschalten.
+Deine Geschenkverteilung\xfffewar erfolgreich.
+Diese Karte wegwerfen?
+Du hast dein Geschenk noch nicht erhalten.\xfffeWillst du diese Karte wegschmeisen?
+Wegwerfen...\xfffeDS nicht ausschalten.
+Ja
+Nein
+\xf000\xff00\x0001\x0003\xf000ă\x0001\x0000\xf000\xff00\x0001\x0002 \xf000\xff00\x0001\x0000ID Nr.\xf000Ķ\x0001\x0001
+ID Nr.\xf000Ķ\x0001\x0001
+Antragsnummer:
 \xf000ĵ\x0001\x0000ー\xf000ĵ\x0001\x0001
-Receiving a Recruitment Message\xfffefrom a Pokémon Ranger.
-Awaiting transfer from Pokémon\xfffeRanger.
-Receiving the MANAPHY Egg...\xfffeDon’t turn off the power.
-The transfer has been completed.\xfffeA Button: title screen.
-The connection with Pokémon Ranger\xfffehas been lost... Press the A Button.
-フィオレちほう　から　おくられてきた\xfffeマナフィのタマゴ　だ！
-マナフィのタマゴ
-DS Wireless Communications\xfffewill be launched.
-Connect to Nintendo Wi-Fi Connection?
-Welcome to Mystery Gift!
-Receive Wonder Card
-View Wonder Cards
-Quit
-ふしぎな　おくりものを　うけとるため\xfffeつうしんを　かいしします\xf000븀\x0000\xfffeよろしいですか？
-Yes
-No
-Please choose how you want\xfffeto receive your gift.
+Empfange eine Verstärkunsnachricht\xfffevon einem Pokémon Ranger.
+Erwarte den Transfer vom\xfffePokémon Ranger.
+Empfange MANAPHY Ei...\xfffeDS nicht ausschalten.
+Die Übertragung ist fertig.\xfffeA Knopf: Titelmenü.
+Die Verbindung mit Pokémon Ranger\xfffewurde unterbrochen... Bitte A Knopf drücken.
+Es ist ein MANAPHY Ei\xfffevon der Fiore Region gesendet worden!
+MANAPHY Ei
+DS Wireless Verbindungen\xfffewerden gestartet.
+Mit Nintendo Wi-Fi Connection verbinden?
+Willkommen beim Geheimgeschehen!
+Empfange Wunder Karte
+Karten Album anschaun
+Abbruch
+Verbindung wird nun das\xfffeGeheimgeschehen empfangen.\xf000븀\x0000\xfffeIst das okay?
+Ja
+Nein
+Bitte auswählen wie du das\xfffeGeschenk empfangen willst.
 Wireless
 Nintendo WFC
-InfraRed
-Back
-おくりものの　うけとりかたを\xfffeえらんで　ください
-いらないカードを　１まい　えらんで\xfffeすててください
-カードを　すてないと\xfffeおくりものを　もらえません\xf000븀\x0000\xfffeよろしいですか？
+InfraRot
+Zurück
+Bitte Methode auswählen\xfffezum empfangen des Geheimgeschehens.
+Bitte eine Nutzlose Karte\xfffeauswählen die weggeschmissen werden soll.
+Wenn sie die Karte wegschmeisen\xfffekönnen sie das Geschenk nicht mehr empfangen.\xf000븀\x0000\xfffeIst das okay?
+Ja
+Nein
+Von DS Wireless bekommen?
+Ja
+Nein
+Von Wi-Fi Connection bekommen?
+Ja
+Nein
+せきがいせん つうしんを\xfffeかいし します\xf000븁\x0000\xfffeじぶんと あいての\xfffeＤＳカードを むきあわせて\xf000븀\x0000\xfffeＡボタンを おしてください\xf000븁\x0000
+Ja
+Nein
+Suche nach Geschenken.\xfffeBitte einen Moment warten...
+Bitte suche\xfffeein Gechenk zum empfangen aus.
+Kein Geschenk empfangen?
+Ja
+Nein
+Empfange dieses Geschenk?
+Ja
+Nein
+おくりものを うけとっています\xfffeでんげんを きらないで ください……
+おくりものを うけとりました!\xf000븁\x0000\xfffeポケモンセンターにいる\xfffeはいたついん から うけとってね!\xf000븁\x0000
+アルバムを ほぞん しています……\xfffeでんげんを きらないで ください
+Was willst du mit dieser Karte machen?
+Tauschen
+Löschen
+Zurück
+Kann ein nicht\xfffeempfangenes Geschenk wegschmeissen!\xf000븁\x0000\xfffeBitte holen sie sich ihr Geschenk\xfffebei dem Empfangstyp in dem PokéCenter ab.\xf000븁\x0000
+Karte wurde weggeschmissen.\xf000븁\x0000
+Ausswählen wohin gewechselt werden soll.
+Bist du sicher, dsas du\xfffediese Karte löschen willst?
+Ja
+Nein
+Wodrüber willst du Informationen?
+Über Geheimgeschehen
+Über das Kartenalbum
+Wenn das Album voll ist
+Zurück
+Mehr Informationen
+ふしぎな おくりもの では\xfffeつうしんを つかって\xf000븀\x0000\xfffeすてきな おくりものが うけとれます\xf000븁\x0000\xfffeおくりものを うけとれたら\xfffeぼうけんを かいし して\xf000븀\x0000\xfffeポケモンセンターに いる\xf000븀\x0000\xfffeはいたついんから もらってください\xf000븁\x0000
+ふしぎな おくりものを うけとると\xfffeカードアルバムに\xf000븀\x0000\xfffeふしぎなカードが かざられます\xf000븁\x0000\xfffeふしぎなカードを みると\xfffeはいたついんから\xf000븀\x0000\xfffeおくりものを うけとったか どうかの\xf000븀\x0000\xfffeかくにんが できます\xf000븁\x0000\xfffeまだ もらっていない おくりものは\xfffeうけとりに いきましょう\xf000븁\x0000\xfffeなお アルバムに ほぞん できる\xfffeかずには かぎりが あります\xf000븁\x0000\xfffeぼうけんを はじめていて\xfffeポケモンレポートが あるときは\xf000븀\x0000\xfffe１２まい まで ほぞん できます\xf000븁\x0000\xfffeぼうけんを はじめるまえで\xfffeポケモンレポートが ないときは\xf000븀\x0000\xfffe３まい まで ほぞん できます\xf000븁\x0000\xfffeカードが いっぱいになると あらたに\xfffeおくりものを うけとれなく なるので\xf000븀\x0000\xfffeアルバムを せいり してください\xf000븁\x0000
+カードアルバムが いっぱいに なると\xfffeおくりものが うけとれなく なります\xf000븁\x0000\xfffeあらたに おくりものを\xfffeうけとりたい ときは\xf000븁\x0000\xfffeはいたついんから うけとっている\xfffeふしぎなカードを えらび Ａボタンを\xf000븀\x0000\xfffeおして せいり してください\xf000븁\x0000\xfffeアルバムに ある すべての\xfffeおくりものを もらっていないときは\xf000븁\x0000\xfffeぼうけんを さいかいして\xfffeポケモンセンターに いる\xf000븀\x0000\xfffeはいたついんから うけとってください\xf000븁\x0000
+ふしぎな おくりものを うけとると\xfffeカードアルバムに\xf000븀\x0000\xfffeふしぎなカードが かざられます\xf000븁\x0000\xfffeふしぎなカードを みると\xfffeはいたついんから\xf000븀\x0000\xfffeおくりものを うけとったか どうかの\xf000븀\x0000\xfffeかくにんが できます\xf000븁\x0000\xfffeまだ もらっていない おくりものは\xfffeうけとりに いきましょう\xf000븁\x0000\xfffeなお アルバムに ほぞん できる\xfffeかずには かぎりが あります\xf000븁\x0000\xfffeぼうけんを はじめている ばあいは\xfffe１２まい まで\xf000븁\x0000\xfffeぼうけんを はじめていない ばあいは\xfffe３まい までです\xf000븁\x0000\xfffeカードが いっぱいになると あらたに\xfffeおくりものを うけとれなく なるので\xf000븀\x0000\xfffeアルバムを せいり してください\xf000븁\x0000
+つうしん たいきちゅう です\xfffeしばらく おまちください……
+はいたついんが もっている\xfffeおくりものが いっぱい です!\xf000븁\x0000\xfffeぼうけんを さいかいして\xfffeポケモンセンターに いる\xf000븀\x0000\xfffeはいたついんから\xf000븀\x0000\xfffeおくりものを うけとってください\xf000븁\x0000
+この おくりものは\xfffeいちど うけとったことが あるので\xf000븀\x0000\xfffeうけとることが できません!\xf000븁\x0000
+おくりもの が\xfffeみつかりません でした\xf000븁\x0000
+もうしこみ が きょひ されました\xf000븁\x0000
+ふしぎなカードが いっぱい です!\xf000븁\x0000\xfffeおくりものを\xfffeうけとることが できません!\xf000븁\x0000\xfffeふしぎなカードを\xfffeせいり しますか?
 Yes
 No
-ＤＳワイヤレスつうしん　を\xfffeかいし　します
-Yes
-No
-Ｗｉ－Ｆｉコネクション　に\xfffeせつぞく　しますか？
-Yes
-No
-せきがいせん　つうしんを\xfffeかいし　します\xf000븁\x0000\xfffeじぶんと　あいての\xfffeＤＳカードを　むきあわせて\xf000븀\x0000\xfffeＡボタンを　おしてください\xf000븁\x0000
-Yes
-No
-おくりものを　さがしています\xfffeしばらく　おまちください……
-うけとる　おくりものを\xfffeえらんで　ください
-おくりものの　うけとりを\xfffeやめますか？
-Yes
-No
-この　おくりものを\xfffeうけとりますか？
-Yes
-No
-おくりものを　うけとっています\xfffeでんげんを　きらないで　ください……
-おくりものを　うけとりました！\xf000븁\x0000\xfffeポケモンセンターにいる\xfffeはいたついん　から　うけとってね！\xf000븁\x0000
-アルバムを　ほぞん　しています……\xfffeでんげんを　きらないで　ください
-What to do with this card?
-Switch
-Delete
-Back
-おくりものを　もらっていないので\xfffeすてることは　できません！\xf000븁\x0000\xfffeポケモンセンターに　いる\xfffeはいたついんから　もらってください\xf000븁\x0000
-カードを　すてました\xf000븁\x0000
-Select where to switch to.
-Are you sure you want to\xfffedelete this card?
-Yes
-No
-What do you want Info about?
-About Mystery Gift
-About the card album
-When the album is full
-Back
-More Information
-ふしぎな　おくりもの　では\xfffeつうしんを　つかって\xf000븀\x0000\xfffeすてきな　おくりものが　うけとれます\xf000븁\x0000\xfffeおくりものを　うけとれたら\xfffeぼうけんを　かいし　して\xf000븀\x0000\xfffeポケモンセンターに　いる\xf000븀\x0000\xfffeはいたついんから　もらってください\xf000븁\x0000
-ふしぎな　おくりものを　うけとると\xfffeカードアルバムに\xf000븀\x0000\xfffeふしぎなカードが　かざられます\xf000븁\x0000\xfffeふしぎなカードを　みると\xfffeはいたついんから\xf000븀\x0000\xfffeおくりものを　うけとったか　どうかの\xf000븀\x0000\xfffeかくにんが　できます\xf000븁\x0000\xfffeまだ　もらっていない　おくりものは\xfffeうけとりに　いきましょう\xf000븁\x0000\xfffeなお　アルバムに　ほぞん　できる\xfffeかずには　かぎりが　あります\xf000븁\x0000\xfffeぼうけんを　はじめていて\xfffeポケモンレポートが　あるときは\xf000븀\x0000\xfffe１２まい　まで　ほぞん　できます\xf000븁\x0000\xfffeぼうけんを　はじめるまえで\xfffeポケモンレポートが　ないときは\xf000븀\x0000\xfffe３まい　まで　ほぞん　できます\xf000븁\x0000\xfffeカードが　いっぱいになると　あらたに\xfffeおくりものを　うけとれなく　なるので\xf000븀\x0000\xfffeアルバムを　せいり　してください\xf000븁\x0000
-カードアルバムが　いっぱいに　なると\xfffeおくりものが　うけとれなく　なります\xf000븁\x0000\xfffeあらたに　おくりものを\xfffeうけとりたい　ときは\xf000븁\x0000\xfffeはいたついんから　うけとっている\xfffeふしぎなカードを　えらび　Ａボタンを\xf000븀\x0000\xfffeおして　せいり　してください\xf000븁\x0000\xfffeアルバムに　ある　すべての\xfffeおくりものを　もらっていないときは\xf000븁\x0000\xfffeぼうけんを　さいかいして\xfffeポケモンセンターに　いる\xf000븀\x0000\xfffeはいたついんから　うけとってください\xf000븁\x0000
-ふしぎな　おくりものを　うけとると\xfffeカードアルバムに\xf000븀\x0000\xfffeふしぎなカードが　かざられます\xf000븁\x0000\xfffeふしぎなカードを　みると\xfffeはいたついんから\xf000븀\x0000\xfffeおくりものを　うけとったか　どうかの\xf000븀\x0000\xfffeかくにんが　できます\xf000븁\x0000\xfffeまだ　もらっていない　おくりものは\xfffeうけとりに　いきましょう\xf000븁\x0000\xfffeなお　アルバムに　ほぞん　できる\xfffeかずには　かぎりが　あります\xf000븁\x0000\xfffeぼうけんを　はじめている　ばあいは\xfffe１２まい　まで\xf000븁\x0000\xfffeぼうけんを　はじめていない　ばあいは\xfffe３まい　までです\xf000븁\x0000\xfffeカードが　いっぱいになると　あらたに\xfffeおくりものを　うけとれなく　なるので\xf000븀\x0000\xfffeアルバムを　せいり　してください\xf000븁\x0000
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください……
-はいたついんが　もっている\xfffeおくりものが　いっぱい　です！\xf000븁\x0000\xfffeぼうけんを　さいかいして\xfffeポケモンセンターに　いる\xf000븀\x0000\xfffeはいたついんから\xf000븀\x0000\xfffeおくりものを　うけとってください\xf000븁\x0000
-この　おくりものは\xfffeいちど　うけとったことが　あるので\xf000븀\x0000\xfffeうけとることが　できません！\xf000븁\x0000
-おくりもの　が\xfffeみつかりません　でした\xf000븁\x0000
-もうしこみ　が　きょひ　されました\xf000븁\x0000
-ふしぎなカードが　いっぱい　です！\xf000븁\x0000\xfffeおくりものを\xfffeうけとることが　できません！\xf000븁\x0000\xfffeふしぎなカードを\xfffeせいり　しますか？
-Yes
-No
-おくりものを　うけとるのに\xfffeしっぱい　しました\xf000븁\x0000
-おくりものを　みつけましたが\xfffeこの　バージョンでは\xf000븀\x0000\xfffeうけとることが　できません\xf000븁\x0000
-ゲームを　はじめて　いないので\xfffeこれ　いじょうは　うけとれません\xf000븀\x0000\xfffeぼうけんを　スタートしましょう！\xf000븁\x0000
-カードアルバム
-A: Select
-Back
-\xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
+おくりものを うけとるのに\xfffeしっぱい しました\xf000븁\x0000
+おくりものを みつけましたが\xfffeこの バージョンでは\xf000븀\x0000\xfffeうけとることが できません\xf000븁\x0000
+ゲームを はじめて いないので\xfffeこれ いじょうは うけとれません\xf000븀\x0000\xfffeぼうけんを スタートしましょう!\xf000븁\x0000
+Karten Album
+A: Auswählen
+Zurück
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002
-ふしぎなカード
+Wunder Karte
 もらったひづけ
 \xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002
-Ａ：おわる
-　
-ポケモンえいがを　みにきてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンえいが２０１０を　\xfffeみにThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンえいが２０１１を　\xfffeみにThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンえいが２０１２を　\xfffeみにThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンえいが２０１３を　\xfffeみにThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンえいが２０１４を　\xfffeみにThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンえいが２０１５を　\xfffeみにThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンえいが２０１６を　\xfffeみにThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンえいが２０１７を　\xfffeみにThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンえいが２０１８を　\xfffeみにThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンえいが２０１９を　\xfffeみにThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンえいが２０２０を　\xfffeみにThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンセンターに　きてくれて\xfffeThankyou!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンタートウキョーに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターオーサカに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターフクオカに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターナゴヤに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターサッポロに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターヨコハマに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンワールドチャンピオンシップスに\xfffeさんかしてくれて　Thankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＷＣＳ２０１０に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＷＣＳ２０１１に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＷＣＳ２０１２に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＷＣＳ２０１３に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＷＣＳ２０１４に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＷＣＳ２０１５に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＷＣＳ２０１６に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＷＣＳ２０１７に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＷＣＳ２０１８に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＷＣＳ２０１９に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＷＣＳ２０２０に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓに　きてくれて　\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓ２０１０に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓ２０１１に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓ２０１２に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓ２０１３に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓ２０１４に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓ２０１５に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓ２０１６に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓ２０１７に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓ２０１８に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓ２０１９に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｗｏｒｌｄｓ２０２０に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔに\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１０に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１１に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１２に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１３に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１４に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１５に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１６に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１７に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＶＧＣ２０１０に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＶＧＣ２０１１に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＶＧＣ２０１２に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＶＧＣ２０１３に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＶＧＣ２０１４に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＶＧＣ２０１５に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＶＧＣ２０１６に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＶＧＣ２０１７に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＶＧＣ２０１８に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＶＧＣ２０１９に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ＶＧＣ２０２０に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-イベントに　きてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンの　イベントに　きてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ポケモンを　あそんでくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-おみせに　Thanks for coming! \xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-バトルたいかいに　さんかしてくれて　\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ゲームイベントに　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ゲームイベントからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ポケモンだいすきクラブからの\xfffeプレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ポケモンサンデーを　みてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ポケモンサンデーからの\xfffeプレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-チャレンジひろばに　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-チャレンジひろばからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-バトルチャレンジに　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-バトルチャレンジからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-トレーナーズコートに　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-トレーナーズコートからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-バトルツアーに　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-バトルツアーからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ポケモンの　コンサートに　きてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ポケモンの　アニメを　みてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　Thankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-ダウンロード　してくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-ポケモンレンジャーを　あそんでくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-レンジャーユニオンから\xfffeポケモンほごの　いらいが　きたぞ！\xfffeポケモンは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-レンジャーユニオンから\xfffeタマゴほごの　いらいが　きたぞ！\xfffeタマゴは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンドリームワールドを　\xfffeあそんでくれて　Thankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-ポケモンドリームワールドからの　\xfffeプレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-ＰＤＷを　あそんでくれて　\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-ＰＤＷからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-ポケモンイベント２０１０に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンイベント２０１１に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンイベント２０１２に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンイベント２０１３に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンイベント２０１４に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンイベント２０１５に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンイベント２０１６に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンイベント２０１７に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンイベント２０１８に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンイベント２０１９に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンイベント２０２０に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタに　きてくれて　\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタ２０１０に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタ２０１１に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタ２０１２に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタ２０１３に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタ２０１４に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタ２０１５に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタ２０１６に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタ２０１７に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタ２０１８に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタ２０１９に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケモンフェスタ２０２０に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパークに　きてくれて　\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパークからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ポケパーク２０１０に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパーク２０１１に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパーク２０１２に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパーク２０１３に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパーク２０１４に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパーク２０１５に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパーク２０１６に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパーク２０１７に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパーク２０１８に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパーク２０１９に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-ポケパーク２０２０に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.
-ポケモンえいがを\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンえいが２０１０を　\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンえいが２０１１を　\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンえいが２０１２を　\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンえいが２０１３を　\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンえいが２０１４を　\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンえいが２０１５を　\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンえいが２０１６を　\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンえいが２０１７を　\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンえいが２０１８を　\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンえいが２０１９を　\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンえいが２０２０を　\xfffeみにThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンセンターに\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンセンタートウキョーに　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンセンターオーサカに　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンセンターフクオカに　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンセンターナゴヤに　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンセンターサッポロに　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンセンターヨコハマに　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンワールドチャンピオンシップス\xfffeにさんかしてくれて　Thankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１０に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１１に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１２に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１３に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１４に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１５に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１６に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１７に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１８に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１９に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０２０に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓに　きてくれて　\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓ２０１０に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓ２０１１に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓ２０１２に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓ２０１３に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓ２０１４に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓ２０１５に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓ２０１６に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓ２０１７に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓ２０１８に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓ２０１９に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓ２０２０に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔに\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１０に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１１に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１２に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１３に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１４に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１５に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１６に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１７に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１０に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１１に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１２に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１３に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１４に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１５に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１６に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１７に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１８に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１９に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０２０に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-イベントに　きてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンの　イベントに　きてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンを　あそんでくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-おみせに　Thanks for coming! \xfffeThe deliveryman has a\xfffegift to give you!
-バトルたいかいに　さんかしてくれて　\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ゲームイベントに　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ゲームイベントからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ポケモンだいすきクラブからの\xfffeプレゼント！\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンサンデーを　みてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ポケモンサンデーからの\xfffeプレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-チャレンジひろばに　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-チャレンジひろばからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-バトルチャレンジに　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-バトルチャレンジからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-トレーナーズコートに　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-トレーナーズコートからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-バトルツアーに　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-バトルツアーからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ポケモンの　コンサートに　きてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンの　アニメを　みてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　Thankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ダウンロード　してくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-ポケモンレンジャーを　あそんでくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-レンジャーユニオンから\xfffeポケモンほごの　いらいが　きたぞ！\xfffeポケモンは　はいたついんが\xfffeおわたししました！
-レンジャーユニオンから\xfffeタマゴほごの　いらいが　きたぞ！\xfffeタマゴは　はいたついんが\xfffeおわたししました！
-ポケモンドリームワールドを　\xfffeあそんでくれて　Thankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンドリームワールドからの　\xfffeプレゼント！\xfffeThe deliveryman has a\xfffegift to give you!
-ＰＤＷを　あそんでくれて　\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＰＤＷからの　プレゼント！\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンイベント２０１０に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンイベント２０１１に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンイベント２０１２に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンイベント２０１３に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンイベント２０１４に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンイベント２０１５に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンイベント２０１６に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンイベント２０１７に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンイベント２０１８に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンイベント２０１９に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンイベント２０２０に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタに　きてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタ２０１０に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタ２０１１に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタ２０１２に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタ２０１３に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタ２０１４に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタ２０１５に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタ２０１６に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタ２０１７に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタ２０１８に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタ２０１９に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタ２０２０に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパークに　きてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパークからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
-ポケパーク２０１０に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパーク２０１１に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパーク２０１２に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパーク２０１３に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパーク２０１４に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパーク２０１５に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパーク２０１６に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパーク２０１７に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパーク２０１８に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパーク２０１９に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパーク２０２０に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
-The deliveryman has a\xfffegift to give you!
+A: Abbruch
+ 
+Pokémon Film\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Film 2010\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Film 2011\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Film 2012\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Film 2013\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Film 2014\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Film 2015\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Film 2016\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Film 2017\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Film 2018\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Film 2019\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Film 2020\xfffeDanke fürs gucken!\xfffeBitte empfange dein Geschenk\xfffebei dem Empfangstyp\xfffeim Pokemon Center.\xfffe
+Pokémon Center\xfffeDanke!\xfffeRecieve your Gift from\xfffethe in-game deliveryman!
+Pokémon Center Tokyo\xfffeDanke für's kommen!\xfffeRecieve your Gift from\xfffethe in-game deliveryman!
+Pokémon Center Osaka\xfffeDanke für's kommen!\xfffeRecieve your Gift from\xfffethe in-game deliveryman!
+Pokémon Center Fukuoka\xfffeDanke für's kommen!\xfffeRecieve your Gift from\xfffethe in-game deliveryman!
+Pokémon Center Nagoya\xfffeDanke für's kommen!\xfffeRecieve your Gift from\xfffethe in-game deliveryman!
+Pokémon Center Sapporo\xfffeDanke für's kommen!\xfffeRecieve your Gift from\xfffethe in-game deliveryman!
+Pokémon Center Yokohama\xfffeDanke für's kommen!\xfffeRecieve your Gift from\xfffethe in-game deliveryman!
+Pokémon World Championships\xfffeThanks for participating!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+ＷＣＳ２０１０に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＷＣＳ２０１１に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＷＣＳ２０１２に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＷＣＳ２０１３に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＷＣＳ２０１４に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＷＣＳ２０１５に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＷＣＳ２０１６に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＷＣＳ２０１７に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＷＣＳ２０１８に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＷＣＳ２０１９に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＷＣＳ２０２０に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓに きてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１０に\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１１に\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１２に\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１３に\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１４に\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１５に\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１６に\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１７に\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１８に\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１９に\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０２０に\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔに\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１０に Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１１に Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１２に Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１３に Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１４に Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１５に Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１６に Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１７に Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＶＧＣ２０１０に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＶＧＣ２０１１に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＶＧＣ２０１２に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＶＧＣ２０１３に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＶＧＣ２０１４に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＶＧＣ２０１５に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＶＧＣ２０１６に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＶＧＣ２０１７に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＶＧＣ２０１８に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＶＧＣ２０１９に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ＶＧＣ２０２０に さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+イベントに きてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.\xfffe
+ポケモンの イベントに きてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ポケモンを あそんでくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+おみせに Danke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+バトルたいかいに さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ゲームイベントに さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ゲームイベントからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ポケモンだいすきクラブからの\xfffeプレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ポケモンサンデーを みてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ポケモンサンデーからの\xfffeプレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+チャレンジひろばに さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+チャレンジひろばからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+バトルチャレンジに さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+バトルチャレンジからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+トレーナーズコートに さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+トレーナーズコートからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+バトルツアーに さんかしてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+バトルツアーからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ポケモンの コンサートに きてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ポケモンの アニメを みてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+Ｗｉ－Ｆｉコネクションを\xfffeあそんでくれて Danke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+ダウンロード してくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+ポケモンレンジャーを あそんでくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+レンジャーユニオンから\xfffeポケモンほごの いらいが きたぞ!\xfffeポケモンは ポケモンセンターにいる\xfffeはいたついんから うけとってね!
+レンジャーユニオンから\xfffeタマゴほごの いらいが きたぞ!\xfffeタマゴは ポケモンセンターにいる\xfffeはいたついんから うけとってね!
+ポケモンドリームワールドを\xfffeあそんでくれて Danke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+ポケモンドリームワールドからの\xfffeプレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+ＰＤＷを あそんでくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+ＰＤＷからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Pokémon Event 2010\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Event 2011\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Event 2012\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Event 2013\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Event 2014\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Event 2015\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Event 2016\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Event 2017\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Event 2018\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Event 2019\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Event 2020\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa 2010\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa 2011\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa 2012\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa 2013\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa 2014\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa 2015\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa 2016\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa 2017\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa 2018\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa 2019\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Pokémon Festa 2020\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark Present!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center!\xfffe
+PokéPark 2010\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark 2011\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark 2012\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark 2013\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark 2014\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark 2015\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark 2016\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark 2017\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark 2018\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark 2019\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+PokéPark 2020\xfffeDanke für's kommen!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokémon Center.\xfffe
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+Empfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center.
+ポケモンえいがを\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンえいが２０１０を\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンえいが２０１１を\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンえいが２０１２を\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンえいが２０１３を\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンえいが２０１４を\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンえいが２０１５を\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンえいが２０１６を\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンえいが２０１７を\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンえいが２０１８を\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンえいが２０１９を\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンえいが２０２０を\xfffeDanke für's gucken!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンセンターに\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンセンタートウキョーに\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンセンターオーサカに\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンセンターフクオカに\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンセンターナゴヤに\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンセンターサッポロに\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンセンターヨコハマに\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンワールドチャンピオンシップス\xfffeにさんかしてくれて Danke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＷＣＳ２０１０に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＷＣＳ２０１１に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＷＣＳ２０１２に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＷＣＳ２０１３に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＷＣＳ２０１４に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＷＣＳ２０１５に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＷＣＳ２０１６に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＷＣＳ２０１７に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＷＣＳ２０１８に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＷＣＳ２０１９に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＷＣＳ２０２０に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓに きてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓ２０１０に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓ２０１１に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓ２０１２に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓ２０１３に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓ２０１４に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓ２０１５に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓ２０１６に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓ２０１７に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓ２０１８に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓ２０１９に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｗｏｒｌｄｓ２０２０に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔに\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１０に Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１１に Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１２に Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１３に Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１４に Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１５に Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１６に Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１７に Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＶＧＣ２０１０に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＶＧＣ２０１１に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＶＧＣ２０１２に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＶＧＣ２０１３に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＶＧＣ２０１４に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＶＧＣ２０１５に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＶＧＣ２０１６に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＶＧＣ２０１７に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＶＧＣ２０１８に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＶＧＣ２０１９に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＶＧＣ２０２０に さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+イベントに きてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンの イベントに きてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンを あそんでくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+おみせに Danke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+バトルたいかいに さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ゲームイベントに さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ゲームイベントからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ポケモンだいすきクラブからの\xfffeプレゼント!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンサンデーを みてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ポケモンサンデーからの\xfffeプレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+チャレンジひろばに さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+チャレンジひろばからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+バトルチャレンジに さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+バトルチャレンジからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+トレーナーズコートに さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+トレーナーズコートからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+バトルツアーに さんかしてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+バトルツアーからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ポケモンの コンサートに きてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンの アニメを みてくれて\xfffeDanke!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+Ｗｉ－Ｆｉコネクションを\xfffeあそんでくれて Danke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ダウンロード してくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンレンジャーを あそんでくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+レンジャーユニオンから\xfffeポケモンほごの いらいが きたぞ!\xfffeポケモンは はいたついんが\xfffeおわたししました!
+レンジャーユニオンから\xfffeタマゴほごの いらいが きたぞ!\xfffeタマゴは はいたついんが\xfffeおわたししました!
+ポケモンドリームワールドを\xfffeあそんでくれて Danke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンドリームワールドからの\xfffeプレゼント!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＰＤＷを あそんでくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ＰＤＷからの プレゼント!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンイベント２０１０に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンイベント２０１１に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンイベント２０１２に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンイベント２０１３に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンイベント２０１４に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンイベント２０１５に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンイベント２０１６に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンイベント２０１７に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンイベント２０１８に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンイベント２０１９に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンイベント２０２０に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタに きてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタ２０１０に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタ２０１１に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタ２０１２に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタ２０１３に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタ２０１４に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタ２０１５に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタ２０１６に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタ２０１７に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタ２０１８に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタ２０１９に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケモンフェスタ２０２０に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパークに きてくれて\xfffeDanke!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパークからの プレゼント!\xfffeEmpfange dein Geschenk vom\xfffeGeschenkboten im Pokemon Center!\xfffe
+ポケパーク２０１０に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパーク２０１１に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパーク２０１２に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパーク２０１３に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパーク２０１４に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパーク２０１５に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパーク２０１６に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパーク２０１７に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパーク２０１８に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパーク２０１９に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+ポケパーク２０２０に\xfffeDanke für's kommen!\xfffeDer Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
+Der Geschenkbote hat ein\xfffeGeschenk für dich!
